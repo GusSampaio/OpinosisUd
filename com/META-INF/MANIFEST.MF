@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: . opinosis_lib/org.hamcrest.core_1.1.0.v20090501071000.jar
+  opinosis_lib/log4j-1.2.15.jar opinosis_lib/commons-collections-3.2.1
+ .jar opinosis_lib/commons-codec-1.4.jar opinosis_lib/jgrapht.jar opin
+ osis_lib/junit.jar opinosis_lib/args4j-2.0.5.jar
+Main-Class: com.opinosis.OpinosisMain
+

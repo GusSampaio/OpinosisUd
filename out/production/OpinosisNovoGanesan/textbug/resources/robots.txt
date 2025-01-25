@@ -1,0 +1,51 @@
+# Disallow all crawlers access to certain pages.
+
+User-agent: *
+Disallow: /exec/obidos/account-access-login
+Disallow: /exec/obidos/change-style
+Disallow: /exec/obidos/flex-sign-in
+Disallow: /exec/obidos/handle-buy-box
+Disallow: /exec/obidos/tg/cm/member
+Disallow: /gp/cart
+Disallow: /gp/flex
+Disallow: /gp/product/e-mail-friend
+Disallow: /gp/product/product-availability
+Disallow: /gp/product/rate-this-item
+Disallow: /gp/sign-in
+Disallow: /gp/reader
+Disallow: /gp/sitbv3/reader
+Disallow: /gp/richpub/syltguides/create
+Disallow: /gp/gfix
+Disallow: /gp/associations/wizard.html
+Disallow: /gp/dmusic/order
+Disallow: /gp/legacy-handle-buy-box.html
+Disallow: /gp/aws/ssop
+Disallow: /gp/yourstore
+Disallow: /gp/gift-central/organizer/add-wishlist
+Disallow: /gp/vote
+Disallow: /gp/music/wma-pop-up
+Disallow: /gp/customer-images
+Disallow: /gp/richpub/listmania/createpipeline
+Disallow: /gp/content-form
+Disallow: /gp/pdp/invitation/invite
+Disallow: /gp/customer-reviews/write-a-review.html
+Disallow: /gp/associations/wizard.html
+Disallow: /gp/music/clipserve
+Disallow: /gp/offer-listing
+Disallow: /gp/customer-media/upload
+Disallow: /gp/history
+Disallow: /gp/item-dispatch
+Disallow: /gp/dmusic/order/handle-buy-box.html
+Disallow: /gp/recsradio
+
+# Sitemap files
+Sitemap: http://www.amazon.com/sitemap-manual-index.xml
+Sitemap: http://www.amazon.com/sitemap-manual-tv.xml
+Sitemap: http://www.amazon.com/sitemap-us-tbb.xml
+Sitemap: http://www.amazon.com/sitemap_artists_index.xml
+Sitemap: http://www.amazon.com/sitemap_backfill_dp_index.xml
+Sitemap: http://www.amazon.com/sitemap_index_0.xml
+Sitemap: http://www.amazon.com/sitemap_index_1.xml
+Sitemap: http://www.amazon.com/sitemap_index_2.xml
+Sitemap: http://www.amazon.com/sitemap_index_3.xml
+Sitemap: http://www.amazon.com/sitemap_index_4.xml

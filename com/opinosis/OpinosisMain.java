@@ -59,7 +59,6 @@ public class OpinosisMain extends OpinosisSettings {
     }
 
     public static void main(String[] args) {
-        System.out.println("Novo teste1");
         OpinosisMain main = new OpinosisMain();
         main.start(args);
     }

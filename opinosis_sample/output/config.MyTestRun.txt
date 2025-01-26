@@ -1,7 +1,0 @@
--- listing properties --
-run_id=MyTestRun
-max_summary=2
-gap=3
-redundancy=1
-scoring_function=3
-collapse=true

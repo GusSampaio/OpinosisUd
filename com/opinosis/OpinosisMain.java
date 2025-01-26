@@ -59,11 +59,14 @@ public class OpinosisMain extends OpinosisSettings {
     }
 
     public static void main(String[] args) {
-        OpinosisMain main = new OpinosisMain();
-        main.start(args);
+        List<String> algos = List.of("Penn", "Penn_adapted", "UD");
+        for (String algo : algos){
+            OpinosisMain main = new OpinosisMain();
+            main.start(args, algo);
+        }
     }
 
-    private void start(String[] args) {
+    private void start(String[] args, String algo) {
         MyOptions bean = new MyOptions();
         CmdLineParser parser = new CmdLineParser(bean);
         try {
@@ -95,14 +98,14 @@ public class OpinosisMain extends OpinosisSettings {
         }
         int i = 1;
         for (String infile : filesToSum) {
-            String outfile = getOutputFileName(outputDir, infile);
-            doGenerateSummary(infile, outfile, i++);
+            String outfile = getOutputFileName(outputDir, infile, algo);
+            doGenerateSummary(infile, outfile, i++, algo);
         }
         long tend = System.currentTimeMillis();
         System.out.println("Took " + (tend - tstart) + "ms");
     }
 
-    private String getOutputFileName(String dirOut, String file) {
+    private String getOutputFileName(String dirOut, String file, String algo) {
         int idxStart = file.lastIndexOf(FILE_SEP);
         int idxEnd = file.indexOf('.', idxStart);
         if (idxEnd == -1)
@@ -111,7 +114,7 @@ public class OpinosisMain extends OpinosisSettings {
         String runOutputPath = String.valueOf(dirOut) + FILE_SEP + this.strRundId + FILE_SEP;
         File f = new File(runOutputPath);
         f.mkdirs();
-        theOutFile = String.valueOf(runOutputPath) + file.substring(idxStart, idxEnd) + "." + this.strRundId + ".system";
+        theOutFile = String.valueOf(runOutputPath)+ file.substring(idxStart, idxEnd) + "_" + algo + "." + this.strRundId + ".system";
         try {
             PrintWriter writer = new PrintWriter(String.valueOf(dirOut) + FILE_SEP + "config." + this.strRundId + ".txt");
             this.properties.list(writer);
@@ -123,7 +126,7 @@ public class OpinosisMain extends OpinosisSettings {
         return theOutFile;
     }
 
-    public void doGenerateSummary(String fileName, String outfile, int taskId) {
+    public void doGenerateSummary(String fileName, String outfile, int taskId, String algo) {
         SimpleDirectedWeightedGraph<Node, DefaultWeightedEdge> g = new SimpleDirectedWeightedGraph(DefaultWeightedEdge.class);
         OpinosisGraphBuilder builder = new OpinosisGraphBuilder();
         HashMap<String, Node> wordNodeMap = null;

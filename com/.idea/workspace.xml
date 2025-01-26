@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b4bc87-5bde-4998-8d89-67cac79172d4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/com/resources/adjectives.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/resources/adjectives1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/resources/stoplist.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opinosis_sample/output/MyTestRun/1984_Capitulos.MyTestRun.system" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opinosis_sample/output/MyTestRun/1984_Estilo.MyTestRun.system" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opinosis_sample/output/MyTestRun/1984_Falas.MyTestRun.system" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opinosis_sample/output/MyTestRun/bathroom_bestwestern_hotel_sfo.MyTestRun.system" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opinosis_sample/output/MyTestRun/copo_acrilico.MyTestRun.system" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opinosis_sample/output/MyTestRun/fogao.MyTestRun.system" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opinosis_sample/output/MyTestRun/food_holiday_inn_london.MyTestRun.system" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opinosis_sample/output/MyTestRun/panelas.MyTestRun.system" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/opinosis_sample/output/config.MyTestRun.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="d6b4bc87-5bde-4998-8d89-67cac79172d4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +37,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,7 +69,7 @@
       <updated>1736117634508</updated>
       <workItem from="1736117635011" duration="604000" />
       <workItem from="1736118247886" duration="500000" />
-      <workItem from="1737808376500" duration="8146000" />
+      <workItem from="1737808376500" duration="9683000" />
     </task>
     <servers />
   </component>

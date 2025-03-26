@@ -311,7 +311,6 @@ public abstract class OpinosisCore extends OpinosisSettings {
 
         double theAdjustedScore = this.computeAdjustedScore(theScore, thePathLen);
 
-        // TODO: Adicionar if de 'algo' aqui
         if (this.isValidCandidate(this.mAnchor + " " + theCandidateStr)) {
             if (isCollapsedCandidate) {
                 Candidate cc = (Candidate)this.ccList.get(theCandidateStr);

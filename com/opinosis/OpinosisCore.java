@@ -257,7 +257,7 @@ public abstract class OpinosisCore extends OpinosisSettings {
                 info.theNodeList = nl;
             }
 
-            int startFrom = false;
+            boolean startFrom = false;
 
             for(int a = 0; a < list.size(); ++a) {
                 if (!((Candidate)list.get(a)).discard) {

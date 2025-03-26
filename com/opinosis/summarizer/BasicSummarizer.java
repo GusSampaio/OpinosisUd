@@ -19,7 +19,7 @@ import org.jgrapht.graph.SimpleDirectedWeightedGraph;
 import org.textbug.utility.MathUtil;
 
 public class BasicSummarizer extends OpinosisCore {
-    public BasicSummarizer(SimpleDirectedWeightedGraph<Node, DefaultWeightedEdge> g, HashMap<String, Node> wordNodeMap, Writer printer, String algo) {
+    public BasicSummarizer(SimpleDirectedWeightedGraph<Node, DefaultWeightedEdge> g, HashMap<String, Node> wordNodeMap, Writer printer) {
         super(g, wordNodeMap, printer);
     }
     // Estrutura ganesan

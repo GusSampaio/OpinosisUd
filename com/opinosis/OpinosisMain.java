@@ -150,7 +150,7 @@ public class OpinosisMain extends OpinosisSettings {
         try {
             System.out.println("Started summary generation...");
             BufferedWriter printer = FileUtil.getWriter(outfile);
-            BasicSummarizer basicSummarizer = new BasicSummarizer(g, wordNodeMap, printer);
+            BasicSummarizer basicSummarizer = new BasicSummarizer(g, wordNodeMap, printer, algo);
             basicSummarizer.start();
             System.out.println("Generated: " + outfile);
             System.gc();

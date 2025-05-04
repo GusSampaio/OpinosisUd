@@ -59,7 +59,6 @@ public class OpinosisMain extends OpinosisSettings {
     }
 
     public static void main(String[] args) {
-        //List<String> algos = List.of("Penn", "Penn_adapted", "UD");
         OpinosisMain main = new OpinosisMain();
         main.start(args);
     }

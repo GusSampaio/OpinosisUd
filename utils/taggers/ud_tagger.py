@@ -1,6 +1,5 @@
 import requests
 import os
-import spacy
 import logging
 
 def load_text(path):

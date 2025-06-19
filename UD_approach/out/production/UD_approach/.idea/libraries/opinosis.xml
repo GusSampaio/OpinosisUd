@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="opinosis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/opinosis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="opinosis_lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/opinosis_lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/opinosis_lib/args4j-2.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/opinosis_lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/opinosis_lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/opinosis_lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/opinosis_lib/org.hamcrest.core_1.1.0.v20090501071000.jar!/" />
+      <root url="jar://$PROJECT_DIR$/opinosis_lib/jgrapht.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

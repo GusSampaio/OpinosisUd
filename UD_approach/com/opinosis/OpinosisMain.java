@@ -1,6 +1,7 @@
 package com.opinosis;
 
 import com.opinosis.summarizer.BasicSummarizer;
+import com.opinosis.summarizer.GraphViewer;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -19,6 +20,7 @@ import org.jgrapht.graph.SimpleDirectedWeightedGraph;
 import org.kohsuke.args4j.CmdLineException;
 import org.kohsuke.args4j.CmdLineParser;
 import org.textbug.utility.FileUtil;
+import javax.swing.SwingUtilities;
 
 public class OpinosisMain extends OpinosisSettings {
     String strRundId = "";
@@ -144,6 +146,16 @@ public class OpinosisMain extends OpinosisSettings {
         System.out.println("Graph materialized...");
         Writer bla = new PrintWriter(System.out);
         g = builder.getGraph();
+        
+        // Cria uma cópia final do grafo para usar na visualização
+        final SimpleDirectedWeightedGraph<Node, DefaultWeightedEdge> finalGraph = g;
+        
+        // Adiciona visualização do grafo
+        SwingUtilities.invokeLater(() -> {
+            GraphViewer viewer = new GraphViewer(finalGraph);
+            viewer.setVisible(true);
+        });
+        
         try {
             System.out.println("Started summary generation...");
             BufferedWriter printer = FileUtil.getWriter(outfile);

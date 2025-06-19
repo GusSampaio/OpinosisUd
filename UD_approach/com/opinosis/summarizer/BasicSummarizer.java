@@ -24,25 +24,25 @@ public class BasicSummarizer extends OpinosisCore {
     }
 
     // Estrutura UD
-    // TODO: Criar formato de VSN para UD em função isVSN
     public boolean isValidCandidate(String str) {
         boolean isGood = false;
+        // Nosso verb pode pegar mais coisas que o da ganesan, que eh soh base form (VB), o mesmo vale para adj
         if (str.matches(".*(/adj)*.*(/noun)+.*(/verb)+.*(/adj)+.*")) {
             isGood = true;
-        } else if (str.matches(".*(/det)*.*(/noun)+.*(/aux)+.*(/adj)+.*")){ //adicionado
+        } else if (str.matches(".*(/det)*.*(/noun)+.*(/aux)+.*(/adj)+.*")){ //nos adicionamos, pq?
             isGood = true;
         } else if (!str.matches(".*(/det).*") && str.matches(".*(/adv)*.*(/adj)+.*(/noun)+.*")) {
             isGood = true;
-        } else if (str.matches(".*(/prp|/det)+.*(/verb)+.*(/adv|/adj)+.*(/noun)+.*")) {
+        } else if (str.matches(".*(/pron|/det)+.*(/verb)+.*(/adv|/adj)+.*(/noun)+.*")) { // regra 1 modificada do roque
             isGood = true;
-        } else if (str.matches(".*(/adj)+.*(/adp)+.*(/verb).*")) {
+        } else if (str.matches(".*(/adj)+.*(para/adp)+.*(/verb).*")) {
             isGood = true;
         } else if (str.matches(".*(/adv)+.*(/adp)+.*(/noun)+.*")) {
             isGood = true;
         }
 
         String last = str.substring(str.lastIndexOf(' '), str.length());
-        if (last.matches(".*(/adp|/cconj|det|/,)")) { // TODO: revisar tags
+        if (last.matches(".*(/verb|/adp|/cconj|/det|/pron|,/punct)")) {
             isGood = false;
         }
 
@@ -85,11 +85,11 @@ public class BasicSummarizer extends OpinosisCore {
         if (x.getAveragePos() <= 15.0D) {
             if ((nname.contains("/adj")) ||
                     (nname.contains("/adv")) ||
-                    //(nname.contains("/propess$")) ||
+                    (nname.contains("/det")) || // pag 9 manual pos -> entendemos como pronome possesivo
+                    (nname.contains("/verb")) ||
                     (nname.contains("/noun")) ||
-                    (nname.contains("/det")) ||
                     (nname.matches("^(seu/|sua/|nosso/|nossa/|quando/).*")) || //pron. possesivos e conjunção
-                    (nname.contains("o/propess")) ||
+                    (nname.contains("o/pron")) ||
                     (nname.contains("se/")) ||
                     (nname.contains("para/"))) {
                 return true;

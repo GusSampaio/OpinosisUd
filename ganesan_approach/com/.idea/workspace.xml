@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="452f6ed5-09a6-483d-8edd-5fe7a384251a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../UD_approach/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/Candidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/GraphBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/MyOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/OpinosisCandidateGen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/OpinosisCore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/OpinosisCore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/OpinosisFramework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/OpinosisGraphBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/OpinosisMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/OpinosisMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/OpinosisSettings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/OpinosisSummarizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/SentenceInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/SummarySorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/WordInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/resources/adjectives.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/resources/adjectives1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/resources/stoplist.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/summarizer/BasicSummarizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/com/opinosis/summarizer/BasicSummarizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/opinosis_sample/output/MyTestRun/copo_acrilico_.MyTestRun.system" beforeDir="false" afterPath="$PROJECT_DIR$/../UD_approach/opinosis_sample/output/MyTestRun/copo_acrilico_.MyTestRun.system" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/opinosis_sample/output/MyTestRun/fogao_.MyTestRun.system" beforeDir="false" afterPath="$PROJECT_DIR$/../UD_approach/opinosis_sample/output/MyTestRun/fogao_.MyTestRun.system" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/opinosis_sample/output/MyTestRun/panelas_.MyTestRun.system" beforeDir="false" afterPath="$PROJECT_DIR$/../UD_approach/opinosis_sample/output/MyTestRun/panelas_.MyTestRun.system" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UD_approach/opinosis_sample/output/MyTestRun/tag_ud_.MyTestRun.system" beforeDir="false" afterPath="$PROJECT_DIR$/../UD_approach/opinosis_sample/output/MyTestRun/tag_ud_.MyTestRun.system" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils/taggers/penn_treebank_tagger.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utils/taggers/penn_treebank_tagger.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2urLNq3LQ25HN6nIucIqfGHmjUZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.OpinosisMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/cod_usp/IC/grafos/OpinosisUd/UD_approach&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cod_usp\IC\grafos\OpinosisUd\ganesan_approach\opinosis_sample\input" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="OpinosisMain" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.opinosis.OpinosisMain" />
+      <module name="OpinosisNovoGanesan" />
+      <option name="PROGRAM_PARAMETERS" value="-b opinosis_sample/" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ganesan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ganesan" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="452f6ed5-09a6-483d-8edd-5fe7a384251a" name="Changes" comment="" />
+      <created>1743001709040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743001709040</updated>
+      <workItem from="1743001710042" duration="21000" />
+      <workItem from="1743001738367" duration="241000" />
+      <workItem from="1743002715244" duration="2544000" />
+      <workItem from="1743007337117" duration="1829000" />
+      <workItem from="1743705616423" duration="2815000" />
+      <workItem from="1744481671870" duration="756000" />
+      <workItem from="1745409604756" duration="1123000" />
+      <workItem from="1746288109983" duration="2205000" />
+      <workItem from="1746387638453" duration="1629000" />
+      <workItem from="1746736800319" duration="1202000" />
+      <workItem from="1746746280789" duration="850000" />
+      <workItem from="1746792986408" duration="717000" />
+      <workItem from="1747318004442" duration="4587000" />
+      <workItem from="1750168726394" duration="1231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/opinosis/summarizer/BasicSummarizer.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

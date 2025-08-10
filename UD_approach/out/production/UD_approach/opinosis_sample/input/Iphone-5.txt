@@ -1,0 +1,41 @@
+este/PRON é/AUX dez/NUM este/DET produto/NOUN é/AUX exelente/ADJ ,/PUNCT temho/VERB um/DET amigo/NOUN que/PRON tem/VERB ,/PUNCT deixou/VERB o/DET iphone/NOUN em/ADP o/DET bolos/NOUN
+O/PRON que/PRON gostei/VERB :/PUNCT estiloso/ADJ ,/PUNCT leve/ADJ ,/PUNCT charmoso/ADJ
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT nao/ADV posso/VERB ter/VERB ,/PUNCT o/DET preço/NOUN ainda/ADV é/AUX salgado/ADJ
+Quero/VERB ter/VERB um/NUM !/PUNCT
+Parece/VERB ser/AUX um/DET excelente/ADJ produto/NOUN ./PUNCT
+Pena/NOUN que/SCONJ em/ADP o/DET Brasil/PROPN os/DET impostos/NOUN sejam/AUX tão/ADV caros/ADJ ./PUNCT
+O/PRON que/PRON gostei/VERB :/PUNCT
+Tem/VERB tudo/PRON que/PRON precisamos/VERB ./PUNCT
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+O/DET preço/NOUN ./PUNCT
+Excelente/ADJ Ainda/ADV não/ADV tenho/VERB mas/CCONJ é/AUX meu/DET sonho/NOUN de/ADP consumo/NOUN ,/PUNCT pois/SCONJ se/PRON trata/VERB de/ADP um/DET produto/NOUN bonito/ADJ e/CCONJ muito/ADV bom/ADJ
+Sonho/VERB de/ADP consumo/NOUN !/PUNCT
+As/DET descrições/NOUN de/ADP o/DET produto/NOUN são/AUX excelentes/ADJ ,/PUNCT portátio/ADJ ,/PUNCT fácil/ADJ manuseio/NOUN e/CCONJ com/ADP uma/DET câmera/NOUN de/ADP ótima/ADJ qualidade/NOUN ,/PUNCT é/AUX muito/ADV bom/ADJ poder/VERB falar/VERB com/ADP alguém/PRON de/ADP o/DET outro/DET lado/NOUN de/ADP o/DET mundo/NOUN por/ADP meio/NOUN de/ADP a/DET videoconferência/NOUN que/PRON o/DET iPhone/PROPN oferece/VERB em/ADP suas/DET funções/NOUN ,/PUNCT enfim/ADV ,/PUNCT totalmente/ADV aprovado/VERB !/PUNCT !/PUNCT
+IPhone/PROPN 5/NUM Insuperável/ADJ !/PUNCT
+Sou/AUX advogada/ADJ e/CCONJ preciso/ADJ carregar/VERB o/DET maior/ADJ número/NOUN de/ADP informações/NOUN e/CCONJ ter/VERB acesso/NOUN a/ADP todos/DET os/DET recursos/NOUN possíveis/ADJ e/CCONJ o/DET IPhone/PROPN 5/PROPN é/AUX praticamente/ADV a/DET extensão/NOUN de/ADP meu/DET escritório/NOUN ./PUNCT
+Tenho/VERB á/ADP disposição/NOUN os/DET aplicativos/NOUN para/SCONJ consultar/VERB os/DET processos/NOUN em/ADP quase/ADV todos/DET os/DET tribunais/NOUN ,/PUNCT acesso/NOUN as/ADP minhas/DET contas/NOUN bancárias/ADJ ,/PUNCT aplicativos/NOUN de/ADP trânsito/NOUN que/PRON permitem/VERB evitar/VERB engarrafamentos/NOUN e/CCONJ perda/NOUN de/ADP tempo/NOUN ,/PUNCT enfim/ADV ,/PUNCT se/SCONJ eu/PRON fosse/AUX colocar/VERB tudo/PRON o/PRON que/PRON este/DET aparelho/NOUN faz/VERB não/ADV haveria/VERB espaço/NOUN ./PUNCT
+Simplesmente/ADV fantástico/ADJ !/PUNCT
+Eu/PRON recomendo/VERB !/PUNCT
+Iphone/PROPN 5/NUM ,/PUNCT um/DET grande/ADJ prêmio/NOUN !/PUNCT
+Moro/VERB com/ADP meu/DET primo/NOUN ,/PUNCT que/PRON a/SCONJ o/DET ir/VERB a/ADP os/DET EUA/PROPN resolveu/VERB trocar/VERB seu/DET Iphone/PROPN 4s/PROPN por/ADP um/DET Iphone/PROPN 5/NUM ./PUNCT
+A/DET tela/NOUN com/ADP certeza/NOUN é/AUX algo/PRON que/PRON impressiona/VERB ,/PUNCT possuindo/VERB 4/NUM polegadas/NOUN ,/PUNCT uma/DET resolução/NOUN de/ADP 1136/NUM x/ADP 640/NUM pixels/NOUN ,/PUNCT e/CCONJ ainda/ADV com/ADP um/DET vidro/NOUN de/ADP alta/ADJ resistência/NOUN ./PUNCT
+As/DET cores/NOUN parecem/VERB ser/AUX mais/ADV vivas/ADJ ,/PUNCT as/DET fotos/NOUN ficam/VERB lindas/ADJ devido/ADV a/ADP a/DET alta/ADJ resolução/NOUN de/ADP 3264/NUM x/PUNCT 2448/NUM pixels/NOUN ;/PUNCT e/CCONJ os/DET vídeos/NOUN em/ADP full/ADJ HD/NOUN .../PUNCT é/AUX difícil/ADJ de/SCONJ acreditar/VERB que/SCONJ foram/AUX feitos/VERB via/ADP celular/NOUN ./PUNCT
+Algo/PRON que/PRON para/ADP mim/PRON é/AUX extremamente/ADV relevante/ADJ ,/PUNCT refere/VERB se/PRON a/ADP a/DET Rede/PROPN LTE/PROPN 4G/PROPN ,/PUNCT para/ADP uma/DET maior/ADJ rapidez/NOUN quando/SCONJ desejo/VERB navegar/VERB em/ADP a/DET internet/PROPN ,/PUNCT além/ADV de/ADP a/DET sua/DET memória/NOUN de/ADP 64/NUM GB/NOUN ,/PUNCT uma/DET vez/NOUN que/SCONJ faço/VERB muitos/DET downloads/NOUN referente/ADJ a/ADP o/DET meu/DET curso/NOUN para/SCONJ poder/VERB estudar/VERB ./PUNCT
+Em/ADP o/DET caso/NOUN de/ADP a/DET bateria/NOUN ,/PUNCT a/DET utilização/NOUN de/ADP a/DET Internet/PROPN acarreta/VERB em/ADP um/DET gasto/NOUN maior/ADJ ,/PUNCT porém/CCONJ quando/ADV em/ADP Stand/PROPN by/PROPN ,/PUNCT tem/VERB se/PRON uma/DET durabilidade/NOUN impressionante/ADJ se/SCONJ comparada/VERB a/ADP a/ADP outros/DET Smartphones/PROPN ./PUNCT
+Com/ADP certeza/NOUN trata/VERB se/PRON de/ADP um/DET iOS/PROPN muito/ADV avançado/ADJ ,/PUNCT e/CCONJ apesar/ADV de/ADP ter/VERB tudo/PRON e/CCONJ mais/ADV um/DET pouco/PRON que/PRON qualquer/DET pessoa/NOUN deseja/VERB em/ADP um/DET celular/NOUN ,/PUNCT não/ADV é/AUX pesado/ADJ e/CCONJ nem/ADV muito/ADV grande/ADJ ,/PUNCT além/ADV de/ADP ser/AUX extremamente/ADV fino/ADJ com/ADP apenas/ADV 7.6/NUM mm/NOUN ,/PUNCT o/PRON que/PRON facilita/VERB em/ADP a/DET hora/NOUN de/SCONJ carregá/VERB lo/PRON para/ADP todos/DET os/DET lugares/NOUN ./PUNCT
+Ah/INTJ ,/PUNCT e/CCONJ por/ADP último/ADJ ,/PUNCT mas/CCONJ não/ADV menos/ADV importante/ADJ ,/PUNCT refere/VERB se/PRON a/ADP a/DET presença/NOUN de/ADP bússola/NOUN ,/PUNCT e/CCONJ GPS/PROPN ,/PUNCT itens/NOUN indispensáveis/ADJ principalmente/ADV para/ADP mim/PRON ,/PUNCT que/PRON viajo/VERB bastante/ADV ,/PUNCT e/CCONJ costumo/VERB me/PRON perder/VERB ,/PUNCT além/ADV de/ADP videoconferência/NOUN pois/SCONJ não/ADV moro/VERB em/ADP a/DET cidade/NOUN de/ADP os/DET meus/DET pais/NOUN ,/PUNCT e/CCONJ facilitaria/VERB muito/ADV ,/PUNCT diminuindo/VERB um/DET pouquinho/NOUN a/DET saudade/NOUN de/ADP eles/PRON !/PUNCT
+Perfeitoooo/NOUN
+Além/ADV de/ADP lindo/ADJ ,/PUNCT é/AUX ótimo/ADJ ,/PUNCT fácil/ADJ de/SCONJ usar/VERB ,/PUNCT sei/VERB de/ADP isso/PRON pois/SCONJ uma/DET prima/NOUN minha/PRON tem/VERB ./PUNCT
+E/CCONJ é/AUX muito/ADV mais/ADV de/ADP o/PRON que/PRON você/PRON espera/VERB !/PUNCT
+É/AUX praticamente/ADV impossivel/ADJ imaginar/VERB !/PUNCT
+Então/ADV sóo/NOUN tendo/VERB pra/SCONJ saber/VERB !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT
+RECOMENDOOOOOOOOOO/VERB
+Mutio/NOUN bom/ADJ ,/PUNCT otimo/ADJ ,/PUNCT perfeito/ADJ Muito/ADV lindo/ADJ demais/ADV esse/DET iphone/NOUN o/DET melhor/ADJ smartphone/NOUN que/PRON existe/VERB ./PUNCT
+Principais/ADJ qualidades/NOUN de/ADP o/DET Iphone/PROPN 5/PROPN
+Muito/ADV prático/ADJ ,/PUNCT com/ADP boa/ADJ aparência/NOUN ,/PUNCT e/CCONJ ótima/ADJ qualidade/NOUN ./PUNCT
+IPHONE/PROPN 5/NUM ,/PUNCT MEU/DET SONHO/PROPN DE/ADP CONSUMO/PROPN DEPOIS/ADV DE/ADP LER/VERB A/DET BIOGRAFIA/NOUN DE/ADP STEVE/PROPN JOBS/PROPN ,/PUNCT FIQUEI/VERB IMPRESSIONADA/ADJ COMO/SCONJ CADA/DET PRODUTO/PROPN APPLE/PROPN É/AUX CRIADO/VERB ./PUNCT
+EU/PRON NÃO/ADV TENHO/VERB CONHECIMENTO/NOUN DE/ADP PRODUTO/NOUN QUE/PRON É/AUX PENSADO/VERB TÃO/ADV DETALHADAMENTE/ADV ./PUNCT
+DESDE/ADP O/DET DESIGN/NOUN ,/PUNCT A/ADP O/DET PESO/NOUN ,/PUNCT TAMANHO/NOUN ,/PUNCT NITIDEZ/NOUN ,/PUNCT VELOCIDADE/NOUN ,/PUNCT CAPACIDADE/NOUN ,/PUNCT OTIMAS/ADJ FOTOS/NOUN ,/PUNCT TELA/NOUN DE/ADP RETINA/NOUN (/PUNCT NUNCA/ADV VI/VERB IGUAL/ADJ )/PUNCT ./PUNCT
+QUERO/VERB TODOS/DET OS/DET PRODUTOS/NOUN DE/ADP A/DET APPLE/PROPN !/PUNCT !/PUNCT !/PUNCT !/PUNCT
+E/CCONJ O/DET IPHONE/PROPN 5/NUM
+É/AUX O/DET MEU/DET SONHO/NOUN DE/ADP CONSUMO/NOUN !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT

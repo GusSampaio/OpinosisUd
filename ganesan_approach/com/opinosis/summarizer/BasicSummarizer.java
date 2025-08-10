@@ -32,6 +32,7 @@ public class BasicSummarizer extends OpinosisCore {
         } else if (str.matches(".*(/prp|/dt)+.*(/vb)+.*(/rb|/jj)+.*(/nn)+.*")) {
             isGood = true;
         } else if (str.matches(".*(/jj)+.*(/to)+.*(/vb).*")) {
+            System.out.println(str);
             isGood = true;
         } else if (str.matches(".*(/rb)+.*(/in)+.*(/nn)+.*")) {
             isGood = true;
@@ -76,7 +77,17 @@ public class BasicSummarizer extends OpinosisCore {
     // VSNs ganesan
     public boolean isVSN(Node x) {
         String nname = x.getNodeName();
-        return x.getAveragePos() <= 15.0 && (nname.contains("/jj") || nname.contains("/rb") || nname.contains("/prp$") || nname.contains("/vbg") || nname.contains("/nn") || nname.contains("/dt") || nname.matches("^(its/|the/|when/|a/|an/|this/|the/|they/|it/|i/|we/|our/).*") || nname.contains("it/prp") || nname.contains("if/") || nname.contains("for/"));
+        return x.getAveragePos() <= 15.0 &&
+                (nname.contains("/jj") ||
+                        nname.contains("/rb") ||
+                        nname.contains("/prp$") ||
+                        nname.contains("/vbg") ||
+                        nname.contains("/nn") ||
+                        nname.contains("/dt") ||
+                        nname.matches("^(its/|the/|when/|a/|an/|this/|the/|they/|it/|i/|we/|our/).*") ||
+                        nname.contains("it/prp")
+                        || nname.contains("if/")
+                        || nname.contains("for/"));
     }
 
     public boolean isVEN(Node x, int pathLength, boolean isCollapsedCandidate) {

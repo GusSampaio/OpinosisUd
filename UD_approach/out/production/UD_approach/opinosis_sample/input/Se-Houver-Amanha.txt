@@ -1,0 +1,64 @@
+O/DET meu/DET favorito/NOUN
+Se/SCONJ houver/VERB amanhã/ADV foi/AUX um/NUM de/ADP os/DET livros/NOUN mais/ADV empolgantes/ADJ que/PRON já/ADV li/VERB ./PUNCT
+Uma/DET história/NOUN rica/ADJ em/ADP detalhes/NOUN e/CCONJ artimanhas/NOUN que/PRON até/ADV chegam/VERB as/PRON em/SCONJ os/PRON fazer/VERB prender/VERB o/DET folego/NOUN esperando/VERB o/PRON que/PRON vai/AUX acontecer/VERB ,/PUNCT como/ADV a/DET personagem/NOUN irá/AUX se/PRON sair/VERB para/SCONJ resolver/VERB seus/DET crimes/NOUN ./PUNCT
+Sempre/ADV indico/VERB este/DET livro/NOUN a/ADP os/DET meus/DET amigos/NOUN ./PUNCT
+Este/DET livro/NOUN em/SCONJ os/PRON faz/VERB torcer/VERB pra/ADP o/DET crime/NOUN ,/PUNCT um/DET jogo/NOUN de/ADP inteligencia/NOUN misturado/VERB com/ADP amor/NOUN ./PUNCT
+Com/ADP certeza/NOUN merecia/VERB uma/DET continuação/NOUN ./PUNCT
+Perfeito/ADJ !/PUNCT
+Sem/ADP duvidas/NOUN é/AUX um/NUM de/ADP os/DET melhores/ADJ livros/NOUN que/PRON já/ADV li/VERB ,/PUNCT a/DET historia/NOUN é/AUX incrível/ADJ ,/PUNCT super/ADV movimentada/ADJ e/CCONJ bem/ADV desenvolvida/VERB ,/PUNCT os/DET personagens/NOUN são/AUX marcantes/ADJ e/CCONJ a/DET narrativa/NOUN é/AUX impecável/ADJ ./PUNCT
+O/DET autor/NOUN te/PRON envolve/VERB de/ADP uma/DET maneira/NOUN tão/ADV forte/ADJ que/SCONJ você/PRON não/ADV consegue/VERB largar/VERB o/DET livro/NOUN até/ADP o/DET fim/NOUN ,/PUNCT absorto/ADJ em/ADP os/DET fatos/NOUN apresentados/VERB e/CCONJ tentando/VERB descobrir/VERB o/PRON que/PRON virá/VERB a/SCONJ seguir/VERB ,/PUNCT a/DET historia/NOUN é/AUX cheia/ADJ de/ADP reviravoltas/NOUN e/CCONJ te/PRON deixa/VERB surpreso/ADJ a/ADP todo/DET o/DET momento/NOUN ./PUNCT
+O/DET livro/NOUN conta/VERB a/DET historia/NOUN de/ADP Tracy/PROPN ,/PUNCT que/PRON esta/AUX irrevogavelmente/ADV em/ADP o/DET topo/NOUN de/ADP o/DET meu/DET top/NOUN de/ADP protagonistas/NOUN ,/PUNCT ela/PRON é/AUX literalmente/ADV uma/DET guerreira/NOUN ,/PUNCT passa/VERB por/ADP uma/DET serie/NOUN de/ADP acontecimentos/NOUN difíceis/ADJ e/CCONJ nós/PRON acompanhamos/VERB sua/DET impressionante/ADJ e/CCONJ de/ADP certa/DET forma/NOUN impactante/ADJ transformação/NOUN ,/PUNCT sua/DET característica/NOUN mais/ADV marcante/ADJ é/AUX a/DET inteligência/NOUN ,/PUNCT ela/PRON é/AUX simplesmente/ADV incrível/ADJ ./PUNCT
+Com/ADP seu/DET rostinho/NOUN bonito/ADJ ,/PUNCT sua/DET inteligência/NOUN aguçada/VERB e/CCONJ seu/DET ar/NOUN de/ADP inocente/ADJ ela/PRON é/AUX a/DET profissional/NOUN perfeita/ADJ ,/PUNCT de/ADP a/DET qual/PRON ninguém/PRON suspeitaria/VERB ./PUNCT
+Esse/PRON é/AUX o/DET primeiro/ADJ livro/NOUN que/PRON eu/PRON leio/VERB de/ADP o/DET autor/NOUN e/CCONJ definitivamente/ADV ele/PRON já/ADV é/AUX um/NUM de/ADP os/DET meus/DET autores/NOUN favoritos/ADJ !/PUNCT
+Se/SCONJ Dormir/VERB Lendo/VERB Este/DET Livro/PROPN Se/PROPN Houver/PROPN Amanhã/ADV Resolvi/VERB ler/VERB Sidney/PROPN Sheldon/PROPN por/ADP que/PRON minha/DET esposa/NOUN ficava/VERB me/PRON falando/VERB de/ADP essa/DET estória/NOUN de/ADP ele/PRON que/PRON era/AUX o/DET máximo/NOUN ,/PUNCT e/CCONJ essa/DET estória/NOUN era/VERB justamente/ADV Se/SCONJ Houver/VERB Amanhã/ADV ./PUNCT
+Resolvi/VERB dar/VERB uma/DET pesquisada/NOUN em/ADP o/DET cara/NOUN e/CCONJ descobri/VERB que/SCONJ ele/PRON tinha/AUX sido/AUX o/DET único/ADJ escritor/NOUN a/SCONJ ganhar/VERB os/DET três/NUM maiores/ADJ prêmios/NOUN de/ADP os/DET Estados/PROPN Unidos/PROPN e/CCONJ vendeu/VERB apenas/ADV 300/NUM milhões/NUM de/ADP livros/NOUN em/ADP toda/DET a/DET sua/DET carreira/NOUN ./PUNCT
+Uau/INTJ ,/PUNCT eu/PRON pensei/VERB ,/PUNCT os/DET livros/NOUN de/ADP ele/PRON devem/VERB ser/AUX o/DET máximo/NOUN ./PUNCT
+Então/ADV lá/ADV fui/AUX eu/PRON ler/VERB Se/SCONJ Houver/VERB Amanhã/ADV ./PUNCT
+Toda/DET a/DET parte/NOUN legal/ADJ de/ADP a/DET estória/NOUN ,/PUNCT que/PRON são/AUX mais/NOUN ou/CCONJ menos/NOUN umas/DET vinte/NUM páginas/NOUN ,/PUNCT minha/DET esposa/NOUN já/ADV tinha/AUX me/PRON contado/VERB ./PUNCT
+Você/PRON tem/VERB uma/DET protagonista/NOUN burra/ADJ que/PRON dói/VERB que/SCONJ faz/VERB uma/DET besteira/NOUN atrás/ADV de/ADP a/DET outra/PRON ,/PUNCT acaba/VERB presa/ADJ por/ADP um/DET crime/NOUN que/PRON não/ADV cometeu/VERB e/CCONJ entra/VERB pra/ADP faculdade/NOUN de/ADP a/DET malandragem/NOUN em/ADP a/DET penitenciária/NOUN ./PUNCT
+Quando/SCONJ ela/PRON sai/VERB ,/PUNCT vai/AUX procurar/VERB vingança/NOUN ./PUNCT
+Parece/VERB legal/ADJ ,/PUNCT mas/CCONJ dá/VERB sono/NOUN ./PUNCT
+O/DET enredo/NOUN de/ADP a/DET estória/NOUN não/ADV é/AUX ruim/ADJ ,/PUNCT parece/VERB um/DET filme/NOUN de/ADP ação/NOUN (/PUNCT aliás/ADV ,/PUNCT Sidney/PROPN Sheldon/PROPN era/AUX roteirista/ADJ antes/ADV de/ADP fingir/VERB que/SCONJ era/AUX escritor/NOUN )/PUNCT ./PUNCT
+Agora/ADV ,/PUNCT os/DET personagens/NOUN ,/PUNCT os/DET relacionamentos/NOUN e/CCONJ os/DET diálogos/NOUN são/AUX muito/ADV fracos/ADJ ./PUNCT
+Os/DET personagens/NOUN passam/VERB a/SCONJ se/PRON amar/VERB e/CCONJ a/SCONJ se/PRON desamar/VERB de/ADP uma/DET hora/NOUN pra/ADP outra/PRON e/CCONJ eles/PRON são/AUX completamente/ADV volúveis/ADJ e/CCONJ superficiais/ADJ ./PUNCT
+Em/ADP um/DET filme/NOUN ,/PUNCT acho/VERB que/SCONJ você/PRON nem/ADV perceberia/VERB ./PUNCT
+Em/ADP um/DET livro/NOUN ,/PUNCT fica/VERB muito/ADV claro/ADJ que/SCONJ o/DET autor/NOUN tinha/VERB uma/DET estória/NOUN e/CCONJ precisava/VERB inventar/VERB alguém/PRON pra/SCONJ vivê/VERB -/PUNCT la/PRON ./PUNCT
+Mais/NOUN ou/CCONJ menos/NOUN
+O/DET livro/NOUN é/AUX envolvente/ADJ e/CCONJ tal/PRON ,/PUNCT te/PRON prende/VERB em/ADP o/DET começo/NOUN ,/PUNCT mas/CCONJ de/ADP o/DET meio/NOUN pro/ADP final/NOUN parece/VERB meio/ADV forçado/ADJ ,/PUNCT o/DET autor/NOUN meio/ADJ que/PRON começa/VERB a/SCONJ inventar/VERB histórias/NOUN demais/ADV ,/PUNCT não/ADV havendo/VERB uma/DET ligação/NOUN coerente/ADJ entre/ADP elas/PRON ,/PUNCT fica/VERB uma/DET impressão/NOUN de/SCONJ que/SCONJ se/SCONJ está/AUX lendo/VERB algum/DET tipo/NOUN de/ADP livro/NOUN seriado/VERB ,/PUNCT sei/VERB lá/ADV ,/PUNCT com/ADP várias/DET histórias/NOUN diferentes/ADJ em/ADP o/DET mesmo/ADJ livro/NOUN ./PUNCT
+Não/ADV é/AUX a/DET melhor/ADJ obra/NOUN de/ADP o/DET grande/ADJ Sidney/PROPN Sheldon/PROPN ,/PUNCT mas/CCONJ recomendo/VERB ,/PUNCT uma/DET boa/ADJ leitura/NOUN pra/SCONJ passar/VERB o/DET tempo/NOUN ./PUNCT
+Este/PRON foi/AUX o/DET primeiro/ADJ livro/NOUN que/PRON li/VERB de/ADP Sidney/PROPN Sheldon/PROPN ./PUNCT
+Nunca/ADV fui/AUX fã/NOUN de/ADP romances/NOUN ,/PUNCT mas/CCONJ minha/DET amiga/NOUN em/ADP a/DET época/NOUN falou/VERB tão/ADV bem/ADV ,/PUNCT contou/VERB algumas/DET partes/NOUN e/CCONJ acabei/VERB pegando/VERB emprestado/VERB ./PUNCT
+Devorei/VERB ./PUNCT
+Adorei/VERB a/DET personagem/NOUN Tracy/PROPN ,/PUNCT sua/DET transformação/NOUN ,/PUNCT crescimento/NOUN ./PUNCT
+Algumas/DET passagens/NOUN de/ADP o/DET livro/NOUN me/PRON fizeram/VERB contorcer/VERB ,/PUNCT mas/CCONJ Tracy/PROPN foi/AUX forte/ADJ e/CCONJ me/PRON impressionei/VERB com/ADP o/DET andamento/NOUN de/ADP a/DET trama/NOUN ./PUNCT
+Ô/PRON ,/PUNCT vingança/NOUN boa/ADJ e/CCONJ inteligente/ADJ ./PUNCT
+Sabe/VERB aquele/DET ditado/NOUN '/PUNCT as/DET quietinhas/NOUN são/AUX as/DET piores/ADJ
+'/PUNCT ?/PUNCT
+Então/ADV ,/PUNCT leia/VERB e/CCONJ use/VERB esta/DET personagem/NOUN maravilhosa/ADJ como/ADP exemplo/NOUN ./PUNCT
+Soube/VERB que/SCONJ existe/VERB um/DET filme/NOUN ,/PUNCT mas/CCONJ até/ADP então/ADV só/ADV soube/VERB de/ADP a/DET minissérie/NOUN ,/PUNCT qual/PRON ainda/ADV não/ADV assisti/VERB e/CCONJ continuo/VERB procurando/VERB loucamente/ADV em/ADP a/DET web/NOUN ./PUNCT
+Nunca/ADV vi/VERB a/DET minissérie/NOUN ,/PUNCT mas/CCONJ se/SCONJ seguir/VERB o/DET roteiro/NOUN de/ADP o/DET livro/NOUN ,/PUNCT com/ADP certeza/NOUN ,/PUNCT será/AUX um/DET puta/ADJ filme/NOUN ./PUNCT
+É/AUX um/DET livro/NOUN com/ADP uma/DET história/NOUN simples/ADJ ./PUNCT
+ele/PRON te/PRON prende/VERB mais/ADV por/ADP causa/NOUN de/ADP a/DET personagem/NOUN de/ADP o/PRON que/PRON por/ADP o/DET enredo/NOUN ./PUNCT
+p./NOUN s./NOUN mas/CCONJ o/DET suspense/NOUN e/CCONJ as/DET peripécias/NOUN de/ADP tracy/NOUN são/AUX bem/ADV descritas/VERB e/CCONJ aguçam/VERB a/DET curiosidade/NOUN
+O/DET melhor/ADJ livro/NOUN de/ADP Sidney/PROPN Sheldon/PROPN
+Pra/ADP mim/PRON ,/PUNCT esse/PRON foi/AUX o/DET melhor/ADJ livro/NOUN de/ADP o/DET S.S/PROPN ./PUNCT
+A/DET personagem/NOUN de/ADP o/DET livro/NOUN Tracy/PROPN ,/PUNCT é/AUX so/ADJ sofrimento/NOUN em/ADP o/DET começo/NOUN ,/PUNCT sofremos/VERB junto/ADV com/ADP ela/PRON .../PUNCT ela/PRON perde/VERB tudo/PRON assim/ADV que/SCONJ sabe/VERB que/SCONJ sua/DET mãe/NOUN cometeu/VERB suicidio/NOUN ,/PUNCT ela/PRON quer/VERB se/PRON vingar/VERB de/ADP o/DET sujeito/NOUN e/CCONJ acaba/VERB presa/ADJ e/CCONJ ninguem/PRON ajuda/VERB ,/PUNCT nem/CCONJ o/DET noivo/NOUN de/ADP ela/PRON .../PUNCT mas/CCONJ ela/PRON sai/VERB de/ADP a/DET cadeia/NOUN resolve/VERB se/PRON vingar/VERB de/ADP todos/PRON .../PUNCT ela/PRON vira/VERB uma/DET '/PUNCT vigarista/NOUN '/PUNCT ,/PUNCT que/PRON consegue/VERB fazer/VERB roubos/NOUN ,/PUNCT que/PRON nem/CCONJ a/DET policia/NOUN consegue/VERB descobrir/VERB ,/PUNCT e/CCONJ msm/ADV assim/ADV a/DET gente/NOUN torce/VERB por/ADP ela/PRON ,/PUNCT pra/SCONJ não/ADV ser/AUX pega/VERB .../PUNCT é/AUX muito/ADV bom/ADJ .../PUNCT ah/ADV é/AUX tem/VERB o/DET Jeff/PROPN ,/PUNCT outro/DET vigarista/NOUN ,/PUNCT os/DET dois/NUM se/PRON apaixonam/VERB .../PUNCT ah/ADV é/AUX muito/ADV bom/ADJ !/PUNCT
+Com/ADP ctz/NOUN o/DET melhor/NOUN !/PUNCT
+Em/ADP a/DET minha/DET opinião/NOUN é/AUX o/DET melhor/ADJ livro/NOUN de/ADP Sidney/PROPN Sheldon/PROPN ./PUNCT
+Perfeito/ADJ !/PUNCT
+Vc/PRON não/ADV consegue/VERB parar/VERB de/SCONJ ler/VERB um/NUM minuto/NOUN ./PUNCT
+Tracy/PROPN é/AUX ótima/ADJ !/PUNCT
+Faz/VERB a/DET gente/NOUN rir/VERB ,/PUNCT chorar/VERB ,/PUNCT sentir/VERB raiva/NOUN .../PUNCT
+Impossível/ADJ parar/VERB de/SCONJ ler/VERB
+nem/ADV parece/VERB Sheldon/PROPN
+Já/ADV li/VERB muitos/DET livros/NOUN de/ADP Sidney/PROPN Sheldon/PROPN e/CCONJ gostei/VERB de/ADP poucos/PRON ./PUNCT
+Geralmente/ADV têm/VERB o/DET mesmo/ADJ enredo/NOUN e/CCONJ são/AUX muito/ADV previsíveis/ADJ ./PUNCT
+Porém/ADV ,/PUNCT este/DET eu/PRON realmente/ADV gosto/VERB ./PUNCT
+Já/ADV li/VERB várias/DET vezes/NOUN e/CCONJ sempre/ADV é/AUX um/DET passatempo/NOUN muito/ADV bom/ADJ ./PUNCT
+A/DET heroína/NOUN de/ADP o/DET livro/NOUN é/AUX uma/DET ladra/NOUN e/CCONJ suas/DET aventuras/NOUN e/CCONJ criações/NOUN são/AUX ótimas/ADJ ./PUNCT
+Acho/VERB que/SCONJ o/DET leitor/NOUN (/PUNCT uso/VERB meu/DET exemplo/NOUN )/PUNCT se/PRON realiza/VERB através/ADV de/ADP Tracy/PROPN ,/PUNCT imaginando/VERB como/ADV faria/VERB para/SCONJ se/PRON vingar/VERB de/ADP um/DET mundo/NOUN injusto/ADJ e/CCONJ ganhar/VERB com/ADP isso/PRON ./PUNCT
+A/DET heroína/NOUN acaba/VERB conquistando/VERB a/DET simpatia/NOUN de/ADP o/DET leitor/NOUN ,/PUNCT que/PRON torce/VERB por/ADP ela/PRON de/ADP o/DET começo/NOUN a/ADP o/DET fim/NOUN ./PUNCT
+Primeiro/ADJ livro/NOUN que/PRON li/VERB de/ADP o/DET autor/NOUN ./PUNCT
+Em/ADP o/DET princípio/NOUN estava/AUX lendo/VERB receosa/ADJ ,/PUNCT já/ADV que/SCONJ inúmeras/ADJ pessoas/NOUN falam/VERB mal/ADV de/ADP o/DET Sidney/PROPN Sheldon/PROPN ./PUNCT
+Mas/CCONJ foi/SCONJ essa/DET obra/NOUN que/SCONJ me/PRON fez/VERB amar/VERB todas/DET as/DET outras/PRON de/ADP o/DET autor/NOUN ./PUNCT
+História/NOUN intrigante/ADJ que/PRON prende/VERB a/DET atenção/NOUN e/CCONJ surpreende/VERB a/ADP cada/DET página/NOUN ./PUNCT

@@ -10,6 +10,7 @@ import java.io.Writer;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -93,10 +94,18 @@ public abstract class OpinosisCore extends OpinosisSettings {
 
         while(var9.hasNext()) {
             Candidate info = (Candidate)var9.next();
-            info.sent = info.sent.replaceAll("(/[a-z,.;$]+(\\s+|$))", " ");
+            info.sent = info.sent.replaceAll("/[a-zA-Z.,;:$]+", "");
+
             info.sent = info.sent.replaceAll("xx", "");
-            info.sent = info.sent + " .";
-            info.sent = info.sent.replaceAll("\\s+", " ");
+
+            info.sent = info.sent.replaceAll("\\s+", " ").trim();
+
+            info.sent = info.sent.replaceAll(" ,", ",");
+
+            if (!info.sent.endsWith(".") && !info.sent.endsWith("!") && !info.sent.endsWith("?")){
+                info.sent = info.sent + ".";
+            }
+            info.sent = info.sent.replaceAll(" \\.", ".");
             this.mWriter.append(info.sent);
             this.mWriter.append("\n");
         }
@@ -129,21 +138,34 @@ public abstract class OpinosisCore extends OpinosisSettings {
     }
 
     private List<Node> getNodeList(String sent) {
-        String[] tokens = sent.split("\\s+");
-        ArrayList<Node> l = new ArrayList();
-        String[] var7 = tokens;
-        int var6 = tokens.length;
+        // Tratamento para strings de entrada nulas ou vazias para evitar erros.
+        if (sent == null || sent.trim().isEmpty()) {
+            return new ArrayList<>();
+        }
 
-        for(int var5 = 0; var5 < var6; ++var5) {
-            String token = var7[var5];
-            if (token.matches(".*(/nn|/jj|/vb[a-s]).*")) {
-                Node n = (Node)this.mWordNodeMap.get(token);
+        String[] tokens = sent.split("\\s+");
+        ArrayList<Node> l = new ArrayList<>();
+
+        for (String token : tokens) {
+            // Ignora possíveis tokens vazios que possam surgir de espaços duplos
+            if (token.trim().isEmpty()) {
+                continue;
+            }
+
+            // NOVO FILTRO: Adaptado para as tags UD de Substantivo, Adjetivo, Verbo e Auxiliar.
+            // O '$' no final da regex garante que a tag esteja no final do token.
+            if (token.toLowerCase().matches(".*(/(noun|adj|verb|aux))$")) {
+
+                // CORREÇÃO ESSENCIAL: Converte o token para minúsculas ANTES de procurar no mapa.
+                String lookupKey = token.toLowerCase();
+
+                Node n = (Node) this.mWordNodeMap.get(lookupKey);
+
                 if (n != null) {
                     l.add(n);
                 }
             }
         }
-
         return l;
     }
 
@@ -169,9 +191,9 @@ public abstract class OpinosisCore extends OpinosisSettings {
                 alllevels += theInfo.level;
                 sentList.addAll(theInfo.sentList);
                 if (i > 0 && i == collapsed.size() - 1) {
-                    buffer.append(" and ");
+                    buffer.append(" e ");
                 } else if (i > 0) {
-                    buffer.append(" , ");
+                    buffer.append(", ");
                 } else {
                     buffer.append(" ");
                 }
@@ -218,7 +240,22 @@ public abstract class OpinosisCore extends OpinosisSettings {
 
                     int newPathLen = pathLen + 1;
                     double newPathScore = this.computeScore(currentPathScore, currOverlapList, newPathLen);
-                    if (CONFIG_TURN_ON_COLLAPSE && pathLen >= CONFIG_ATTACHMENT_AFTER && !isCollapsedPath && currOverlapList.size() <= overlapList.size() && x.getNodeName().matches(".*(/vb[a-z]|/in)")) {
+
+                    // Obtém o nome do nó uma vez para reutilizar
+                    String nodeName = x.getNodeName().toLowerCase();
+
+                    // CONDIÇÃO CORRIGIDA E ADAPTADA PARA UD
+                    // Uso a regex que busca pelas tags UD: VERB, AUX (auxiliar) e ADP (preposição)
+                    boolean isCollapsibleNode = nodeName.matches(".*(/(verb|aux|adp))$");
+
+                    // A condição de overlap que pode estar impedindo o colapso
+                    //boolean overlapCondition = currOverlapList.size() <= overlapList.size();
+
+                    if (CONFIG_TURN_ON_COLLAPSE &&
+                            pathLen >= CONFIG_ATTACHMENT_AFTER &&
+                            !isCollapsedPath &&
+                            isCollapsibleNode) {
+                        //System.out.println("Deveria colapsar");
                         boolean success = this.doCollapse(x, currOverlapList, newPathScore, currentPathScore, str, overlapList, pathLen, isCollapsedPath);
                         if (!success) {
                             String strTemp = str + " " + y.getNodeName();
@@ -234,56 +271,147 @@ public abstract class OpinosisCore extends OpinosisSettings {
     }
 
     private Candidate remove(Candidate currSentence, Candidate best) {
-        double temp = currSentence.gain;
-        if (best.gain < currSentence.gain && best.level <= currSentence.level) {
-            best.discard = true;
-            best = currSentence;
-        } else {
-            currSentence.discard = true;
-        }
+        final double EPSILON = 0.000001d; // Define uma tolerância para a comparação de doubles
 
-        return best;
+        // Cenário 1: currSentence tem um score significativamente maior. Ela vence.
+        if (currSentence.gain - best.gain > EPSILON) {
+            best.discard = true;
+            return currSentence;
+        }
+        // Cenário 2: currSentence tem um score significativamente menor. Ela perde.
+        else if (best.gain - currSentence.gain > EPSILON) {
+            currSentence.discard = true;
+            return best;
+        }
+        // Cenário 3: Os scores são efetivamente iguais (dentro da tolerância). Use o comprimento como desempate.
+        // Preferimos a sentença mais curta (menor 'level').
+        else {
+            if (currSentence.level < best.level) {
+                best.discard = true;
+                return currSentence; // currSentence é mais curta, ela vence o desempate.
+            } else {
+                currSentence.discard = true;
+                return best; // best é mais curta ou tem o mesmo tamanho, então a mantemos.
+            }
+        }
     }
 
-    private HashSet<Candidate> removeDuplicates(HashSet<Candidate> set, boolean isIntermediate) {
-        HashSet<Candidate> finalSentences = new HashSet();
-        if (CONFIG_TURN_ON_DUP_ELIM) {
-            List<Candidate> list = new ArrayList(set);
+//    private HashSet<Candidate> removeDuplicates(HashSet<Candidate> set, boolean isIntermediate) {
+//        HashSet<Candidate> finalSentences = new HashSet();
+//        if (CONFIG_TURN_ON_DUP_ELIM) {
+//            List<Candidate> list = new ArrayList(set);
+//
+//            for(int i = 0; i < list.size(); ++i) {
+//                Candidate info = (Candidate)list.get(i);
+//                info.discard = false;
+//                List<Node> nl = this.getNodeList(info.sent);
+//                info.theNodeList = nl;
+//            }
+//
+//            boolean startFrom = false;
+//
+//            for(int a = 0; a < list.size(); ++a) {
+//                if (!((Candidate)list.get(a)).discard) {
+//                    Candidate prevSentence = (Candidate)list.get(a);
+//                    Candidate best = (Candidate)list.get(a);
+//
+//                    for(int b = 0; b < list.size(); ++b) {
+//
+//                        if (!((Candidate)list.get(b)).discard && a != b) {
+//                            Candidate currSentence = (Candidate)list.get(b);
+//                            double overlap = this.computeCandidateSimScore(currSentence, best);
+//                            //System.out.println(overlap);
+//                            if (isIntermediate) {
+//                                //System.out.println("Entrei: "+overlap);
+//                                if (overlap > CONFIG_DUPLICATE_COLLAPSE_THRESHOLD) {
+//                                    best = this.remove(currSentence, best);
+//                                }
+//                            } else if (overlap > CONFIG_DUPLICATE_THRESHOLD) {
+//                                //System.out.println("Entrei2: "+overlap);
+//                                best = this.remove(currSentence, best);
+//                            }
+//                        }
+//                    }
+//                    StringBuilder currentFinalSentences = new StringBuilder();
+//                    currentFinalSentences.append("Conteúdo ATUAL de finalSentences: [");
+//
+//                    // Itera por cada candidato já presente na lista final
+//                    String prefix = "";
+//                    for (Candidate c : finalSentences) {
+//                        currentFinalSentences.append(prefix);
+//                        prefix = ", ";
+//                        currentFinalSentences.append("\"" + c.sent + "\"");
+//                    }
+//                    currentFinalSentences.append("]");
+//
+//                    // Imprime o estado atual e o candidato que está prestes a ser adicionado
+//                    System.out.println(currentFinalSentences.toString());
+//                    System.out.println("--> PRESTES A ADICIONAR: \"" + best.sent + "\"\n");
+//
+//                    finalSentences.add(best);
+//                    best.discard = true;
+//                }
+//            }
+//        } else {
+//            finalSentences = set;
+//        }
+//
+//        return finalSentences;
+//    }
 
-            for(int i = 0; i < list.size(); ++i) {
-                Candidate info = (Candidate)list.get(i);
-                info.discard = false;
-                List<Node> nl = this.getNodeList(info.sent);
-                info.theNodeList = nl;
+    private HashSet<Candidate> removeDuplicates(HashSet<Candidate> set, boolean isIntermediate) {
+        if (!CONFIG_TURN_ON_DUP_ELIM || set.isEmpty()) {
+            return set;
+        }
+
+        double threshold = isIntermediate ? CONFIG_DUPLICATE_COLLAPSE_THRESHOLD : CONFIG_DUPLICATE_THRESHOLD;
+
+        // 1. Converta para uma lista e ordene por score (gain) em ordem decrescente.
+        //    Isso garante que processamos os melhores candidatos primeiro.
+        List<Candidate> sortedList = new ArrayList<>(set);
+        Collections.sort(sortedList, new Comparator<Candidate>() {
+            @Override
+            public int compare(Candidate c1, Candidate c2) {
+                // Compara os scores para ordenar do maior para o menor
+                return Double.compare(c2.gain, c1.gain);
+            }
+        });
+
+        // Pré-popula as listas de nós para não recalcular a cada comparação
+        for (Candidate c : sortedList) {
+            c.theNodeList = this.getNodeList(c.sent);
+        }
+
+        HashSet<Candidate> finalSentences = new HashSet<>();
+        // Usa um array de booleanos para marcar sentenças já agrupadas
+        boolean[] isClaimed = new boolean[sortedList.size()];
+
+        // 2. Itere pela lista ordenada
+        for (int i = 0; i < sortedList.size(); i++) {
+            // Se esta sentença já foi "reivindicada" por um candidato melhor, pule-a.
+            if (isClaimed[i]) {
+                continue;
             }
 
-            boolean startFrom = false;
+            // Se não foi reivindicada, ela é uma vencedora. Adicione-a ao resultado.
+            Candidate winner = sortedList.get(i);
+            finalSentences.add(winner);
 
-            for(int a = 0; a < list.size(); ++a) {
-                if (!((Candidate)list.get(a)).discard) {
-                    Candidate prevSentence = (Candidate)list.get(a);
-                    Candidate best = (Candidate)list.get(a);
+            // 3. Agora, elimine todos os outros candidatos que são similares a este vencedor.
+            //    Começamos a busca a partir do próximo item (i + 1).
+            for (int j = i + 1; j < sortedList.size(); j++) {
+                // Não re-verifique sentenças que já foram reivindicadas
+                if (isClaimed[j]) {
+                    continue;
+                }
 
-                    for(int b = 0; b < list.size(); ++b) {
-                        if (!((Candidate)list.get(b)).discard && a != b) {
-                            Candidate currSentence = (Candidate)list.get(b);
-                            double overlap = this.computeCandidateSimScore(currSentence, best);
-                            if (isIntermediate) {
-                                if (overlap > CONFIG_DUPLICATE_COLLAPSE_THRESHOLD) {
-                                    best = this.remove(currSentence, best);
-                                }
-                            } else if (overlap > CONFIG_DUPLICATE_THRESHOLD) {
-                                best = this.remove(currSentence, best);
-                            }
-                        }
-                    }
+                Candidate other = sortedList.get(j);
+                double overlap = this.computeCandidateSimScore(winner, other);
 
-                    finalSentences.add(best);
-                    best.discard = true;
+                if (overlap > threshold) {
+                    isClaimed[j] = true; // Marque como duplicata. Ela não será adicionada.
                 }
             }
-        } else {
-            finalSentences = set;
         }
 
         return finalSentences;
@@ -311,7 +439,6 @@ public abstract class OpinosisCore extends OpinosisSettings {
 
         double theAdjustedScore = this.computeAdjustedScore(theScore, thePathLen);
 
-        // TODO: Adicionar if de 'algo' aqui
         if (this.isValidCandidate(this.mAnchor + " " + theCandidateStr)) {
             if (isCollapsedCandidate) {
                 Candidate cc = (Candidate)this.ccList.get(theCandidateStr);

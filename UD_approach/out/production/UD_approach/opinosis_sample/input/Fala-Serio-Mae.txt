@@ -1,0 +1,62 @@
+Meio/ADJ chato/NOUN ,/PUNCT meio/ADJ bobo/NOUN ,/PUNCT meio/ADJ argh/NOUN .../PUNCT
+É/AUX interessante/ADJ ,/PUNCT mas/CCONJ ,/PUNCT de/ADP fato/NOUN ,/PUNCT não/ADV está/AUX nem/ADV entre/ADP os/DET 50/NUM melhores/NOUN que/PRON eu/PRON já/ADV li/VERB ./PUNCT
+É/AUX bom/ADJ para/SCONJ passar/VERB a/DET tarde/NOUN ,/PUNCT como/ADP aquele/DET filme/NOUN meio/ADJ chatinha/NOUN e/CCONJ clichê/NOUN que/PRON está/AUX passando/VERB em/ADP a/DET televisão/NOUN ,/PUNCT e/CCONJ como/SCONJ você/PRON não/ADV tem/VERB mais/ADV nada/PRON pra/SCONJ fazer/VERB ,/PUNCT se/PRON senta/VERB e/CCONJ vai/AUX assistir/VERB ./PUNCT
+São/AUX mini/ADJ contos/NOUN muito/ADV mal/ADV elaborados/ADJ e/CCONJ meio/ADV bobos/ADJ ,/PUNCT o/PRON que/PRON contribui/VERB para/ADP o/DET ar/NOUN de/ADP falsa/ADJ simpatia/NOUN que/PRON o/DET leitor/NOUN cria/VERB por/ADP a/DET história/NOUN ./PUNCT
+Apesar/ADV de/ADP se/PRON tratar/VERB de/ADP um/DET assunto/NOUN bem/ADV conhecido/ADJ ,/PUNCT a/DET autora/NOUN não/ADV soube/VERB dominá/VERB -/PUNCT lo/PRON e/CCONJ o/PRON tornou/VERB o/DET pior/ADJ de/ADP os/DET clichês/NOUN ./PUNCT
+Definitivamente/ADV ,/PUNCT irritante/ADJ ./PUNCT
+Fala/VERB Sério/ADV ,/PUNCT Mãe/NOUN !/PUNCT -/PUNCT Thalita/PROPN Rebouças/PROPN
+Li/VERB esse/DET livro/NOUN em/ADP algumas/DET horas/NOUN e/CCONJ ,/PUNCT enquanto/ADV o/PRON lia/VERB ,/PUNCT só/ADV conseguia/VERB pensar/VERB em/ADP uma/DET coisa/NOUN :/PUNCT Meu/DET Deus/PROPN !/PUNCT
+Minha/DET mãe/NOUN é/AUX igual/ADJ a/DET mãe/NOUN de/ADP a/DET Malu/PROPN ,/PUNCT tenho/AUX que/SCONJ fazer/VERB algo/PRON a/ADP respeito/NOUN !/PUNCT
+Fala/VERB Sério/PROPN ,/PUNCT Mãe/NOUN !/PUNCT conta/VERB a/DET história/NOUN de/ADP vida/NOUN de/ADP Maria/PROPN de/ADP Lourdes/PROPN ,/PUNCT ou/CCONJ ,/PUNCT como/SCONJ ela/PRON prefere/VERB ,/PUNCT Malu/PROPN ,/PUNCT desde/ADP quando/ADV estava/AUX em/ADP a/DET barriga/NOUN de/ADP a/DET sua/DET mãe/NOUN (/PUNCT tendo/VERB os/DET primeiros/ADJ anos/NOUN de/ADP vida/NOUN -/PUNCT até/ADP os/DET 12/NUM -/PUNCT narrados/VERB por/ADP sua/DET mãe/NOUN )/PUNCT ,/PUNCT até/ADP os/DET 21/NUM anos/NOUN ./PUNCT
+Thalita/PROPN consegue/VERB retratar/VERB várias/DET situações/NOUN engraçadíssimas/ADJ por/ADP as/DET quais/PRON muitas/PRON de/ADP nós/PRON ,/PUNCT garotas/ADJ ,/PUNCT com/ADP certeza/NOUN já/ADV passamos/VERB ./PUNCT
+A/DET escrita/NOUN de/ADP ela/PRON é/AUX mais/ADV fácil/ADJ e/CCONJ mais/ADV gostosa/ADJ de/ADP o/PRON que/PRON imaginei/VERB que/SCONJ seria/AUX (/PUNCT já/ADV que/SCONJ nunca/ADV havia/AUX lido/VERB um/NUM de/ADP seus/DET livros/NOUN antes/ADV )/PUNCT ./PUNCT
+Era/AUX tão/ADV fácil/ADJ que/SCONJ consegui/VERB ,/PUNCT realmente/ADV ,/PUNCT me/PRON imaginar/VERB em/ADP a/DET pele/NOUN de/ADP a/DET Malu/PROPN (/PUNCT lógico/ADJ que/SCONJ com/ADP algumas/DET pequenas/ADJ diferenças/NOUN )/PUNCT e/CCONJ ver/VERB minha/DET mãe/NOUN retratada/VERB por/ADP a/DET mãe/NOUN de/ADP ela/PRON ./PUNCT
+[/PUNCT .../PUNCT ]/PUNCT Continue/VERB lendo/VERB :/PUNCT http://babilorentz.com//SYM
+?/PUNCT
+p=1075/NOUN
+Achei/VERB muito/ADV divertido/ADJ e/CCONJ em/ADP muitos/DET momentos/NOUN a/DET Angela/PROPN lembrou/VERB a/DET minha/DET mãe/NOUN ,/PUNCT principalmente/ADV em/ADP a/DET fase/NOUN mais/ADV adulta/ADJ .../PUNCT
+Muito/ADV bom/ADJ ,/PUNCT recomendoo/VERB =D/PROPN
+Fala/VERB sério/ADV ,/PUNCT Thalita/PROPN !/PUNCT
+Enquanto/SCONJ lia/VERB esse/DET livro/NOUN ,/PUNCT não/ADV é/AUX exagero/ADJ dizer/VERB que/SCONJ tive/AUX que/SCONJ respirar/VERB fundo/ADV e/CCONJ contar/VERB até/ADP dez/NUM inúmeras/ADJ vezes/NOUN para/SCONJ não/ADV largá/VERB -/PUNCT lo/PRON por/ADP a/DET metade/NOUN ./PUNCT
+O/DET problema/NOUN em/ADP Fala/PROPN sério/ADJ ,/PUNCT mãe/NOUN !/PUNCT ,/PUNCT é/AUX o/DET mesmo/PRON de/ADP Fala/PROPN Sério/PROPN ,/PUNCT professor/NOUN !/PUNCT
+:/PUNCT pouca/DET conexão/NOUN com/ADP a/DET realidade/NOUN ./PUNCT
+Mas/CCONJ em/ADP este/PRON ocorre/VERB com/ADP mais/DET frequencia/NOUN ,/PUNCT o/PRON que/PRON torna/VERB a/DET leitura/NOUN algo/ADV irritante/ADJ ,/PUNCT em/ADP alguns/DET momentos/NOUN ./PUNCT
+Pode/VERB -/PUNCT se/PRON notar/VERB claramente/ADV esse/DET surrealismo/NOUN observando/VERB as/DET falas/NOUN de/ADP Malu/PROPN quando/ADV pequena/ADJ ./PUNCT
+Muito/DET vocabulário/NOUN para/ADP pouca/DET idade/NOUN ,/PUNCT como/ADP em/ADP essa/DET frase/NOUN ,/PUNCT de/ADP quando/ADV ela/PRON tinha/VERB 6/NUM anos/NOUN :/PUNCT -/PUNCT Uma/DET beleza/NOUN enorme/ADJ ,/PUNCT mamãe/NOUN ./PUNCT
+Eu/PRON estou/AUX fascinada/ADJ por/ADP o/DET Guilherme/PROPN Almeida/PROPN [/PUNCT .../PUNCT ]/PUNCT ./PUNCT
+Ou/CCONJ em/ADP a/DET insistência/NOUN em/SCONJ saber/VERB porque/SCONJ seu/DET nome/NOUN é/AUX Maria/PROPN de/ADP Lourdes/PROPN ,/PUNCT não/ADV se/PRON conformando/VERB com/ADP as/DET respostas/NOUN de/ADP a/DET mãe/NOUN ,/PUNCT sempre/ADV replicando/VERB com/ADP comentários/NOUN assustadoramente/ADV complexos/ADJ para/ADP uma/DET menina/NOUN de/ADP 5/NUM anos/NOUN ./PUNCT
+A/DET mãe/NOUN é/AUX demasiadamente/ADV sem-noção/NOUN ./PUNCT
+Acredito/VERB que/SCONJ isso/PRON seja/AUX proposital/ADJ ,/PUNCT tendo/VERB como/ADP objetivo/NOUN garantir/VERB o/DET humor/NOUN em/ADP a/DET história/NOUN ./PUNCT
+O/DET problema/NOUN é/VERB que/SCONJ não/ADV funcionou/VERB ,/PUNCT justamente/ADV porque/SCONJ as/DET atitudes/NOUN são/AUX tão/ADV fora/ADV de/ADP o/DET comum/NOUN ,/PUNCT que/SCONJ a/ADP o/DET invés/NOUN de/ADP ser/AUX engraçado/VERB ,/PUNCT soa/VERB forçado/ADJ ,/PUNCT artificial/ADJ ,/PUNCT e/CCONJ até/ADP mesmo/ADV ridículo/ADJ ,/PUNCT algumas/DET vezes/NOUN ./PUNCT
+Recomendo/VERB o/DET livro/NOUN apenas/ADV para/ADP crianças/NOUN que/PRON estão/AUX iniciando/VERB o/DET hábito/NOUN de/ADP a/DET leitura/NOUN ,/PUNCT por/SCONJ ser/AUX curto/ADJ e/CCONJ de/ADP fácil/ADJ entendimento/NOUN ./PUNCT
+Achei/VERB o/DET livro/NOUN um/DET pouco/ADV fútil/ADJ ./PUNCT
+Acho/VERB que/SCONJ adolescentes/NOUN como/ADP a/DET Malu/PROPN são/AUX difícies/ADJ de/SCONJ encontrar/VERB ,/PUNCT não/ADV me/PRON identifiquei/VERB com/ADP ela/PRON ./PUNCT
+Ela/PRON trata/VERB mãe/NOUN mas/CCONJ como/ADP uma/DET melhor/ADJ amiga/NOUN mesmo/ADV ,/PUNCT mas/CCONJ até/ADV em/ADP o/DET modo/NOUN de/SCONJ lidar/VERB mesmo/ADV ,/PUNCT o/PRON que/PRON eu/PRON acho/VERB errado/ADJ ./PUNCT
+Mas/CCONJ gostei/VERB muito/ADV de/ADP o/DET final/NOUN ,/PUNCT compensa/VERB ./PUNCT
+Em/ADP o/DET início/NOUN de/ADP o/DET livro/NOUN achei/VERB divertido/ADJ ./PUNCT
+Aliás/ADV .../PUNCT a/DET escrita/NOUN de/ADP ele/PRON tá/AUX toda/DET boa/ADJ e/CCONJ bastante/DET diálogo/NOUN (/PUNCT gosto/VERB de/ADP isso/PRON )/PUNCT ./PUNCT
+O/PRON que/PRON achei/VERB meio/ADV estranho/ADJ foi/AUX a/DET maneira/NOUN de/SCONJ como/ADV a/DET filha/NOUN trata/VERB a/DET mãe/NOUN em/ADP muitos/DET momentos/NOUN ,/PUNCT como/ADV ela/PRON é/AUX respondona/VERB ,/PUNCT como/ADV já/ADV com/ADP tão/ADV pouca/DET idade/NOUN tem/VERB vocabulário/NOUN extenso/ADJ para/ADP respostas/NOUN assustadoras/ADJ .../PUNCT
+Mas/CCONJ depois/ADV fiquei/VERB pensando/VERB .../PUNCT isso/PRON é/AUX estranho/ADJ para/ADP mim/PRON ,/PUNCT pois/SCONJ nunca/ADV vivi/VERB isso/PRON em/ADP casa/NOUN ./PUNCT
+Jamais/ADV fiz/VERB isso/PRON com/ADP minha/DET mãe/NOUN ,/PUNCT nem/CCONJ meu/DET irmão/NOUN ./PUNCT
+Nem/ADV meus/DET primos/NOUN ./PUNCT
+E/CCONJ em/ADP o/DET momento/NOUN minha/DET filha/NOUN com/ADP 12/NUM anos/NOUN não/ADV é/AUX a/DET metade/NOUN de/ADP isso/PRON com/ADP mim/PRON ./PUNCT
+Mas/CCONJ já/ADV vi/VERB amigas/NOUN de/ADP ela/PRON agindo/VERB assim/ADV com/ADP as/DET mães/NOUN ,/PUNCT já/ADV ouvi/VERB as/DET amigas/NOUN falando/VERB de/ADP suas/DET mães/NOUN e/CCONJ depois/ADV vi/VERB que/SCONJ não/ADV é/AUX tão/ADV fora/ADV de/ADP a/DET realidade/NOUN assim/ADV o/PRON que/PRON li/VERB em/ADP o/DET livro/NOUN ./PUNCT
+De/ADP modo/NOUN geral/ADJ ,/PUNCT é/AUX um/DET livro/NOUN divertido/ADJ ,/PUNCT interessante/ADJ e/CCONJ rápido/ADJ de/SCONJ se/PRON ler/VERB ./PUNCT
+Voltado/VERB mais/ADV para/ADP mães/NOUN e/CCONJ adolescentes/NOUN ./PUNCT
+tal/DET mãe/NOUN ,/PUNCT tal/DET filha/NOUN
+Ameeeeeeeeeeeeeeeeeeeeeeeeeeeeei/NOUN esse/DET livro/NOUN ./PUNCT
+A/ADP o/DET mesmo/ADJ tempo/NOUN em/ADP que/PRON ´ dava/VERB boas/ADJ risadas/NOUN com/ADP as/DET história/NOUN e/CCONJ micos/NOUN entre/ADP Malu/PROPN e/CCONJ a/DET mãe/NOUN de/ADP ela/PRON ,/PUNCT refleti/VERB que/SCONJ as/DET mães/NOUN estão/AUX sempre/ADV de/ADP o/DET lado/NOUN de/ADP os/DET filhos/NOUN ,/PUNCT ajudando/VERB ,/PUNCT cuidando/VERB ,/PUNCT aconselhando/VERB ,/PUNCT dando/VERB bronca/NOUN e/CCONJ ensinando/VERB sobre/ADP a/DET vida/NOUN ,/PUNCT afinal/ADV ,/PUNCT elas/PRON são/AUX bem/ADV mais/ADV experientes/ADJ que/SCONJ nós/PRON ./PUNCT
+Só/ADV tenho/VERB o/PRON que/PRON agradecer/VERB a/ADP a/DET minha/DET mãe/NOUN ,/PUNCT meu/DET maior/ADJ orgulho/NOUN ,/PUNCT meu/DET maior/ADJ exemplo/NOUN
+O/PRON que/PRON dizer/VERB de/ADP esse/DET livro/NOUN ?/PUNCT
+De/ADP ele/PRON eu/PRON gostei/VERB de/ADP a/DET primeira/ADJ metade/NOUN ,/PUNCT em/ADP a/DET qual/PRON a/DET mãe/NOUN de/ADP Malu/PROPN é/AUX a/DET narradora/NOUN ./PUNCT
+Ela/PRON conta/VERB muito/ADV bem/ADV como/ADV é/AUX a/DET gravidez/NOUN ,/PUNCT ter/VERB uma/DET filha/NOUN pequena/ADJ .../PUNCT e/CCONJ o/DET livro/NOUN me/PRON prendeu/VERB desde/ADP a/DET primeira/ADJ página/NOUN ./PUNCT
+Mas/CCONJ a/ADP partir/VERB de/ADP a/DET segunda/ADJ metade/NOUN ,/PUNCT Malu/PROPN começa/VERB a/SCONJ '/PUNCT '/PUNCT pagar/VERB mico/NOUN '/PUNCT '/PUNCT a/SCONJ usar/VERB o/DET vocabulário/NOUN aborrecente/ADJ de/ADP ela/PRON e/CCONJ isso/PRON não/ADV me/PRON agradou/VERB ./PUNCT
+Queria/VERB que/SCONJ terminasse/VERB logo/ADV ,/PUNCT gostei/VERB mais/ADV de/ADP a/DET mãe/NOUN de/ADP ela/PRON durante/ADP uma/DET boa/ADJ parte/NOUN de/ADP o/DET livro/NOUN ./PUNCT
+O/DET primeiro/ADJ de/ADP os/DET livros/NOUN de/ADP a/DET série/NOUN Fala/PROPN sério/ADJ ,/PUNCT de/ADP a/DET escritora/NOUN Thalita/PROPN Rebouças/PROPN ,/PUNCT Fala/PROPN sério/ADJ ,/PUNCT mãe/NOUN !/PUNCT introduz/VERB muito/ADV bem/ADV como/ADV serão/AUX os/DET próximos/ADJ :/PUNCT uma/DET mistura/NOUN divertidíssima/ADJ de/ADP comédia/NOUN e/CCONJ fatos/NOUN de/ADP o/DET cotidiano/NOUN de/ADP uma/DET adolescente/NOUN ,/PUNCT Malu/PROPN ,/PUNCT que/PRON narra/VERB todos/DET os/DET acontecimentos/NOUN em/ADP relação/NOUN a/ADP mãe/NOUN ,/PUNCT desde/ADP sua/DET infância/NOUN ,/PUNCT desde/ADP o/DET primeiro/ADJ aninho/NOUN (/PUNCT em/ADP essa/DET fase/NOUN ,/PUNCT quem/PRON começa/VERB contar/VERB é/AUX a/DET mãe/NOUN )/PUNCT ,/PUNCT as/DET primeiras/ADJ histórias/NOUN ,/PUNCT primeiro/ADJ dia/NOUN de/ADP aula/NOUN ,/PUNCT enfim/ADV ,/PUNCT os/DET primeiros/ADJ passos/NOUN de/ADP ela/PRON ,/PUNCT e/CCONJ depois/ADV ,/PUNCT quando/ADV está/AUX mais/ADV velha/ADJ ,/PUNCT passa/VERB a/SCONJ ser/AUX contado/VERB por/ADP ela/PRON mesma/ADJ -/PUNCT Malu/PROPN ./PUNCT
+O/DET melhor/NOUN de/ADP tudo/PRON ,/PUNCT é/VERB que/SCONJ a/DET protagonista/NOUN conta/VERB suas/DET histórias/NOUN de/ADP forma/NOUN divertida/ADJ ,/PUNCT irônica/ADJ algumas/DET vezes/NOUN ,/PUNCT revoltada/VERB com/ADP os/DET micos/NOUN que/PRON sua/DET mãe/NOUN lhe/PRON fez/VERB pagar/VERB em/ADP outras/PRON ,/PUNCT mas/CCONJ acima/ADV de/ADP tudo/PRON mostra/VERB como/ADV essa/DET relação/NOUN de/ADP mãe-e-filha/NOUN ,/PUNCT apesar/ADV de/ADP difícil/ADJ ,/PUNCT deve/VERB ser/AUX bem/ADV cuidada/ADJ ./PUNCT
+-/PUNCT Fala/VERB sééério/NOUN ,/PUNCT manhêêêê/NOUN !/PUNCT
+Histórias/NOUN divertidíssimas/ADJ e/CCONJ engraçadíssimas/ADJ (/PUNCT isso/PRON mesmo/ADV ,/PUNCT 2/NUM adjetivos/NOUN com/ADP íssimas/NOUN !/PUNCT
+)/PUNCT de/ADP uma/DET mãe/NOUN dedicada/VERB e/CCONJ sua/DET filha/NOUN Maria/PROPN de/ADP Lourdes/PROPN ,/PUNCT que/PRON prefere/VERB ser/AUX chamada/VERB de/ADP Malu/PROPN ,/PUNCT pois/SCONJ odeia/VERB seu/DET nome/NOUN !/PUNCT
+O/DET bom/NOUN de/ADP esse/DET livro/NOUN é/VERB que/SCONJ você/PRON identifica/VERB sua/DET própria/ADJ mãe/NOUN em/ADP o/DET meio/NOUN de/ADP essas/DET histórias/NOUN malucas/ADJ e/CCONJ cheias/ADJ de/ADP exagero/NOUN materno/ADJ ./PUNCT
+Leia/VERB !/PUNCT
+Mariana/PROPN Almeida/PROPN

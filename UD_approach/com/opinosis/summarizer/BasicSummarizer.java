@@ -23,26 +23,89 @@ public class BasicSummarizer extends OpinosisCore {
         super(g, wordNodeMap, printer);
     }
 
-    // Estrutura UD
-    public boolean isValidCandidate(String str) {
+    // Estrutura UD - Baseado em Ganesam
+//    public boolean isValidCandidate(String str) {
+//        boolean isGood = false;
+//        // Nosso verb pode pegar mais coisas que o da ganesan, que eh soh base form (VB), o mesmo vale para adj
+//        if (str.matches(".*(/adj)*.*(/noun)+.*(/verb)+.*(/adj)+.*")) {
+//            isGood = true;
+//        } else if (str.matches(".*(/det)*.*(/noun)+.*(/aux)+.*(/adj)+.*")){ //nos adicionamos, pq?
+//            isGood = true;
+//        } else if (!str.matches(".*(/det).*") && str.matches(".*(/adv)*.*(/adj)+.*(/noun)+.*")) {
+//            isGood = true;
+//        } else if (str.matches(".*(/pron|/det)+.*(/verb)+.*(/adv|/adj)+.*(/noun)+.*")) { // regra 1 modificada do roque
+//            isGood = true;
+//        } else if (str.matches(".*(/adj)+.*(para/adp)+.*(/verb).*")) {
+//            isGood = true;
+//        } else if (str.matches(".*(/adv)+.*(/adp)+.*(/noun)+.*")) {
+//            isGood = true;
+//        }
+//
+//        String last = str.substring(str.lastIndexOf(' '), str.length());
+//        if (last.matches(".*(/verb|/adp|/cconj|/det|/pron|,/punct)")) {
+//            isGood = false;
+//        }
+//
+//        if (isGood){
+//            System.out.println(str);
+//        }
+//
+//        return isGood;
+//    }
+
+//    Estrutura UD - Baseado em ROQUE
+    public boolean isValidCandidate(String str){
         boolean isGood = false;
-        // Nosso verb pode pegar mais coisas que o da ganesan, que eh soh base form (VB), o mesmo vale para adj
-        if (str.matches(".*(/adj)*.*(/noun)+.*(/verb)+.*(/adj)+.*")) {
+        if (str.matches(".*(/adj)*.*(/noun)+.*(/verb|/aux)+.*(/adj|/adv)+.*")) {
             isGood = true;
-        } else if (str.matches(".*(/det)*.*(/noun)+.*(/aux)+.*(/adj)+.*")){ //nos adicionamos, pq?
+        }
+        else if ((!str.matches(".*(/det).*")) && (str.matches(".*(/adv)*.*(/adj)+.*(/noun)+.*"))) {//Rule 3
             isGood = true;
-        } else if (!str.matches(".*(/det).*") && str.matches(".*(/adv)*.*(/adj)+.*(/noun)+.*")) {
+        }
+        else if ((!str.matches(".*(/det).*")) && (str.matches(".*(/noun)*.*(/adv)+.*(/adj)+.*"))){
             isGood = true;
-        } else if (str.matches(".*(/pron|/det)+.*(/verb)+.*(/adv|/adj)+.*(/noun)+.*")) { // regra 1 modificada do roque
+        }
+//        else if (str.matches(".*(/det)+.*(/verb)+.*(/adv|/adj)+.*(/noun)+.*")){
+//            isGood = true;
+//        }
+        else if (str.matches(".*(/det)*.*(/noun)+.*(/verb|/aux)+.*")){
             isGood = true;
-        } else if (str.matches(".*(/adj)+.*(para/adp)+.*(/verb).*")) {
+        }
+        else if (str.matches(".*(/adv)+.*(/sconj|/adp)+.*(/noun)+.*")) {//Rule 4
             isGood = true;
-        } else if (str.matches(".*(/adv)+.*(/adp)+.*(/noun)+.*")) {
+        }
+        else if (str.matches(".*(/noun|/pron)+.*(/verb|/aux)+.*(/det)*.*(/adj|/noun)+.*")){
+            isGood = true;
+        }
+        else if (str.matches(".*(/noun|/pron)+.*(/adv)*.*(/verb)+.*(/adv)*.*" )){
+            isGood = true;
+        }
+//        else if (str.matches(".*(/noun)*.*(/adv)*.*/adp+.*(/adj)*.*(/noun)+.*")){
+//            isGood = true;
+//        }
+        else if (str.matches(".* /noun+ /adp+ ((/det)|(/adj))* /noun+.*")){
+            isGood = true;
+        }
+        else if (str.matches(".*(/noun|/pron)+.*(/verb|/aux)+.*(/noun|/adj)+.*")) {
+            isGood = true;
+        }
+        // regras livro
+        else if (str.matches(".*(/verb)+.*(/det)*.*(/noun)+.*(/adj)*.*")) {
+            isGood = true;
+        }
+
+        // Regra 2 (Livro): Descrição de atributo da obra. Ex: "O conteúdo é extremamente reflexivo."
+        else if (str.matches(".*(/det)*.*(/adj|/noun)+.*(/verb|/aux)+.*(/adv)*.*(/adj)+.*")) {
+            isGood = true;
+        }
+
+        // Regra 3 (Livro): Opinião com cláusula subordinada. Ex: "Vi que o final era horrível."
+        else if (str.matches(".*(/verb)+.*(/sconj)+.*(/noun)+.*(/verb|/aux)+.*(/adj)+.*")) {
             isGood = true;
         }
 
         String last = str.substring(str.lastIndexOf(' '), str.length());
-        if (last.matches(".*(/verb|/adp|/cconj|/det|/pron|,/punct)")) {
+        if (last.matches(".*(/sconj|/adp|/cconj|/det|,/punct)")) {
             isGood = false;
         }
 
@@ -79,7 +142,26 @@ public class BasicSummarizer extends OpinosisCore {
         return l3;
     }
 
-    // VSNs UD
+//    // VSNs UD - baseado ganesan
+//    public boolean isVSN(Node x) {
+//        String nname = x.getNodeName();
+//        if (x.getAveragePos() <= 15.0D) {
+//            if ((nname.contains("/adj")) ||
+//                    (nname.contains("/adv")) ||
+//                    (nname.contains("/det")) || // pag 9 manual pos -> entendemos como pronome possesivo
+//                    (nname.contains("/verb")) ||
+//                    (nname.contains("/noun")) ||
+//                    (nname.matches("^(seu/|sua/|nosso/|nossa/|quando/).*")) || //pron. possesivos e conjunção
+//                    (nname.contains("o/pron")) ||
+//                    (nname.contains("se/")) ||
+//                    (nname.contains("para/"))) {
+//                return true;
+//            }
+//        }
+//        return false;
+//    }
+
+        // VSNs UD - baseado roque
     public boolean isVSN(Node x) {
         String nname = x.getNodeName();
         if (x.getAveragePos() <= 15.0D) {
@@ -102,16 +184,20 @@ public class BasicSummarizer extends OpinosisCore {
         if (this.isEndToken(x)) {
             return true;
         } else {
+            if (x.getNodeName().matches(".*(/PUNCT)$")) {
+                return false; // Não permite que vírgulas, etc., que não sejam finais, terminem um caminho.
+            }
             return this.getGraph().outDegreeOf(x) <= 0;
         }
     }
 
     public boolean isEndToken(Node x) {
         String token = x.getNodeName();
-        return token.matches(".*(/\\.|/,)");
+        return token.equals("./PUNCT") || token.equals("!/PUNCT") || token.equals("?/PUNCT");
     }
 
     public double computeCandidateSimScore(Candidate s1, Candidate s2) {
+
         List<Node> l1 = s1.theNodeList;
         List<Node> l2 = s2.theNodeList;
         HashSet union = new HashSet(l1);

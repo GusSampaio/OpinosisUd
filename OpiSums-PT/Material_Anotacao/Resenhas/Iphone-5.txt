@@ -1,0 +1,76 @@
+Documento_0
+este é dez <D0_S1>
+este produto é exelente, temho um amigo que tem, deixou o iphone no bolos <D0_S2>
+O que gostei: estiloso,leve ,charmoso <D0_S3>
+O que não gostei: nao posso ter, o preço ainda é salgado <D0_S4>
+
+
+
+Documento_1
+Quero ter um! <D1_S1>
+Parece ser um excelente produto. <D1_S2>
+Pena que no Brasil os impostos sejam tão caros. <D1_S3>
+O que gostei: Tem tudo que precisamos. <D1_S4>
+O que não gostei: O preço. <D1_S5>
+
+
+
+Documento_2
+Excelente <D2_S1>
+Ainda não tenho mas é meu sonho de consumo, pois se trata de um produto bonito e muito bom <D2_S2>
+
+
+
+Documento_3
+Sonho de consumo! <D3_S1>
+As descrições do produto são excelentes, portátio, fácil manuseio e com uma câmera de ótima qualidade, é muito bom poder falar com alguém do outro lado do mundo por meio da videoconferência que o iPhone oferece em suas funções, enfim, totalmente aprovado!! <D3_S2>
+
+
+
+Documento_4
+IPhone 5 <D4_S1>
+Insuperável! Sou advogada e preciso carregar o maior número de informações e ter acesso a todos os recursos possíveis e o IPhone 5 é praticamente a extensão de meu escritório. <D4_S2>
+Tenho á disposição os aplicativos para consultar os processos em quase todos os tribunais, acesso as minhas contas bancárias, aplicativos de trânsito que permitem evitar engarrafamentos e perda de tempo, enfim, se eu fosse colocar tudo o que este aparelho faz não haveria espaço. <D4_S3>
+Simplesmente fantástico! Eu recomendo! <D4_S4>
+
+
+
+Documento_5
+Iphone 5, um grande prêmio! <D5_S1>
+Moro com meu primo, que ao ir aos EUA resolveu trocar seu Iphone 4s por um Iphone 5. <D5_S2>
+A tela com certeza é algo que impressiona, possuindo 4 polegadas, uma resolução de 1136 x 640 pixels, e ainda com um vidro de alta resistência. <D5_S3>
+As cores parecem ser mais "vivas", as fotos ficam lindas devido à alta resolução de 3264 x 2448 pixels; e os vídeos em full HD... é difícil de acreditar que foram feitos via celular. <D5_S4>
+Algo que para mim é extremamente relevante, refere-se à Rede LTE 4G, para uma maior rapidez quando desejo navegar na internet, além da sua memória de 64 GB, uma vez que faço muitos downloads referente ao meu curso para poder estudar. <D5_S5>
+No caso da bateria, a utilização da Internet acarreta em um gasto maior, porém quando em Stand by, tem-se uma durabilidade impressionante se comparada à outros Smartphones. <D5_S6>
+Com certeza trata-se de um iOS muito avançado, e apesar de ter tudo e mais um pouco que qualquer pessoa deseja em um celular, não é pesado e nem muito grande, além de ser extremamente fino com apenas 7.6mm, o que facilita na hora de carregá-lo para todos os lugares. <D5_S7>
+Ah, e por último, mas não menos importante, refere-se à presença de bússola, e GPS, itens indispensáveis principalmente para mim, que viajo bastante, e costumo me perder, além de videoconferência pois não moro na cidade dos meus pais, e facilitaria muito, diminuindo um pouquinho a saudade deles! <D5_S8>
+
+
+
+Documento_6
+Perfeitoooo <D6_S1>
+Além de lindo, é ótimo, fácil de usar , sei disso pois uma prima minha tem. <D6_S2>
+E é muito mais do que você espera ! <D6_S3>
+É praticamente impossivel imaginar ! <D6_S4>
+Então sóo tendo pra saber !!!!! RECOMENDOOOOOOOOOO <D6_S5>
+
+
+
+Documento_7
+Mutio bom,otimo,perfeito <D7_S1>
+Muito lindo demais esse iphone o melhor smartphone que existe. <D7_S2>
+
+
+
+Documento_8
+Principais qualidades do Iphone 5 <D8_S1>
+Muito prático, com boa aparência, e ótima qualidade. <D8_S2>
+
+
+
+Documento_9
+IPHONE 5, MEU SONHO DE CONSUMO <D9_S1>
+DEPOIS DE LER A BIOGRAFIA DE STEVE JOBS, FIQUEI IMPRESSIONADA COMO CADA PRODUTO APPLE É "CRIADO". <D9_S2>
+EU NÃO TENHO CONHECIMENTO DE PRODUTO QUE É PENSADO TÃO DETALHADAMENTE. <D9_S3>
+DESDE O DESIGN, AO PESO, TAMANHO, NITIDEZ, VELOCIDADE, CAPACIDADE, OTIMAS FOTOS, TELA DE RETINA (NUNCA VI IGUAL). <D9_S4>
+QUERO TODOS OS PRODUTOS DA APPLE!!!! E O IPHONE 5 É O MEU SONHO DE CONSUMO!!!!! <D9_S5>

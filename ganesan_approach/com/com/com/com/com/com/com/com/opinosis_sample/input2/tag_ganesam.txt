@@ -1,0 +1,33 @@
+Se/IN a/DT eleição/NN fosse/VBD hoje/RB ,/, o/DT presidente/NN Luiz/NNP Inácio/NNP Lula/NNP da/IN Silva/NNP ,/, candidato/NN à/IN reeleição/NN ,/, teria/VBD 44%/CD das/IN intenções/NNS de/IN voto/NN ,/, contra/IN 25%/CD do/IN tucano/NN Geraldo/NNP Alckmin/NNP ,/, de/IN acordo/NN com/IN a/DT pesquisa/NN CNI/NNP Ibope/NNP divulgada/VBN nesta/DT sexta-feira/NN ./.
+
+Heloísa/NNP Helena/NNP ,/, candidata/NN à/IN Presidência/NNP pelo/IN PSOL/NNP ,/, aparece/VBZ em/IN terceiro/JJ ,/, com/IN 11%/CD das/IN intenções/NNS de/IN voto/NN ,/, seguida/VBN por/IN Cristovam/NNP Buarque/NNP (/(/ PDT/NNP )/) e/CC Luciano/NNP Bivar/NNP (/(/ PSL/NNP )/) ,/, ambos/DT com/IN 1%/CD ./.
+José/NNP Maria/NNP Eymael/NNP ,/, do/IN PSDC/NNP ,/, e/CC Rui/NNP Pimenta/NNP ,/, do/IN PCO/NNP ,/, não/RB chegaram/VBD a/IN obter/VB 1%/CD das/IN intenções/NNS de/IN voto/NN ./.
+
+Considerando/VBG apenas/RB os/DT votos/NNS válidos/JJ ,/, Lula/NNP venceria/VBD as/DT eleições/NNS de/IN outubro/NN ainda/RB no/IN primeiro/JJ turno/NN ./.
+Não/RB é/VBZ possível/JJ fazer/VB uma/DT comparação/NN entre/IN a/DT pesquisa/NN divulgada/VBN hoje/RB e/CC a/DT anterior/JJ ,/, porque/IN esta/DT é/VBZ a/DT primeira/JJ CNI/NNP Ibope/NNP com/IN a/DT lista/NN oficial/JJ dos/IN candidatos/NNS do/IN TSE/NNP (/(/ Tribunal/NNP Superior/NNP Eleitoral/NNP )/) à/IN sucessão/NN presidencial/JJ ./.
+
+A/DT pesquisa/NN de/IN hoje/RB apresentou/VBD uma/DT variação/NN na/IN lista/NN espontânea/JJ (/(/ quando/WRB os/DT entrevistados/NNS dizem/VBP em/IN quem/WP pretendem/VBP votar/VB sem/IN um/DT cartão/NN com/IN nomes/NNS )/) ./.
+Neste/DT cenário/NN ,/, Lula/NNP sobe/VBZ de/IN 27%/CD para/IN 31%/CD e/CC Alckmin/NNP passa/VBZ de/IN 4%/CD para/IN 14%/CD ;/: Heloísa/NNP também/RB cresce/VBZ ,/, de/IN 1%/CD para/IN 6%/CD ./.
+
+De/IN acordo/NN com/IN a/DT CNI/NNP Ibope/NNP ,/, num/IN possível/JJ segundo/JJ turno/NN ,/, Lula/NNP perderia/VBD 10/CD pontos/NNS de/IN vantagem/NN para/IN Alckmin/NNP ./.
+Em/IN junho/NN ,/, o/DT presidente/NN tinha/VBD 53%/CD das/IN intenções/NNS de/IN voto/NN contra/IN 29%/CD do/IN tucano/NN ./.
+Agora/RB ,/, Lula/NNP teria/VBD 50%/CD ,/, contra/IN 36%/CD de/IN Alckmin/NNP ./.
+
+Num/IN eventual/JJ segundo/JJ turno/NN com/IN Heloísa/NNP Helena/NNP ,/, a/DT vantagem/NN de/IN Lula/NNP também/RB cairia/VBD ,/, de/IN acordo/NN com/IN a/DT pesquisa/NN de/IN hoje/RB ./.
+O/DT presidente/NN teria/VBD 53%/CD das/IN intenções/NNS de/IN voto/NN contra/IN 30%/CD de/IN Heloísa/NNP ./.
+Em/IN junho/NN ,/, Lula/NNP tinha/VBD 57%/CD e/CC Heloísa/NNP 21%/CD ./.
+
+A/DT pesquisa/NN ouviu/VBD 2.002/CD pessoas/NNS entre/IN os/DT dias/NNS 29/CD e/CC 31/CD de/IN julho/NN ,/, em/IN 142/CD municípios/NNS do/IN país/NN ./.
+A/DT margem/NN de/IN erro/NN é/VBZ de/IN dois/CD pontos/NNS percentuais/JJ ,/, para/IN mais/RBR ou/CC para/IN menos/RBR ./.
+
+Na/IN comparação/NN com/IN a/DT pesquisa/NN Ibope/NNP divulgada/VBN há/IN nove/CD dias/NNS ,/, Lula/NNP permaneceu/VBD estável/JJ em/IN 44%/CD e/CC Alckmin/NNP oscilou/VBD dois/CD pontos/NNS percentuais/JJ ,/, de/IN 27%/CD para/IN 25%/CD ./.
+Já/RB Heloísa/NNP subiu/VBD três/CD pontos/NNS ,/, de/IN 8%/CD para/IN 11%/CD ./.
+
+Num/IN eventual/JJ segundo/JJ turno/NN e/CC na/IN comparação/NN com/IN a/DT pesquisa/NN Ibope/NNP do/IN dia/NN 25/CD ,/, Lula/NNP oscila/VBZ de/IN 48%/CD para/IN 50%/CD ,/, enquanto/IN Alckmin/NNP cai/VBZ de/IN 39%/CD para/IN 36%/CD ./.
+
+Uma/DT possível/JJ disputa/NN entre/IN Lula/NNP e/CC Heloísa/NNP num/IN segundo/JJ turno/NN não/RB foi/VBD cogitada/VBN pelo/IN Ibope/NNP nesse/DT levantamento/NN do/IN dia/NN 25/CD ./.
+
+Os/DT números/NNS da/IN última/JJ pesquisa/NN Datafolha/NNP são/VBP semelhantes/JJ aos/IN divulgados/VBN nesta/DT sexta-feira/NN ./.
+
+Na/IN pesquisa/NN ,/, divulgada/VBN no/IN último/JJ dia/NN 19/CD pela/IN Folha/NNP ,/, Lula/NNP aparece/VBZ com/IN 44%/CD das/IN intenções/NNS de/IN voto/NN e/CC Alckmin/NNP ,/, com/IN 28%/CD ./.
+A/DT candidata/NN do/IN PSOL/NNP à/IN Presidência/NNP vem/VBZ em/IN terceiro/JJ ,/, com/IN 10%/CD ./.

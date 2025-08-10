@@ -1,0 +1,54 @@
+Surreal/PROPN Saramago/PROPN explora/VERB a/DET fantasia/NOUN atrelada/VERB a/ADP cegueira/NOUN de/ADP uma/DET maneira/NOUN muito/ADV doida/ADJ ./PUNCT
+Ela/PRON alastra/VERB -/PUNCT se/PRON de/ADP maneira/NOUN exponencial/ADJ ./PUNCT
+Começa/VERB com/ADP um/DET motorista/NOUN em/ADP o/DET sinal/NOUN e/CCONJ termina/VERB com/ADP toda/DET população/NOUN de/ADP uma/DET cidade/NOUN ./PUNCT
+Exceto/ADP a/DET esposa/NOUN de/ADP um/DET oftalmologista/NOUN (/PUNCT ironia/NOUN )/PUNCT ./PUNCT
+A/DET leitura/NOUN terá/VERB um/DET caráter/NOUN muito/ADV pessoal/ADJ ./PUNCT
+Cada/DET leitor/NOUN irá/AUX comparar/VERB essa/DET cegueira/NOUN com/ADP a/DET visão/NOUN de/ADP mundo/NOUN que/PRON cada/DET um/NUM tem/VERB ./PUNCT
+Essa/DET edição/NOUN que/PRON adqueri/VERB tem/VERB os/DET diálogos/NOUN separados/VERB apenas/ADV por/ADP vírgulas/NOUN ,/PUNCT o/PRON que/PRON dificulta/VERB o/DET entendimento/NOUN ./PUNCT
+Os/DET personagens/NOUN não/ADV tem/VERB nome/NOUN ,/PUNCT apenas/ADV apelidos/NOUN (/PUNCT motorista/NOUN ,/PUNCT rapariga/NOUN de/ADP óculos/NOUN ,/PUNCT mulher/NOUN de/ADP o/DET médico/NOUN ,/PUNCT etc./ADV )/PUNCT ./PUNCT
+O/DET romance/NOUN é/AUX permeado/VERB por/ADP ditos/NOUN populares/ADJ e/CCONJ provérbios/ADJ ./PUNCT
+A/DET maneira/NOUN como/ADV Saramago/PROPN conduz/VERB a/DET história/NOUN tem/VERB sua/DET marca/NOUN :/PUNCT simplicidade/NOUN ./PUNCT
+Mesmo/ADV assim/ADV ,/PUNCT não/ADV chegou/VERB a/SCONJ me/PRON impressionar/VERB com/ADP obra/NOUN de/ADP 5/NUM estrelas/NOUN ./PUNCT
+O/DET livro/NOUN tem/VERB uma/DET ótima/ADJ linguagem/NOUN e/CCONJ aborda/VERB temas/NOUN que/PRON em/ADP os/PRON levam/VERB a/ADP uma/DET reflexão/NOUN ,/PUNCT sobre/ADP o/DET nosso/DET comportamento/NOUN em/ADP uma/DET sociedade/NOUN cada/NOUN vez/ADP mais/NOUN hipócrita/ADJ em/ADP que/PRON a/DET ética/NOUN e/CCONJ os/DET bons/ADJ costumes/NOUN estão/AUX cada/NOUN vez/ADP mais/NOUN sendo/AUX esquecidos/VERB ./PUNCT
+Todo/DET mundo/NOUN tem/AUX que/SCONJ ler/VERB este/DET magnífico/ADJ livro/NOUN de/ADP Saramago/PROPN ./PUNCT
+Esse/PRON foi/AUX o/DET primeiro/ADJ livro/NOUN cadastrado/VERB em/ADP o/DET Skoob./PROPN
+http://www.skoob.com.br/livro/sobre/1/SYM
+Meu/DET Deus/PROPN !/PUNCT
+A/DET angústia/NOUN de/ADP a/DET leitura/NOUN me/PRON volta/VERB quando/SCONJ tento/VERB escrever/VERB esta/DET resenha/NOUN ./PUNCT
+De/ADP repente/NOUN ,/PUNCT cego/ADJ ./PUNCT
+O/PRON que/PRON fazer/VERB ?/PUNCT
+.../PUNCT se/SCONJ a/DET angústia/NOUN inicial/ADJ que/PRON o/DET livro/NOUN em/SCONJ os/PRON coloca/VERB já/ADV assusta/VERB ,/PUNCT imagina/VERB ,/PUNCT a/DET quase/ADV afirmativa/NOUN de/ADP o/DET livro/NOUN que/SCONJ :/PUNCT VOCÊ/PRON NÃO/ADV ENXERGA/VERB !/PUNCT
+Vê/VERB através/ADV de/ADP a/DET mídia/NOUN ,/PUNCT de/ADP a/DET sociedade/NOUN ,/PUNCT de/ADP as/DET crenças/NOUN ./PUNCT
+Sem/ADP a/DET visão/NOUN que/PRON acreditamos/VERB ter/VERB ,/PUNCT em/SCONJ os/PRON tornamos/VERB ,/PUNCT verdadeiramente/ADV ,/PUNCT o/PRON que/PRON somos/AUX ./PUNCT
+Nojento/ADJ ,/PUNCT assustador/ADJ .../PUNCT tornamo/VERB -/PUNCT em/ADP os/DET animais/NOUN ,/PUNCT seres/NOUN que/PRON se/PRON voltam/VERB para/ADP o/DET eu/PRON ,/PUNCT como/SCONJ se/SCONJ a/DET cegueira/NOUN branca/ADJ ,/PUNCT que/PRON é/AUX colocada/VERB ,/PUNCT fosse/VERB como/SCONJ se/SCONJ estivessemos/AUX olhando/VERB para/ADP dentro/ADV de/ADP nós/PRON mesmo/DET ,/PUNCT esperando/VERB ver/VERB alguma/DET coisa/NOUN ,/PUNCT mas/CCONJ em/ADP a/DET verdade/NOUN não/ADV vemos/VERB nada/PRON ./PUNCT
+NADA/PRON !/PUNCT
+.../PUNCT
+Leiam/VERB !/PUNCT
+.../PUNCT
+Impossível/ADJ não/ADV gostar/VERB ./PUNCT
+adaptabilidade/NOUN Confesso/VERB que/SCONJ em/ADP o/DET começo/NOUN não/ADV gostei/VERB ./PUNCT
+Depois/ADV fui/AUX curtindo/VERB ./PUNCT
+Em/ADP o/DET final/NOUN ,/PUNCT me/PRON envolvi/VERB ,/PUNCT me/PRON vi/VERB vendo/VERB tudo/PRON que/PRON os/DET personagens/NOUN não/ADV viam/VERB ./PUNCT
+E/CCONJ tudo/PRON que/PRON de/ADP fato/NOUN os/DET olhos/NOUN não/ADV vêem/VERB ,/PUNCT o/DET coração/NOUN ,/PUNCT o/DET corpo/NOUN e/CCONJ a/DET mente/NOUN não/ADV sente/VERB ,/PUNCT demonstrando/VERB a/DET capacidade/NOUN de/ADP o/DET ser/NOUN humano/ADJ em/SCONJ ,/PUNCT em/ADP situações/NOUN extremas/ADJ ,/PUNCT conseguir/VERB demonstrar/VERB ser/AUX capaz/ADJ de/ADP uma/DET adaptabilidade/NOUN ./PUNCT
+Cego/PROPN Aderaldo/PROPN Meu/DET contato/NOUN com/ADP os/DET dramas/NOUN de/ADP a/DET cegueira/NOUN propriamente/ADV dita/VERB aconteceu/VERB a/SCONJ o/DET ler/VERB a/DET biografia/NOUN de/ADP Cego/PROPN Aderaldo/PROPN e/CCONJ ler/VERB o/DET seu/DET emocionante/ADJ poema/NOUN As/DET três/NUM lagrimas/PROPN ./PUNCT
+Depois/ADV de/ADP isso/PRON foi/AUX minha/DET propria/ADJ cegueira/NOUN em/ADP as/DET relações/NOUN de/ADP a/DET vida/NOUN e/CCONJ em/ADP a/DET cegueira/NOUN de/ADP os/DET outros/PRON ,/PUNCT que/SCONJ sempre/ADV vi/VERB mais/ADV de/ADP o/PRON que/PRON a/DET minha/PRON ./PUNCT
+O/DET livro/NOUN de/ADP Saramago/PROPN é/AUX espetacular/ADJ ./PUNCT
+Como/ADP outros/DET livros/NOUN de/ADP o/DET mesmo/ADJ estilo/NOUN (/PUNCT Jangada/PROPN de/ADP Pedra/PROPN e/CCONJ As/DET intermitencias/PROPN de/ADP a/DET Morte/PROPN )/PUNCT ,/PUNCT ele/PRON parte/VERB de/ADP um/DET acontecimento/NOUN absurdo/ADJ e/CCONJ depois/ADV explora/VERB todas/DET as/DET consequencias/NOUN que/PRON são/AUX perfeitamente/ADV plausiveis/ADJ ./PUNCT
+Em/ADP os/DET livros/NOUN de/ADP Saramago/PROPN ,/PUNCT voce/PRON encontra/VERB historia/NOUN ,/PUNCT profundo/ADJ conhecimento/NOUN de/ADP as/DET virtudes/NOUN e/CCONJ fraquezas/NOUN humanas/ADJ ,/PUNCT encontra/VERB frases/NOUN de/ADP profundo/ADJ significado/NOUN ,/PUNCT etc./ADV
+Todos/PRON somos/AUX cegos/ADJ mas/CCONJ podemos/VERB voltar/VERB a/SCONJ enxergar/VERB !/PUNCT
+Vontade/NOUN de/SCONJ gritar/VERB ,/PUNCT chorar/VERB ,/PUNCT bater/VERB e/CCONJ ler/VERB de/ADP novo/NOUN !/PUNCT
+Gostei/VERB tanto/ADV de/ADP o/DET livro/NOUN de/ADP José/PROPN Saramago/PROPN quanto/CCONJ de/ADP o/DET filme/NOUN dirigido/VERB por/ADP Meirelles/PROPN !/PUNCT
+Claro/ADJ que/SCONJ o/DET livro/NOUN é/AUX sempre/ADV melhor/ADJ ,/PUNCT pois/SCONJ nada/PRON é/AUX tão/ADV bom/ADJ e/CCONJ poderoso/ADJ quanto/ADV nossa/DET imaginação/NOUN ./PUNCT
+Ambos/PRON em/ADP os/PRON fazem/VERB ter/VERB vontade/NOUN de/SCONJ gritar/VERB ,/PUNCT chorar/VERB ,/PUNCT bater/VERB e/CCONJ ler/VERB de/ADP novo/NOUN !/PUNCT
+A/DET obra/NOUN mostra/VERB como/ADV pode/VERB ser/AUX sujo/ADJ e/CCONJ grotesco/ADJ o/DET caráter/NOUN de/ADP os/DET homens/NOUN ,/PUNCT apresenta/VERB o/DET quanto/PRON as/DET pessoas/NOUN precisam/VERB de/ADP um/DET referencial/NOUN (/PUNCT ideológico/ADJ ,/PUNCT religioso/ADJ ,/PUNCT utópico/ADJ )/PUNCT para/SCONJ ter/VERB um/DET rumo/NOUN ,/PUNCT o/PRON quanto/PRON somos/AUX pequenos/ADJ e/CCONJ vazios/ADJ a/SCONJ o/DET apresentar/VERB a/DET degradação/NOUN de/ADP a/DET sensibilidade/NOUN humana/ADJ .../PUNCT
+O/DET fio/NOUN de/ADP esperança/NOUN está/AUX em/ADP a/DET corrente/NOUN de/ADP o/DET bem/NOUN e/CCONJ em/SCONJ querer/VERB se/PRON compartilhar/VERB o/DET pequeno/ADJ suspiro/NOUN de/ADP bondade/NOUN que/PRON existe/VERB ./PUNCT
+Um/DET livro/NOUN para/SCONJ refletir/VERB
+Em/ADP síntese/NOUN ,/PUNCT a/DET história/NOUN fala/VERB sobre/ADP uma/DET cegueira/NOUN branca/ADJ que/PRON atinge/VERB a/DET humanidade/NOUN a/ADP os/DET poucos/PRON levando/VERB -/PUNCT a/SCONJ perder/VERB todos/DET os/DET traços/NOUN de/ADP civilidade/NOUN ./PUNCT
+O/PRON que/PRON passa/VERB a/SCONJ ver/VERB é/AUX a/DET lei/NOUN de/ADP o/DET mais/ADV forte/NOUN ./PUNCT
+É/AUX um/DET livro/NOUN que/PRON prendeu/VERB minha/DET atenção/NOUN de/ADP o/DET começo/NOUN a/ADP o/DET fim/NOUN e/CCONJ me/PRON fez/VERB refletir/VERB bastante/ADV sobre/ADP o/DET assunto/NOUN proposto/VERB por/ADP o/DET autor/NOUN ,/PUNCT que/SCONJ a/DET humanidade/NOUN não/ADV é/AUX boa/ADJ por/ADP natureza/NOUN ./PUNCT
+O/PRON que/PRON você/PRON faria/VERB ?/PUNCT
+Esse/PRON não/ADV é/AUX um/DET mero/ADJ romance/NOUN ./PUNCT
+É/AUX um/DET ensaio/NOUN sobre/ADP a/DET cegueira/NOUN de/ADP o/DET homem/NOUN SOBRE/ADP A/DET SUA/DET PRÓPRIA/ADJ NATUREZA/NOUN ./PUNCT
+Esse/DET livro/NOUN pinta/VERB uma/DET ficção/NOUN onde/PRON os/DET homens/NOUN viveriam/VERB em/ADP um/DET lugar/NOUN onde/PRON o/DET sistema/NOUN não/ADV existe/VERB ,/PUNCT onde/PRON o/DET poder/NOUN de/ADP o/DET mais/ADV forte/NOUN impera/VERB ./PUNCT
+É/AUX um/DET livro/NOUN muito/ADV doloroso/ADJ ,/PUNCT mas/CCONJ magnífico/ADJ a/ADP o/DET mesmo/ADJ tempo/NOUN ./PUNCT
+Recomendadíssimo/ADJ ./PUNCT

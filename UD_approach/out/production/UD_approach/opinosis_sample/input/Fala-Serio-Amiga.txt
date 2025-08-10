@@ -1,0 +1,44 @@
+Ganhei/VERB de/ADP uma/DET vizinha/NOUN !/PUNCT
+Confesso/VERB que/SCONJ não/ADV compraria/VERB ,/PUNCT até/ADV porque/SCONJ não/ADV gostei/VERB de/ADP '/PUNCT Fala/VERB sério/ADJ ,/PUNCT amor/NOUN !/PUNCT
+'/PUNCT ./PUNCT
+Mas/CCONJ esse/PRON até/ADP que/SCONJ é/AUX bem/ADV legal/ADJ de/SCONJ ler/VERB ./PUNCT
+Me/PRON identifiquei/VERB com/ADP algumas/DET coisas/NOUN ,/PUNCT achei/VERB outras/PRON bastante/ADV forçadas/ADJ e/CCONJ achei/VERB que/SCONJ o/DET livro/NOUN é/AUX meio/ADV que/SCONJ uma/DET autobiografia/NOUN de/ADP a/DET Thalita/PROPN disfarçada/VERB ./PUNCT
+Até/ADV que/SCONJ me/PRON arrancou/VERB algumas/DET risadaa/NOUN ./PUNCT
+(/PUNCT poucas/PRON )/PUNCT
+Fala/VERB sério/ADV ,/PUNCT amiga/NOUN !/PUNCT
+O/DET livro/NOUN ,/PUNCT de/ADP Thalita/PROPN Rebouças/PROPN narra/VERB a/DET história/NOUN desde/ADP criança/NOUN ,/PUNCT de/ADP uma/DET garota/NOUN ,/PUNCT chamada/VERB Malu/PROPN ,/PUNCT que/PRON conta/VERB sobre/ADP todas/DET as/DET amizades/NOUN que/PRON já/ADV teve/VERB em/ADP a/DET sua/DET vida/NOUN ,/PUNCT de/ADP todas/DET as/DET confusões/NOUN e/CCONJ as/DET situaçoes/NOUN ilarias/ADJ com/ADP suas/DET amigas/NOUN ./PUNCT
+Fala/VERB serio/ADV amiga/NOUN
+Esse/DET livro/NOUN conta/VERB ahistoria/NOUN de/ADP Malu/PROPN e/CCONJ suas/DET inseparaveis/ADJ amigas/NOUN ./PUNCT
+Conta/VERB a/DET historia/NOUN de/ADP cada/DET uma/NUM de/ADP seus/DET momentos/NOUN marcantes/ADJ de/ADP tim/NOUN tim/NOUN por/ADP tim/NOUN fala/VERB de/ADP os/DET conflitos/NOUN de/ADP uma/DET amizade/NOUN ,/PUNCT de/ADP a/DET tristeza/NOUN quando/ADV acontece/VERB algo/PRON com/ADP alguma/DET amiga/NOUN .../PUNCT
+Esse/DET livro/NOUN e/CCONJ muito/ADV legal/ADJ fala/VERB de/ADP todo/PRON que/PRON uma/DET amiga/NOUN e/CCONJ ou/CCONJ pode/VERB ser/VERB .../PUNCT
+Thalita/PROPN é/AUX praticamente/ADV uma/DET adolescente/NOUN !/PUNCT
+Escreve/VERB o/DET livro/NOUN com/ADP palavras/NOUN expressões/NOUN que/PRON só/ADV adolescentes/NOUN usam/VERB ./PUNCT
+Falando/VERB sobre/ADP mais/ADV uma/NUM aventura/NOUN de/ADP Malu/PROPN ./PUNCT
+Ela/PRON e/CCONJ suas/DET amigas/NOUN aprontam/VERB e/CCONJ se/PRON divertem/VERB muito/ADV ./PUNCT
+Malu/PROPN ,/PUNCT como/ADP todo/DET mundo/NOUN ,/PUNCT tem/VERB a/DET amiga/NOUN mais/ADV chegada/ADJ ,/PUNCT mais/ADV fofa/ADJ e/CCONJ mais/ADV querida/ADJ ./PUNCT
+Essa/PRON é/AUX a/DET Alice/PROPN ,/PUNCT sua/DET amiga/NOUN desde/ADP pequena/NOUN ./PUNCT
+Ficaram/VERB juntar/VERB até/ADP o/DET último/ADJ capítulo/NOUN de/ADP o/DET livro/NOUN ./PUNCT
+E/CCONJ tenho/VERB certeza/NOUN ,/PUNCT que/SCONJ duraria/VERB mais/ADV ./PUNCT
+As/DET duas/NUM brigam/VERB e/CCONJ se/PRON divertem/VERB a/ADP o/DET longo/NOUN de/ADP o/DET livro/NOUN ./PUNCT
+Além/ADV de/ADP elas/PRON ,/PUNCT há/VERB a/DET Duca/PROPN ,/PUNCT a/DET Nanda/PROPN ,/PUNCT a/DET Helo/PROPN .../PUNCT
+Malu/PROPN era/AUX rodeada/VERB de/ADP amigas/NOUN ./PUNCT
+Sempre/ADV amou/VERB todas/PRON ./PUNCT
+Esse/DET livro/NOUN é/AUX um/DET livro/NOUN divertido/ADJ ,/PUNCT que/PRON a/ADP o/DET mesmo/ADJ tempo/NOUN que/PRON em/SCONJ os/PRON faz/VERB rir/VERB ,/PUNCT em/SCONJ os/PRON faz/VERB refletir/VERB sobre/ADP todas/DET as/DET nossas/DET amizades/NOUN ./PUNCT
+Que/SCONJ é/AUX a/DET coisa/NOUN mais/ADV preciosa/ADJ de/ADP a/DET vida/NOUN .../PUNCT
+Super/ADJ recomendado/VERB ;/PUNCT D/PROPN
+Amei/VERB !/PUNCT
+O/DET meu/DET favorito/NOUN de/ADP a/DET série/NOUN Fala/VERB Sério/PROPN ./PUNCT
+Foi/AUX o/PRON que/PRON eu/PRON mais/ADV me/PRON identifiquei/VERB ..../PUNCT
+:/PUNCT D/NOUN
+maravilhoso/ADJ ./PUNCT
+Fala/VERB sério/ADV amiga/NOUN é/AUX um/DET livro/NOUN muito/ADV bom/ADJ ./PUNCT
+Fala/VERB de/ADP uma/DET garota/NOUN chamada/VERB Malu/PROPN ,/PUNCT ela/PRON conta/VERB como/ADV é/AUX a/DET sua/DET vida/NOUN desde/ADP os/DET três/NUM anos/NOUN de/ADP idade/NOUN até/ADP a/DET sua/DET idade/NOUN atual/ADJ 21/NUM anos/NOUN ./PUNCT
+Ela/PRON e/CCONJ suas/DET amigas/NOUN vivem/VERB muitas/DET aventuras/NOUN ,/PUNCT conhecem/VERB várias/DET outras/DET garotas/NOUN ,/PUNCT arrumam/VERB namorados/NOUN e/CCONJ principalmente/ADV encrenca/VERB .../PUNCT
+Fala/VERB sério/ADJ Amiga/PROPN é/AUX um/DET livro/NOUN onde/PRON a/DET autora/NOUN relata/VERB a/DET história/NOUN de/ADP ela/PRON com/ADP suas/DET amigas/NOUN de/ADP a/DET infância/NOUN até/ADP a/DET adolescência/NOUN ./PUNCT
+muito/ADV bom/ADJ tenho/VERB muitas/DET amigas/NOUN e/CCONJ as/DET vezes/NOUN agente/NOUN vive/VERB rindo/VERB de/ADP as/DET situações/NOUN que/PRON passamos/VERB ,/PUNCT gosto/VERB de/SCONJ registrar/VERB esses/DET momentos/NOUN ,/PUNCT muito/ADV legal/ADJ ara/SCONJ quem/PRON gosta/VERB de/SCONJ curtir/VERB as/DET amizades/NOUN e/CCONJ de/SCONJ se/PRON divertir/VERB muito/ADV junto/ADV a/ADP elas/PRON e/CCONJ tambem/ADV tem/VERB muitas/DET amizades/NOUN verdadeiras/ADJ ./PUNCT
+AMIGO/NOUN É/AUX PRA/ADP TODA/DET VIDA/NOUN E/CCONJ POUCOS/PRON TEM/VERB ESSA/DET SORTE/NOUN DE/SCONJ TER/VERB UMA/DET PESSOA/NOUN QUE/PRON ESTEJA/AUX ALÍ/ADV PARA/SCONJ TE/PRON APOIAR/VERB EM/ADP OS/DET MOMENTOS/NOUN DIFÍCEIS/ADJ ./PUNCT
+TEM/VERB AQUELA/DET AMIGA/NOUN COMPANHEIRA/ADJ ,/PUNCT IRMÃ/PROPN ,/PUNCT PRIMA/NOUN ./PUNCT
+MAS/CCONJ TODAS/DET ELAS/PRON TEM/VERB O/DET SEU/DET JEITO/NOUN CARINHOSO/ADJ DE/SCONJ EM/SCONJ OS/PRON FAZER/VERB FELIZ/NOUN ./PUNCT
+Mais/NOUN uma/ADP vez/NOUN ,/PUNCT em/ADP um/DET enredo/NOUN simples/ADJ e/CCONJ muito/ADV divertido/ADJ ,/PUNCT Thalita/PROPN Rebouças/PROPN em/SCONJ os/PRON traz/VERB a/DET alegria/NOUN de/ADP a/DET vida/NOUN que/PRON toda/DET garota/NOUN conhece/VERB ,/PUNCT mas/CCONJ que/PRON não/ADV consegue/VERB apreciar/VERB ./PUNCT
+E/CCONJ ./PUNCT como/ADP sempre/ADV ,/PUNCT através/ADV de/ADP os/DET olhos/NOUN ,/PUNCT de/ADP as/DET palavras/NOUN ,/PUNCT e/CCONJ de/ADP as/DET amigas/NOUN de/ADP a/DET Malu/PROPN ,/PUNCT conseguimos/VERB enxergar/VERB muito/ADV de/ADP nós/PRON mesmas/ADJ e/CCONJ de/ADP as/DET nossas/DET próprias/ADJ amigas/NOUN ,/PUNCT em/SCONJ os/PRON vendo/VERB em/ADP características/NOUN ,/PUNCT frases/NOUN e/CCONJ situações/NOUN ,/PUNCT em/ADP um/DET dia/NOUN a/ADP dia/NOUN que/PRON por/SCONJ ser/AUX tão/ADV único/ADJ é/AUX também/ADV tão/ADV igual/ADJ a/ADP o/PRON de/ADP todo/DET mundo/NOUN ./PUNCT
+Ri/VERB e/CCONJ me/PRON emocionei/VERB muito/ADV com/ADP o/DET livro/NOUN ,/PUNCT e/CCONJ ,/PUNCT como/SCONJ aconteceu/VERB quando/ADV li/PRON Fala/VERB Sério/PROPN ,/PUNCT Mãe/PROPN ,/PUNCT acabei/VERB o/DET livro/NOUN com/ADP aquela/DET vontade/NOUN apertada/VERB de/SCONJ reuniar/VERB todas/DET as/DET minhas/DET amigas/NOUN pra/SCONJ matar/VERB a/DET saudade/NOUN !/PUNCT

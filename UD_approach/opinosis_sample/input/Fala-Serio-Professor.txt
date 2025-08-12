@@ -1,0 +1,29 @@
+Amei/VERB ./PUNCT
+Sou/AUX um/DET pouco/ADV suspeita/ADJ uma/DET vez/NOUN que/SCONJ já/ADV me/PRON considero/VERB fã/NOUN de/ADP a/DET Thalita/PROPN ./PUNCT
+Ok/INTJ ,/PUNCT tietismo/NOUN '/PUNCT a/ADP parte/NOUN o/DET livro/NOUN narra/VERB de/ADP forma/NOUN divertida/ADJ a/DET relação/NOUN de/ADP Malu/PROPN com/ADP seus/DET professores/NOUN ,/PUNCT de/ADP os/DET três/NUM a/ADP os/DET vinte/NUM e/CCONJ dois/NUM anos/NOUN (/PUNCT de/ADP a/DET pré/ADJ escola/NOUN até/ADP a/DET faculdade/NOUN incluindo/VERB alguns/DET cursinhos/NOUN )/PUNCT
+É/AUX um/DET livro/NOUN de/ADP gênero/NOUN infanto/ADJ juvenil/ADJ portanto/CCONJ costuma/VERB agradar/VERB mais/ADV a/DET galerinha/NOUN de/ADP 12/NUM anos/NOUN ./PUNCT
+Mas/CCONJ eu/PRON o/PRON recomendo/VERB a/ADP todos/PRON que/SCONJ queiram/VERB dar/VERB boas/ADJ gargalhadas/NOUN !/PUNCT
+:/PUNCT )/PUNCT
+Fala/VERB serio/ADJ professor/NOUN Malu/PROPN ja/ADV com/ADP 22/NUM anos/NOUN relembra/VERB de/ADP suas/DET aventuras/NOUN enquanto/ADV ela/PRON tava/VERB em/ADP o/DET colegial/NOUN como/SCONJ quando/ADV ela/PRON tinha/VERB 15/NUM anos/NOUN e/CCONJ foi/VERB para/ADP floripa/NOUN com/ADP sua/DET turma/NOUN e/CCONJ ela/PRON tinha/VERB medo/NOUN de/ADP mar/NOUN e/CCONJ de/ADP ondas/NOUN e/CCONJ suas/DET amigas/NOUN a/PRON colocaram/VERB em/ADP umas/DET aulas/NOUN de/ADP surf/NOUN onde/PRON ela/PRON levou/VERB cada/DET tombo/NOUN .../PUNCT tambem/ADV teve/VERB a/DET vez/NOUN q/SCONJ ela/PRON com/ADP 18/NUM anos/NOUN foi/VERB para/ADP a/DET autoescola/NOUN para/SCONJ descobrir/VERB o/PRON q/PRON rolou/VERB la/PRON e/CCONJ outras/DET aventuras/NOUN de/ADP malu/NOUN leia/VERB o/DET livro/NOUN ./PUNCT
+Bem/ADV legal/ADJ ./PUNCT
+Sempre/ADV quis/VERB ler/VERB os/DET livros/NOUN de/ADP a/DET série/NOUN Fala/PROPN sério/ADJ de/ADP a/DET Thalita/PROPN Rebouças/PROPN ,/PUNCT pois/SCONJ muitas/DET pessoas/NOUN recomendavam/VERB e/CCONJ diziam/VERB que/SCONJ era/AUX ótimo/ADJ ./PUNCT
+Então/ADV ,/PUNCT animada/VERB resolvi/VERB começar/VERB por/ADP o/PRON de/ADP o/DET professor/NOUN ,/PUNCT e/CCONJ infelizmente/ADV me/PRON decepcionei/VERB muito/ADV ./PUNCT
+A/ADP o/DET contrário/NOUN de/ADP o/PRON que/PRON imaginei/VERB ,/PUNCT não/ADV me/PRON identifiquei/VERB nada/PRON com/ADP os/DET professores/NOUN de/ADP a/DET Malu/PROPN ,/PUNCT e/CCONJ muito/ADV menos/ADV com/ADP ela/PRON ./PUNCT
+Achei/VERB o/DET livro/NOUN muito/ADV artificial/ADJ ,/PUNCT e/CCONJ nada/ADV próximo/ADJ de/ADP a/DET realidade/NOUN de/ADP os/DET estudantes/NOUN ./PUNCT
+Li/PROPN quando/ADV tinha/VERB 12/NUM anos/NOUN ,/PUNCT e/CCONJ acredite/VERB ,/PUNCT em/ADP essa/DET idade/NOUN já/ADV achei/VERB o/DET livro/NOUN infantil/ADJ demais/ADV ./PUNCT
+Devido/ADV a/ADP minha/DET frustração/NOUN ,/PUNCT perdi/VERB um/DET pouco/NOUN de/ADP a/DET vontade/NOUN de/SCONJ ler/VERB os/DET outros/PRON ,/PUNCT mas/CCONJ imagino/VERB que/SCONJ sejam/AUX melhores/ADJ ./PUNCT
+Não/ADV vale/VERB a/DET pena/NOUN
+É/AUX um/DET livro/NOUN chato/ADJ e/CCONJ sem/ADP uma/DET narração/NOUN muito/ADV boa/ADJ ./PUNCT
+Diferente/ADV de/ADP os/DET outrso/PRON de/ADP a/DET série/NOUN ,/PUNCT ele/PRON não/ADV te/PRON prende/VERB a/ADP a/DET estória/NOUN e/CCONJ te/PRON insentiva/VERB a/SCONJ abandonar/VERB o/DET livro/NOUN ./PUNCT
+Eu/PRON só/ADV terminei/VERB de/SCONJ lê/VERB -/PUNCT lo/PRON por/ADP falta/NOUN de/SCONJ o/PRON que/PRON fazer/VERB ./PUNCT
+Falando/VERB Sério/ADV ..../PUNCT
+Esse/DET livro/NOUN é/AUX muito/ADV divertido/ADJ !/PUNCT
+Todo/DET mundo/NOUN já/ADV teve/VERB algum/DET tipo/NOUN de/ADP professor/NOUN igual/ADJ a/ADP Malu/PROPN ./PUNCT
+Vale/VERB a/DET pena/NOUN ler/VERB ./PUNCT
+Adoro/VERB os/DET livros/NOUN de/ADP a/DET Thalita/PROPN ./PUNCT
+Esse/PRON é/AUX o/DET tipo/NOUN de/ADP livro/NOUN que/PRON eu/PRON gosto/VERB pra/SCONJ passar/VERB a/DET madrugada/NOUN lendo/VERB é/AUX divertido/ADJ ,/PUNCT pequeno/ADJ e/CCONJ simples/ADJ ./PUNCT
+Recomendo/VERB !/PUNCT
+muito/ADV bom/ADJ eu/PRON adorei/VERB esse/DET livro/NOUN ,/PUNCT pois/SCONJ ela/PRON conta/VERB a/DET historia/NOUN de/ADP como/ADV foi/AUX sua/DET trajetória/NOUN em/ADP a/DET escola/NOUN até/ADP os/DET 22/NUM anos/NOUN ,/PUNCT é/AUX muito/ADV divertido/ADJ ,/PUNCT é/AUX uma/DET coleção/NOUN ótima/ADJ .../PUNCT
+TEM/VERB AQUELAS/DET PROFESSORAS/NOUN QUE/PRON DÁ/VERB VONTADE/NOUN DE/SCONJ MATAR/VERB ,/PUNCT MAS/CCONJ POR/ADP OUTRO/DET LADO/NOUN TEM/VERB AQUELAS/PRON QUE/PRON A/ADP OS/DET POUCOS/NOUN VAI/VERB TE/PRON CONQUISTANDO/VERB DE/ADP UM/DET JEITO/NOUN QUE/PRON QUANDO/SCONJ AGENTE/PROPN VER/VERB JÁ/ADV É/AUX ESPECIAL/ADJ
+E/CCONJ QUE/SCONJ SEMPRE/ADV VAI/AUX FICAR/VERB EM/ADP O/DET NOSSO/DET CORAÇÃO/NOUN ./PUNCT
+em/ADP o/DET dia/NOUN de/ADP os/DET alunos/NOUN forma/NOUN aaluma/NOUN falou/VERB com/ADP os/DET colegas/NOUN :/PUNCT -minha/DET memoria/NOUN esta/AUX cheia/ADJ dale/NOUN tomara/VERB que/SCONJ o/DET ano/NOUN que/PRON nem/ADV nao/ADV seja/AUX ela/PRON adorei/VERB o/DET livro/NOUN espero/VERB esta/AUX relendo/VERB -/PUNCT o/PRON ./PUNCT

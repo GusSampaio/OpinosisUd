@@ -35,7 +35,7 @@ public class OpinosisMain extends OpinosisSettings {
             CONFIG_TURN_ON_COLLAPSE = Boolean.parseBoolean(property);
             property = this.properties.getProperty("dupelim", "true");
             CONFIG_TURN_ON_DUP_ELIM = Boolean.parseBoolean(property);
-            property = this.properties.getProperty("normalized", "true");
+            property = this.properties.getProperty("normalized", "false");
             CONFIG_NORMALIZE_OVERALLGAIN = Boolean.parseBoolean(property);
             property = this.properties.getProperty("redundancy", "2");
             CONFIG_MIN_REDUNDANCY = Integer.parseInt(property);
@@ -47,11 +47,11 @@ public class OpinosisMain extends OpinosisSettings {
                 CONFIG_PERMISSABLE_GAP = 3;
             property = this.properties.getProperty("attach_after", "2");
             CONFIG_ATTACHMENT_AFTER = Integer.parseInt(property);
-            property = this.properties.getProperty("duplicate_threshold", "0.35");
+            property = this.properties.getProperty("duplicate_threshold", "0.4");
             CONFIG_DUPLICATE_THRESHOLD = Double.parseDouble(property);
             property = this.properties.getProperty("max_summary", "2");
             CONFIG_MAX_SUMMARIES = Integer.parseInt(property);
-            property = this.properties.getProperty("collapse_duplicate_threshold", "0.5");
+            property = this.properties.getProperty("collapse_duplicate_threshold", "0.3");
             CONFIG_DUPLICATE_COLLAPSE_THRESHOLD = Double.parseDouble(property);
             property = this.properties.getProperty("run_id", "1");
             this.strRundId = property;
@@ -113,7 +113,7 @@ public class OpinosisMain extends OpinosisSettings {
         String runOutputPath = String.valueOf(dirOut) + FILE_SEP + this.strRundId + FILE_SEP;
         File f = new File(runOutputPath);
         f.mkdirs();
-        theOutFile = String.valueOf(runOutputPath)+ file.substring(idxStart, idxEnd) + "_" + "." + this.strRundId + ".system";
+        theOutFile = String.valueOf(runOutputPath)+ file.substring(idxStart, idxEnd) + "_" + "." + this.strRundId + ".txt";
         try {
             PrintWriter writer = new PrintWriter(String.valueOf(dirOut) + FILE_SEP + "config." + this.strRundId + ".txt");
             this.properties.list(writer);
@@ -149,12 +149,14 @@ public class OpinosisMain extends OpinosisSettings {
         
         // Cria uma cópia final do grafo para usar na visualização
         final SimpleDirectedWeightedGraph<Node, DefaultWeightedEdge> finalGraph = g;
-        
+
         // Adiciona visualização do grafo
-        SwingUtilities.invokeLater(() -> {
-            GraphViewer viewer = new GraphViewer(finalGraph);
-            viewer.setVisible(true);
-        });
+//        if (fileName.contains("teste")) {
+//            SwingUtilities.invokeLater(() -> {
+//                GraphViewer viewer = new GraphViewer(finalGraph);
+//                viewer.setVisible(true);
+//            });
+//        }
         
         try {
             System.out.println("Started summary generation...");

@@ -1,0 +1,67 @@
+Defeito/NOUN em/ADP menos/ADV de/ADP uma/NUM semana/NOUN :/PUNCT vício/NOUN oculto/VERB de/SCONJ reinicializar/VERB sozinha/ADJ ./PUNCT
+Provavelmente/ADV é/AUX mais/ADV um/NUM modelo/NOUN bomba/ADJ de/ADP a/DET LG/PROPN ,/PUNCT como/ADV foi/AUX o/DET modelo/NOUN Scarlet/PROPN LG4260/PROPN FR/PROPN que/PRON ligava/VERB e/CCONJ desligava/VERB sozinho/ADJ ./PUNCT
+O/PRON que/PRON gostei/VERB :/PUNCT
+Design/NOUN e/CCONJ imagem/NOUN excelentes/ADJ -/PUNCT quando/ADV funciona/VERB a/DET tv./NOUN O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+Em/ADP menos/ADV de/ADP 3/NUM dias/NOUN apresentou/VERB vício/NOUN de/SCONJ reinicializar/VERB a/ADP todo/DET momento/NOUN e/CCONJ sozinha/ADJ ,/PUNCT não/ADV sustentando/VERB a/DET imagem/NOUN seja/AUX por/ADP o/DET medialink/NOUN ,/PUNCT blu-ray/NOUN e/CCONJ decoder/NOUN de/ADP tv/NOUN por/ADP assinatura/NOUN ./PUNCT
+A/DET descrição/NOUN de/ADP tal/DET vício/NOUN já/ADV está/AUX sendo/AUX comum/ADJ em/ADP o/DET meio/NOUN cibernético/ADJ e/CCONJ até/ADV em/ADP outros/DET modelos/NOUN de/ADP a/DET linha/NOUN LM/PROPN ,/PUNCT sobretudo/ADV a/DET LM8600/PROPN ./PUNCT
+Excelente/ADJ preço/NOUN e/CCONJ qualidade/NOUN !/PUNCT
+Muito/ADV boa/ADJ ./PUNCT
+Tudo/PRON de/ADP Positivo/NOUN eu/PRON relatei/VERB em/ADP os/DET Prós/PROPN e/CCONJ de/ADP Negativo/PROPN eu/PRON relatei/VERB em/ADP os/DET Contras/PROPN .../PUNCT
+Achei/VERB aqui/ADV por/ADP R$1000,00/PROPN a/ADP menos/ADV q/SCONJ em/ADP a/DET loja/NOUN física/ADJ ./PUNCT
+O/PRON que/PRON gostei/VERB :/PUNCT
+MARAVILHOSA/ADJ !/PUNCT !/PUNCT !/PUNCT
+A/DET definição/NOUN ,/PUNCT o/DET design/NOUN ,/PUNCT as/DET funções/NOUN ,/PUNCT a/DET conexão/NOUN ,/PUNCT a/DET economia/NOUN de/ADP energia/NOUN ,/PUNCT os/DET controles/NOUN remotos/ADJ ,/PUNCT enfim/ADV ,/PUNCT tudo/PRON !/PUNCT
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+É/AUX só/ADV ter/VERB um/DET cuidado/NOUN :/PUNCT
+Entrar/VERB em/ADP contato/NOUN com/ADP a/DET LG/PROPN (/PUNCT como/SCONJ eu/PRON fiz/VERB )/PUNCT para/SCONJ perguntar/VERB quais/DET os/DET teclados/NOUN compatíveis/ADJ com/ADP a/DET TV/NOUN (p/PUNCT //PUNCT usar/VERB a/DET internet/NOUN )/PUNCT ,/PUNCT pq/SCONJ se/SCONJ vc/PRON comprar/VERB sem/SCONJ verificar/VERB isso/PRON pode/VERB não/ADV sincronizar/VERB ./PUNCT
+São/AUX só/ADV alguns/PRON (/PUNCT poucos/DET modelos/NOUN e/CCONJ poucas/DET marcas/NOUN )/PUNCT ./PUNCT
+Um/DET bom/ADJ televisor/NOUN ,/PUNCT de/ADP custo/NOUN elevado/ADJ ./PUNCT
+Este/DET aparelho/NOUN apresenta/VERB um/DET conjunto/NOUN de/ADP características/NOUN que/PRON atende/VERB a/ADP praticamente/ADV todas/DET as/DET necessidades/NOUN de/ADP um/DET consumidor/NOUN :/PUNCT reprodução/NOUN em/ADP 3D/NOUN ,/PUNCT acesso/NOUN a/ADP a/DET Internet/NOUN com/ADP wi-fi/NOUN interno/ADJ ,/PUNCT reprodução/NOUN de/ADP arquivos/NOUN de/ADP áudio/NOUN e/CCONJ vídeo/NOUN diretamente/ADV de/ADP um/DET HD/NOUN ou/CCONJ pendrive/NOUN etc/ADV ./PUNCT
+Como/ADP pontos/NOUN positivos/ADJ ,/PUNCT destaco/VERB :/PUNCT 1-/NUM Todas/DET as/DET funções/NOUN são/AUX executadas/VERB sem/ADP problemas/NOUN ,/PUNCT particularmente/ADV a/DET reprodução/NOUN de/ADP arquivos/NOUN MKV/PROPN em/ADP 3D/NOUN com/ADP legentas/NOUN convencionais/ADJ (/PUNCT srt/NOUN )/PUNCT ,/PUNCT sem/ADP necessidade/NOUN de/ADP conversão/NOUN ./PUNCT
+2/NUM -/PUNCT O/DET som/NOUN tem/VERB boa/ADJ potência/NOUN e/CCONJ clareza/NOUN ./PUNCT
+3/NUM -/PUNCT A/DET imagem/NOUN é/AUX nítida/ADJ ,/PUNCT como/ADV se/PRON espera/VERB de/ADP um/DET televisor/NOUN full/ADJ HD/NOUN ./PUNCT
+4/NUM -/PUNCT O/DET wi-fi/NOUN é/AUX fácil/ADJ de/SCONJ configurar/VERB ,/PUNCT desde/SCONJ que/SCONJ a/DET senha/NOUN de/ADP o/DET roteador/NOUN seja/AUX curta/ADJ (/PUNCT menos/ADV de/ADP 32/NUM caracteres/NOUN )/PUNCT ./PUNCT
+5/NUM -/PUNCT Acompanham/VERB dois/NUM controles-remotos/NOUN (/PUNCT convencional/ADJ e/CCONJ magic/ADJ )/PUNCT ,/PUNCT quatro/NUM óculos/NOUN 3D/NUM e/CCONJ dois/NUM para/ADP dual/ADJ player/NOUN (/PUNCT games/NOUN )/PUNCT ./PUNCT
+6/NUM -/PUNCT Quatro/NUM entradas/NOUN HDMI/PROPN e/CCONJ três/NUM USB/PROPN ./PUNCT
+Como/ADP pontos/NOUN negativos/ADJ ,/PUNCT destaco/VERB :/PUNCT 1-/NUM Luminosidade/NOUN de/ADP a/DET tela/NOUN inferior/ADJ a/ADP a/PRON de/ADP o/DET meu/DET televisor/NOUN LG/PROPN LCD/PROPN antigo/ADJ ,/PUNCT mesmo/ADV com/ADP máximo/ADJ brilho/NOUN ./PUNCT
+2-/NUM Desconforto/NOUN visual/ADJ em/ADP algumas/DET cenas/NOUN 3D./NOUN
+3/NUM -/PUNCT Falta/NOUN de/ADP conexões/NOUN analógicas/ADJ (/PUNCT possui/VERB uma/NUM de/ADP vídeo/NOUN composto/VERB e/CCONJ uma/NUM de/ADP vídeo/NOUN componente/ADJ ,/PUNCT mas/CCONJ que/PRON compartilham/VERB a/DET mesma/ADJ entrada/NOUN de/ADP áudio/NOUN ,/PUNCT logo/ADV não/ADV dá/VERB para/SCONJ usar/VERB dois/NUM equipamentos/NOUN analógicos/ADJ em/ADP esta/DET TV/NOUN )/PUNCT ./PUNCT
+4/NUM -/PUNCT A/DET maioria/NOUN de/ADP os/DET aplicativos/NOUN de/ADP internet/PROPN exige/VERB assinatura/NOUN paga/VERB ./PUNCT
+Finalmente/ADV ,/PUNCT devo/VERB dizer/VERB que/SCONJ o/DET televisor/NOUN LG/PROPN Smart/PROPN modelo/NOUN 47LM7600/NUM está/AUX em/ADP uma/DET faixa/NOUN de/ADP preço/NOUN muito/ADV superior/ADJ a/ADP a/PRON de/ADP televisores/NOUN de/ADP outras/DET marcas/NOUN com/ADP as/DET mesmas/ADJ características/NOUN ,/PUNCT logo/ADV recomendo/VERB a/ADP potenciais/ADJ compradores/NOUN uma/DET minuciosa/ADJ pesquisa/NOUN e/CCONJ atenção/NOUN a/ADP a/DET relação/NOUN custo-benefício/NOUN ./PUNCT
+Ótima/ADJ opção/NOUN !/PUNCT
+Ótima/ADJ opção/NOUN pra/SCONJ quem/PRON procura/VERB um/DET produto/NOUN confiável/ADJ e/CCONJ de/ADP excelente/ADJ qualidade/NOUN ./PUNCT
+A/DET vantagem/NOUN de/SCONJ poder/VERB acessar/VERB internet/NOUN e/CCONJ visualizar/VERB vídeos/NOUN por/ADP o/DET YouTube/PROPN ,/PUNCT filmes/NOUN ,/PUNCT shows/NOUN e/CCONJ até/ADV mesmo/ADJ páginas/NOUN é/AUX muito/ADV interessante/ADJ ./PUNCT
+Mas/CCONJ o/DET melhor/NOUN de/ADP tudo/PRON é/AUX poder/VERB usufruir/VERB de/ADP o/DET 3D/NOUN sem/SCONJ precisar/VERB óculos/NOUN especiais/ADJ e/CCONJ caros/ADJ ./PUNCT
+O/PRON que/PRON gostei/VERB :/PUNCT TV/NOUN de/ADP aparencia/NOUN agradável/ADJ por/ADP a/DET pequena/ADJ borda/NOUN e/CCONJ ótimo/ADJ som/NOUN ,/PUNCT tem/VERB a/DET grande/ADJ vantagem/NOUN de/SCONJ não/ADV precisar/VERB óculos/NOUN especiais/ADJ para/ADP efeito/NOUN 3D/NUM ./PUNCT
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+Por/ADP enquanto/ADV nada/PRON contra/ADP ./PUNCT
+SmartTV/PROPN de/ADP a/DET LG/PROPN oferece/VERB cinema/NOUN em/ADP casa/NOUN e/CCONJ reconhecimento/NOUN de/ADP voz/NOUN A/DET TV/NOUN tem/VERB bons/ADJ recursos/NOUN ,/PUNCT com/ADP destaque/NOUN para/ADP o/DET ótimo/ADJ recurso/NOUN de/ADP reconhecimento/NOUN de/ADP voz/NOUN
+O/PRON que/PRON gostei/VERB :/PUNCT
+Qualidade/NOUN de/ADP a/DET imagem/NOUN ;/PUNCT 3D/NOUN passivo/ADJ ;/PUNCT
+Dual/PROPN Play/PROPN ;/PUNCT suporte/NOUN a/ADP diversos/DET formatos/NOUN de/ADP vídeo/NOUN ;/PUNCT controle/NOUN remoto/ADJ de/ADP o/DET tipo/NOUN apontador/ADJ ;/PUNCT reconhecimento/NOUN de/ADP voz/NOUN ;/PUNCT WiDi/PROPN ;/PUNCT belo/ADJ design/NOUN
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+Não/ADV tem/VERB Ginga/PROPN
+Decepção/NOUN em/ADP as/DET avaliações/NOUN ./PUNCT
+Pesquisei/VERB sobre/ADP essa/DET TV/NOUN para/SCONJ compra/VERB la/PRON ,/PUNCT mas/CCONJ após/SCONJ ler/VERB os/DET comentários/NOUN de/ADP pessoas/NOUN que/PRON compraram/VERB ,/PUNCT me/PRON decepcionei/VERB sobre/ADP os/DET problemas/NOUN apresentados/VERB para/ADP essa/DET TV/NOUN ;/PUNCT
+Dificilmente/ADV compraria/VERB por/ADP esses/DET motivos/NOUN ./PUNCT
+Nada/PRON de/ADP mais/ADV Normal/ADJ por/ADP o/DET alto/ADJ preço/NOUN ./PUNCT
+TV/NOUN Excelente/ADJ Marca/NOUN muito/ADV boa/ADJ ,/PUNCT excelente/ADJ acabamento/NOUN ,/PUNCT 4/NUM
+HDMI/PROPN que/PRON facilita/VERB a/DET conexão/NOUN de/ADP equipamentos/NOUN ./PUNCT
+O/PRON que/PRON gostei/VERB :/PUNCT
+Televisão/NOUN de/ADP Marca/NOUN excelente/ADJ com/ADP Designer/PROPN surpreendente/ADJ ./PUNCT
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+Preço/NOUN um/DET pouco/ADV salgado/ADJ ./PUNCT
+TV/NOUN não/ADV liga/VERB Pesquisando/VERB em/ADP a/DET internet/NOUN ,/PUNCT descobri/VERB que/SCONJ se/PRON trata/VERB de/ADP um/DET problema/NOUN que/PRON está/AUX afetando/VERB muitos/DET proprietários/NOUN ./PUNCT
+Vale/VERB a/DET cautela/NOUN em/ADP a/DET compra/NOUN ./PUNCT
+O/PRON que/PRON gostei/VERB :/PUNCT
+Sequer/ADV deu/VERB pra/SCONJ avaliar/VERB ,/PUNCT porém/CCONJ o/DET design/NOUN é/AUX moderno/ADJ e/CCONJ fino/ADJ ./PUNCT
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+A/DET TV/NOUN não/ADV liga/VERB ./PUNCT
+O/DET led/NOUN pisca/VERB duas/NUM vezes/NOUN e/CCONJ apaga/VERB ./PUNCT
+Estou/AUX Satisfeito/ADJ Bom/ADJ a/DET TV/NOUN e/CCONJ completa/ADJ !/PUNCT !/PUNCT !/PUNCT
+Quantidade/NOUN de/ADP entradas/NOUN USB/PROPN e/CCONJ HDMI/PROPN me/PRON atendem/VERB perfeitamente/ADV ./PUNCT
+A/DET qualidade/NOUN cai/VERB bastante/ADV quandoa/DET função/NOUN DUAL/PROPN PLAYER/PROPN e/CCONJ usada/VERB ,/PUNCT mais/ADV de/ADP a/PRON para/SCONJ se/PRON divertir/VERB ./PUNCT
+Os/DET oculos/NOUN são/AUX passivos/ADJ ./PUNCT
+Eu/PRON prefiro/VERB assim/ADV ,/PUNCT não/ADV tive/VERB a/DET oportunidade/NOUN de/SCONJ experimentar/VERB um/DET oculos/NOUN 3D/NUM ativo/ADJ ,/PUNCT mais/ADV creio/VERB que/SCONJ o/DET oculos/NOUN passivo/ADJ não/ADV fique/VERB atras/ADV e/CCONJ vc/PRON não/ADV tem/AUX que/SCONJ ficar/VERB trocando/VERB bateria/NOUN e/CCONJ isso/PRON me/PRON deixa/VERB feliz/ADJ ../PUNCT
+A/DET função/NOUN 2D/NOUN para/ADP 3D/NOUN não/ADV e/CCONJ muito/ADV boa/ADJ mais/ADV acho/VERB que/SCONJ isso/PRON não/ADV e/CCONJ exclusividade/NOUN somente/ADV de/ADP este/DET TV/NOUN acho/VERB que/SCONJ em/ADP geral/NOUN essa/DET função/NOUN não/ADV e/CCONJ muito/ADV boa/ADJ mesmo/ADV ./PUNCT
+Conclusão/NOUN otima/ADJ TV/NOUN valeu/VERB a/DET pena/NOUN ./PUNCT

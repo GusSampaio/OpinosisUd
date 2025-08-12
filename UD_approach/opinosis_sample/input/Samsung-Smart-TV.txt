@@ -1,0 +1,70 @@
+Durabilidade/NOUN 0/NUM
+A/DET TV/NOUN é/AUX maravilhosa/ADJ ,/PUNCT porém/CCONJ queimou/VERB com/ADP menos/ADV de/ADP dois/NUM anos/NOUN de/ADP uso/NOUN e/CCONJ o/DET conserto/NOUN em/ADP a/DET autorizada/VERB fica/VERB o/DET preço/NOUN de/ADP uma/DET nova/ADJ ./PUNCT
+Vale/VERB a/DET Pena/NOUN .../PUNCT Excelante/ADJ aparelho/NOUN de/ADP TV/NOUN com/ADP ótima/ADJ qualidade/NOUN de/ADP imagem/NOUN e/CCONJ recursos/NOUN ./PUNCT
+O/PRON que/PRON gostei/VERB :/PUNCT
+Qualidade/NOUN de/ADP imgem/NOUN ,/PUNCT acesso/NOUN a/ADP internet/NOUN ,/PUNCT interatividade/NOUN com/ADP a/DET TV/NOUN ,/PUNCT custo/NOUN x/ADP benefício/NOUN
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+Manual/NOUN de/ADP instalação/NOUN confuso/ADJ e/CCONJ nem/ADV sempre/ADV apresenta/VERB soluções/NOUN a/ADP dúvidas/NOUN que/PRON surgem/VERB
+Tv/NOUN impressionante/ADJ Ótima/ADJ televisão/NOUN ,/PUNCT ou/CCONJ melhor/ADV ,/PUNCT central/NOUN multimídia/ADJ fiquei/VERB impressionado/ADJ por/ADP a/DET quantidade/NOUN de/ADP recursos/NOUN (/PUNCT Wi-Fi/PROPN ,/PUNCT Aplicativos/PROPN e/CCONJ All/PROPN Share/PROPN )/PUNCT como/SCONJ tenho/VERB um/DET celular/NOUN Samsung/PROPN (/PUNCT Omnia/PROPN W/PROPN )/PUNCT com/ADP Windows/PROPN 7.5/NUM tive/VERB uma/DET interação/NOUN completa/ADJ ./PUNCT
+Como/SCONJ tenho/VERB o/DET hábito/NOUN de/SCONJ fazer/VERB download/NOUN de/ADP filmes/NOUN (/PUNCT avi/NOUN ,/PUNCT mkv/NOUN ,/PUNCT mp4/NOUN )/PUNCT em/ADP a/DET internet/PROPN conseguiu/VERB assistir/VERB todos/PRON e/CCONJ com/ADP legendas/NOUN (/PUNCT */PUNCT ./PUNCT str/NOUN )/PUNCT parabéns/NOUN Samsung/PROPN por/SCONJ fabricar/VERB um/DET equipamento/NOUN de/ADP ótima/ADJ qualidade/NOUN ./PUNCT
+O/PRON que/PRON gostei/VERB :/PUNCT completa/ADJ
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+E/CCONJ uma/DET pena/NOUN não/ADV tem/VERB HD/NOUN interno/ADJ
+Produto/NOUN queimou/VERB a/DET tela/NOUN 1/NUM mês/NOUN após/ADP a/DET garantia/NOUN ./PUNCT
+O/DET produto/NOUN queimou/VERB a/DET tela/NOUN com/ADP 1/NUM ano/NOUN e/CCONJ 1/NUM mês/NOUN ./PUNCT
+O/DET produto/NOUN apresentou/VERB o/DET depois/ADV logo/ADV após/ADP o/DET período/NOUN de/ADP garantia/NOUN ./PUNCT
+A/DET samsung/NOUN não/ADV fez/VERB nenhuma/DET concessão/NOUN ./PUNCT
+A/DET autorizada/VERB samsung/NOUN avaliou/VERB o/DET conserto/NOUN em/ADP torno/NOUN de/ADP 3.600,00/NUM ./PUNCT
+Não/ADV vale/VERB a/DET pena/NOUN o/DET conserto/NOUN ./PUNCT
+Abs/NOUN a/ADP todos/PRON ./PUNCT
+Vale/NOUN de/ADP alerta/NOUN ./PUNCT
+Propaganda/NOUN enganosa/ADJ
+São/AUX 01/NUM :/PUNCT 53/NUM ,/PUNCT acabei/VERB de/SCONJ tentar/VERB comprar/VERB essa/DET tv/NOUN em/ADP o/DET shoptime/NOUN por/ADP o/DET valor/NOUN que/PRON é/AUX informado/VERB por/ADP o/DET BUSCAPE/PROPN de/ADP R$/SYM 3.239,35/NUM em/ADP o/DET boleto/NOUN bancario/ADJ e/CCONJ atendente/NOUN de/ADP o/DET televendas/NOUN me/PRON falou/VERB q/SCONJ não/ADV consegue/VERB me/PRON fazer/VERB por/ADP esse/DET preço/NOUN ./PUNCT
+../PUNCT é/AUX uma/DET piada/NOUN ,/PUNCT não/ADV é/VERB mesmo/ADV ./PUNCT
+O/DET Shoptime/PROPN expõe/VERB um/DET preço/NOUN pra/SCONJ enganar/VERB o/DET cliente/NOUN e/CCONJ em/ADP a/DET hora/NOUN de/ADP a/DET compra/NOUN ,/PUNCT diz/VERB q/SCONJ não/ADV tem/VERB como/ADV fazer/VERB este/DET valor/NOUN ./PUNCT
+Então/ADV não/ADV informe/VERB que/SCONJ o/DET produto/NOUN está/AUX com/ADP 10/NUM %/SYM de/ADP desconto/NOUN em/ADP o/DET boleto/NOUN ./PUNCT
+O/DET NOME/NOUN DE/ADP ISSO/PRON É/AUX PROPAGANDA/NOUN ENGANOSA/ADJ ,/PUNCT VAMOS/AUX TER/VERB MAIS/DET RESPEITO/NOUN POR/ADP O/DET CONSUMIDOR/NOUN !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT !/PUNCT
+!/PUNCT !/PUNCT
+O/PRON que/PRON gostei/VERB :/PUNCT excelente/ADJ
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+Valor/NOUN muito/ADV alto/ADJ
+Comprei/VERB e/CCONJ Não/ADV Recomendo/VERB !/PUNCT
+(/PUNCT Parte5/PROPN )/PUNCT tendo/VERB em/ADP vista/NOUN que/SCONJ a/DET AT/PROPN teve/VERB de/ADP segunda/NOUN a/ADP quinta/NOUN para/SCONJ testar/VERB tudo/PRON !/PUNCT
+Ele/PRON falou/VERB que/SCONJ não/ADV tinha/VERB mas/CCONJ que/SCONJ eu/PRON poderia/VERB tentar/VERB antecipar/VERB ligando/VERB para/ADP a/DET AT/PROPN ./PUNCT
+Depois/ADV de/ADP 50/NUM tentativas/NOUN ,/PUNCT consegui/VERB falar/VERB com/ADP a/DET Elisa/PROPN e/CCONJ a/DET mesma/PRON agendou/VERB a/DET entrega/NOUN para/ADP dia/NOUN 09/Mar/ADJ ?/PUNCT
+Sábado/NOUN .../PUNCT menos/ADV mal/ADV ,/PUNCT mesmo/ADV sabendo/VERB que/SCONJ deveria/VERB ficar/VERB entre/ADP 08/NUM e/CCONJ 14/NUM em/ADP casa/NOUN em/ADP pleno/ADJ sábado/NOUN !/PUNCT
+Por/ADP volta/NOUN de/ADP 11:00/NUM horas/NOUN de/ADP sábado/NOUN ,/PUNCT já/ADV desconfiando/VERB de/ADP o/DET nível/NOUN de/ADP serviço/NOUN de/ADP a/DET AT/PROPN ,/PUNCT resolvi/VERB ligar/VERB e/CCONJ para/ADP minha/DET surpresa/NOUN outra/DET pessoa/NOUN avisou/VERB que/SCONJ a/DET entrega/NOUN não/ADV seria/AUX feita/VERB !/PUNCT
+QUE/ADV ABSURDO/NOUN .../PUNCT marcaram/VERB comigo/PRON ,/PUNCT tive/AUX que/SCONJ ficar/VERB em/ADP casa/NOUN e/CCONJ nada/PRON !/PUNCT
+Ok/ADV ./PUNCT
+A/DET pessoa/NOUN confirmou/VERB que/SCONJ em/ADP a/DET segunda/ADJ a/DET TV/NOUN seria/AUX entregue/VERB sem/ADP falta/NOUN ./PUNCT
+Hoje/ADV é/AUX dia/NOUN 11/03/NUM ?/PUNCT
+Segunda/ADJ ,/PUNCT já/ADV faz/VERB parte/NOUN de/ADP a/DET minha/DET rotina/NOUN ligar/VERB 50/NUM vezes/NOUN em/ADP o/DET fixo/NOUN e/CCONJ mais/ADV algumas/DET vezes/NOUN em/ADP o/DET celular/NOUN (/PUNCT mesmo/ADV desligando/VERB em/ADP a/DET minha/DET cara/NOUN )/PUNCT até/SCONJ conseguir/VERB ./PUNCT
+Atendeu/VERB outra/DET pessoa/NOUN ,/PUNCT passei/VERB o/DET nº/NOUN de/ADP a/DET OS/PROPN ,/PUNCT pediu/VERB para/SCONJ esperar/VERB pq/SCONJ a/DET Elisa/PROPN estava/AUX ocupada/ADJ e/CCONJ simplesmente/ADV desligou/VERB em/ADP a/DET minha/DET cara/NOUN !/PUNCT
+PRONTO/ADJ !/PUNCT
+ACABOU/VERB A/DET PACIÊNCIA./NOUN
+..AGORA/ADV É/AUX ENTRAR/VERB EM/ADP A/DET JUSTIÇA/NOUN !/PUNCT !/PUNCT !/PUNCT !/PUNCT
+MAIS/NOUN UMA/ADP VEZ/NOUN DIGO/VERB
+E/CCONJ REPITO/VERB ,/PUNCT SAMSUNG/PROPN NÃO/ADV TEM/VERB CONTROLE/NOUN NENHUM/DET EM/ADP SEU/DET PÓS/NOUN
+VENDA/NOUN !/PUNCT !/PUNCT !/PUNCT
+A/DET melhor/ADJ tv/NOUN em/ADP a/DET atualidade/NOUN !/PUNCT
+União/NOUN de/ADP tv/NOUN ,/PUNCT com/ADP interatividade/NOUN e/CCONJ internet/NOUN ,/PUNCT a/DET Samsung/PROPN superou/VERB seus/DET concorrentes/NOUN inovando/VERB e/CCONJ trazendo/VERB recursos/NOUN incríveis/ADJ para/ADP uma/DET tv./NOUN A/DET câmera/NOUN embutida/VERB em/ADP a/DET tv/NOUN com/ADP sensor/NOUN de/ADP movimento/NOUN e/CCONJ presença/NOUN funciona/VERB bem/ADV e/CCONJ impressiona/VERB quem/PRON não/ADV conhece/VERB ./PUNCT
+O/DET contorno/NOUN fino/ADJ ressalta/VERB a/DET qualidade/NOUN de/ADP a/DET imagem/NOUN de/ADP a/DET tela/NOUN ./PUNCT
+Os/DET aplicativos/NOUN são/AUX fáceis/ADJ e/CCONJ práticos/ADJ ./PUNCT
+O/PRON que/PRON gostei/VERB :/PUNCT Design/NOUN ,/PUNCT sofisticação/NOUN e/CCONJ modernidade/NOUN ./PUNCT
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+Preço/NOUN alto/ADJ
+Custo/NOUN benefício/NOUN não/ADV compensa/VERB ./PUNCT
+Não/ADV tem/VERB conectividade/NOUN com/ADP celulares/NOUN Galaxy/PROPN ,/PUNCT o/PRON que/PRON é/AUX uma/DET vergonha/NOUN ./PUNCT
+Custo-benefício/NOUN não/ADV compensa/VERB ./PUNCT
+Vale/VERB mais/ADV comprar/VERB uma/DET TV/NOUN de/ADP $2.000/NUM ,/PUNCT que/PRON terá/VERB as/DET mesmas/ADJ funcionalidades/NOUN que/PRON realmente/ADV utilizamos/VERB ./PUNCT
+Aprovadíssimo/ADJ !/PUNCT
+Perfeita/ADJ !/PUNCT
+Ainda/ADV mais/ADV se/PRON tiver/VERB em/ADP conjunto/NOUN com/ADP um/DET Home/PROPN Theater/PROPN Samsung/PROPN como/ADV eu/PRON tenho/VERB !/PUNCT
+O/PRON que/PRON gostei/VERB :/PUNCT
+Interatividade/NOUN total/ADJ e/CCONJ o/DET melhor/NOUN que/PRON pode/VERB existir/VERB hoje/ADV em/ADP matéria/NOUN de/ADP TV/NOUN ./PUNCT
+Só/ADV ter/VERB skype/NOUN integrado/VERB com/ADP a/DET câmera/NOUN e/CCONJ mais/ADV o/DET reconhecimento/NOUN por/ADP voz/NOUN e/CCONJ movimentos/NOUN é/AUX sensacional/ADJ ./PUNCT
+O/PRON que/PRON não/ADV gostei/VERB :/PUNCT
+A/DET câmera/NOUN poderia/VERB ter/VERB movimentação/NOUN horizontal/ADJ de/ADP visão/NOUN e/CCONJ não/ADV só/ADV apenas/ADV vertical/ADJ ./PUNCT
+Isso/PRON limita/VERB um/DET pouco/NOUN o/DET Skype/PROPN ,/PUNCT mas/CCONJ não/ADV é/AUX nada/PRON que/PRON desabone/VERB ./PUNCT
+Não/ADV vale/VERB o/DET preço/NOUN ./PUNCT
+As/DET funções/NOUN interativas/ADJ não/ADV são/AUX boas/ADJ e/CCONJ difíceis/ADJ de/SCONJ configurar/VERB ./PUNCT

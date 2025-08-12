@@ -1,0 +1,69 @@
+Um/DET ótimo/ADJ livro/NOUN ,/PUNCT além/ADV de/ADP ser/AUX um/DET ótimo/ADJ alerta/NOUN para/ADP uma/DET potencial/ADJ distopia/NOUN ,/PUNCT em/ADP contraponto/NOUN a/DET utopia/NOUN tão/ADV sonhada/VERB por/ADP os/DET homens/NOUN de/ADP o/DET medievo/NOUN e/CCONJ início/NOUN de/ADP a/DET modernidade/NOUN ./PUNCT
+O/DET devaneio/NOUN de/ADP uma/DET sociedade/NOUN perfeita/ADJ e/CCONJ fraterna/ADJ ,/PUNCT deu/VERB lugar/NOUN a/ADP a/DET perspectiva/NOUN de/ADP o/DET extremo/ADJ totalitarismo/NOUN ,/PUNCT em/ADP a/DET qual/PRON até/ADV a/DET liberdade/NOUN de/ADP opinião/NOUN ,/PUNCT inclusive/ADV a/DET não/ADV expressada/VERB ,/PUNCT é/AUX perseguido/VERB como/ADP pensamento-crime/NOUN ./PUNCT
+Sabe/VERB -/PUNCT se/PRON muito/ADV bem/ADV que/SCONJ este/DET pessimismo/NOUN vigente/ADJ em/ADP a/DET data/NOUN de/ADP lançamento/NOUN de/ADP o/DET livro/NOUN se/PRON deu/VERB devido/ADV a/ADP a/DET duas/NUM guerras/NOUN mundiais/ADJ ,/PUNCT em/ADP a/DET qual/PRON uma/NOUN a/ADP pouco/NOUN findara/VERB ,/PUNCT ditaduras/NOUN de/ADP Franco/PROPN e/CCONJ Salazar/PROPN em/ADP a/DET península/NOUN ibérica/ADJ ,/PUNCT o/DET fascismo/NOUN pregado/VERB por/ADP Hitler/PROPN e/CCONJ Mussolini/PROPN ,/PUNCT a/DET revolução/NOUN social/ADJ Chinesa/PROPN ,/PUNCT além/ADV de/ADP a/DET malfadada/ADJ traição/NOUN cometida/VERB por/ADP o/DET famigerado/ADJ Joseph/PROPN Stalin/PROPN ./PUNCT
+Prefiro/VERB restringir/VERB meu/DET comentário/NOUN sobre/ADP o/DET livro/NOUN
+A/ADP as/DET breves/ADJ linhas/NOUN acima/ADV ,/PUNCT em/ADP respeito/NOUN a/ADP os/DET futuros/ADJ leitores/NOUN ,/PUNCT mas/CCONJ aconselho/VERB o/DET livro/NOUN tanto/ADV como/ADP uma/DET leitura/NOUN lúdica/ADJ quando/ADV como/ADP um/DET questionamento/NOUN sobre/ADP os/DET limites/NOUN de/ADP a/DET insanidade/NOUN humana/ADJ em/ADP busca/NOUN de/ADP o/DET poder/NOUN ./PUNCT
+O/DET Poder/PROPN por/ADP o/DET Poder/PROPN !/PUNCT
+[/PUNCT 29.07.2010/NUM ]/PUNCT Sabe/VERB quando/ADV você/PRON espera/VERB muito/ADV de/ADP um/DET livro/NOUN ?/PUNCT
+O/DET autor/NOUN é/AUX bom/ADJ ,/PUNCT o/DET livro/NOUN é/AUX famoso/ADJ ,/PUNCT adaptaram/VERB pro/ADP cinema/NOUN ,/PUNCT é/AUX logico/ADJ que/SCONJ é/AUX bom/ADJ ,/PUNCT bem/ADV ,/PUNCT me/PRON enganei/VERB ./PUNCT
+Foi/AUX tãããão/NOUN díficil/ADJ terminei/VERB este/DET livro/NOUN ,/PUNCT e/CCONJ como/SCONJ o/DET DVD/NOUN estava/AUX em/ADP casa/NOUN eu/PRON pensei/VERB vou/AUX assistir/VERB o/DET filme/NOUN pra/SCONJ me/PRON incentivar/VERB a/SCONJ terminar/VERB ,/PUNCT e/CCONJ foi/VERB aí/ADV que/SCONJ a/DET coisa/NOUN piorou/VERB !/PUNCT
+Vi/VERB que/SCONJ o/DET final/NOUN era/AUX horrível/ADJ ./PUNCT
+COMO/ADV TERMINAR/VERB UM/DET LIVRO/NOUN RUIM/ADJ SABENDO/VERB DE/ADP O/DET FINAL/NOUN PÉSSIMO/ADJ ?/PUNCT
+Resposta/NOUN :/PUNCT
+Você/PRON vai/AUX arrastando/VERB ,/PUNCT igual/ADJ lição/NOUN de/ADP casa/NOUN ./PUNCT
+E/CCONJ foi/VERB assim/ADV que/SCONJ o/PRON fiz/VERB ,/PUNCT e/CCONJ terminei/VERB ./PUNCT
+Eu/PRON só/ADV acrescentei/VERB uma/DET estrela/NOUN a/ADP mais/ADV por/ADP a/DET ideia/NOUN ,/PUNCT o/DET mundo/NOUN '/PUNCT Big/PROPN Brother/PROPN '/PUNCT é/AUX fictício/ADJ ,/PUNCT mas/CCONJ não/ADV surreal/ADJ ./PUNCT
+E/CCONJ claro/ADJ ,/PUNCT por/ADP o/DET crédito/NOUN a/ADP a/DET George/PROPN Orwell/PROPN ,/PUNCT o/DET livro/NOUN de/ADP ele/PRON foi/AUX imortalizado/VERB ,/PUNCT não/ADV tem/VERB como/ADV eu/PRON ignorá/VERB -/PUNCT lo/PRON (/PUNCT totalmente/ADV )/PUNCT ./PUNCT
+E/CCONJ o/DET começo/NOUN é/AUX ótimo/ADJ ,/PUNCT acho/VERB que/SCONJ isso/PRON fez/VERB eu/PRON esperar/VERB ainda/ADV mais/ADV de/ADP o/DET livro/NOUN ,/PUNCT Orwell/PROPN ambientalizou/VERB o/DET mundo/NOUN antes/ADV de/ADP conta/VERB a/DET história/NOUN ./PUNCT
+Minha/DET dica/NOUN :/PUNCT
+Leia/VERB até/ADV começar/VERB as/DET falas/NOUN ./PUNCT
+O/DET livro/NOUN só/ADV bom/ADJ aí/ADV ./PUNCT
+Só/ADV assim/ADV é/AUX possível/ADJ dar/VERB 5/NUM estrelas/NOUN ./PUNCT
+Conceito/NOUN Big/PROPN Brother/PROPN
+O/DET livro/NOUN talvez/ADV desanime/VERB leitores/NOUN mais/ADV afoito/ADJ em/ADP suas/DET primeiras/ADJ páginas/NOUN ./PUNCT
+A/DET história/NOUN não/ADV tem/VERB pressa/NOUN para/SCONJ acontecer/VERB e/CCONJ a/DET ação/NOUN só/ADV começa/VERB mesmo/ADV de/ADP a/DET metade/NOUN para/ADP o/DET final/NOUN ./PUNCT
+Em/ADP o/DET entanto/NOUN o/DET seu/DET conteúdo/NOUN é/AUX extremamente/ADV reflexivo/ADJ ./PUNCT
+A/DET discussão/NOUN sobre/ADP o/DET controle/NOUN de/ADP o/DET governo/NOUN sob/ADP o/DET livre/ADJ abítrio/NOUN é/AUX ímpar/ADJ e/CCONJ merece/VERB uma/DET atenção/NOUN especial/ADJ ./PUNCT
+Uma/DET pena/NOUN que/SCONJ uma/DET obra/NOUN de/ADP qualidade/NOUN indiscutível/ADJ tenha/AUX inspirado/VERB um/DET reality/X show/X de/ADP gosto/NOUN duvidoso/ADJ ./PUNCT
+Tem/VERB uma/DET grande/ADJ história/NOUN ,/PUNCT mas/CCONJ infelizmente/ADV eu/PRON não/ADV tenho/VERB saco/NOUN pro/ADP estilo/NOUN de/SCONJ escrever/VERB de/ADP o/DET autor/NOUN
+Li/VERB esse/DET livro/NOUN em/ADP o/DET meu/DET tempo/NOUN de/ADP colégio/NOUN e/CCONJ até/ADP hoje/ADV me/PRON lembro/VERB como/ADV em/ADP o/DET começo/NOUN foi/AUX muito/ADV difícil/ADJ a/DET leitura/NOUN ./PUNCT
+Em/ADP a/DET época/NOUN meu/DET vocabuláro/NOUN ainda/ADV não/ADV era/AUX essas/DET coisas/NOUN ,/PUNCT então/ADV lia/VERB com/ADP um/DET dicionário/NOUN a/SCONJ tira/VERB colo/NOUN ./PUNCT
+Em/ADP a/DET verdade/NOUN em/ADP o/DET começo/NOUN estava/AUX achando/VERB insuportável/ADJ o/DET livro/NOUN ./PUNCT
+Depois/ADV simplesmente/ADV fui/AUX me/PRON encantando/VERB com/ADP o/DET livro/NOUN ./PUNCT
+E/CCONJ acabei/VERB devorando/VERB o/DET restante/NOUN de/ADP o/DET livro/NOUN ./PUNCT
+Achei/VERB uma/DET visão/NOUN meio/ADV louca/ADJ de/ADP um/DET mundo/NOUN ,/PUNCT em/ADP a/DET época/NOUN de/ADP o/DET futuro/NOUN ./PUNCT
+Li/VERB o/DET livro/NOUN em/ADP o/DET próprio/DET 1984/NUM ,/PUNCT e/CCONJ depois/ADV descobri/VERB que/SCONJ o/DET livro/NOUN fora/AUX escrito/VERB em/ADP 1948/NUM ./PUNCT
+Entre/ADP teletelas/NOUN ,/PUNCT O/DET Grande/PROPN Irmão/PROPN e/CCONJ sua/DET filosofia/NOUN ,/PUNCT achei/VERB o/DET livro/NOUN maravilhoso/ADJ ./PUNCT
+Vale/VERB a/DET leitura/NOUN e/CCONJ vale/VERB a/DET re-leitura/NOUN ./PUNCT
+Minha/DET parte/NOUN favorita/ADJ de/ADP o/DET livro/NOUN Era/AUX possível/ADJ ,/PUNCT sem/ADP dúvida/NOUN ,/PUNCT imaginar/VERB uma/DET sociedade/NOUN em/ADP que/PRON a/DET riquesa/NOUN ,/PUNCT em/ADP o/DET sentido/NOUN de/ADP posse/NOUN pessoal/ADJ de/ADP bens/NOUN e/CCONJ luxos/NOUN ,/PUNCT fosse/AUX igualmente/ADV distribuída/VERB ,/PUNCT ficando/VERB o/DET poder/NOUN em/ADP as/DET mãos/NOUN de/ADP uma/DET pequena/ADJ casta/NOUN privilegiada/VERB ./PUNCT
+Mas/CCONJ em/ADP a/DET prática/NOUN tal/DET sociedade/NOUN não/ADV poderia/VERB ser/AUX estável/ADJ ./PUNCT
+Pois/SCONJ se/SCONJ o/DET lazer/NOUN e/CCONJ a/DET segurança/NOUN fossem/AUX por/ADP todos/PRON fruídos/VERB ,/PUNCT a/DET grande/ADJ massa/NOUN de/ADP seres/NOUN humanos/ADJ normalmente/ADV estupidificada/VERB por/ADP a/DET miséria/NOUN aprenderia/VERB a/SCONJ ler/VERB e/CCONJ aprenderia/VERB a/SCONJ pensar/VERB por/ADP si/PRON ;/PUNCT e/CCONJ uma/DET vez/NOUN que/SCONJ isso/PRON acontecesse/VERB ,/PUNCT mais/ADV cedo/ADV ou/CCONJ mais/ADV tarde/ADV veria/VERB que/SCONJ não/ADV tinha/VERB função/NOUN a/DET minoria/NOUN privilegiada/VERB ,/PUNCT e/CCONJ acabaria/VERB com/ADP ela/PRON ./PUNCT
+Que/DET ódio/NOUN !/PUNCT
+Esse/DET livro/NOUN exagera/VERB em/ADP todo/DET aspecto/NOUN psicológico/ADJ e/CCONJ inova/VERB quanto/ADV a/ADP o/DET auto-engano/NOUN de/ADP forma/NOUN incrível/ADJ !/PUNCT
+E/CCONJ em/ADP o/DET final/NOUN você/PRON ficará/VERB com/ADP ódio/NOUN ,/PUNCT pode/VERB ter/VERB certeza/NOUN !/PUNCT
+1984/NUM
+Três/NUM capítulos/NOUN ./PUNCT
+O/DET primeiro/ADJ é/AUX enfadonho/ADJ ,/PUNCT apenas/ADV uma/DET longa/ADJ e/CCONJ detalhada/ADJ descrição/NOUN de/ADP a/DET realidade/NOUN em/ADP a/DET qual/PRON o/DET personagem/NOUN está/AUX inserido/ADJ e/CCONJ algo/PRON sobre/ADP ele/PRON ./PUNCT
+Porém/ADV ,/PUNCT é/AUX o/PRON que/PRON se/PRON pode/VERB chamar/VERB de/ADP um/DET mal/NOUN necessário/ADJ ,/PUNCT já/SCONJ que/SCONJ sem/ADP essa/DET base/NOUN os/DET capítulos/NOUN seguintes/ADJ fariam/VERB menos/DET sentido/NOUN ./PUNCT
+Em/ADP o/DET segundo/ADJ a/DET história/NOUN fica/VERB interessante/ADJ ,/PUNCT as/DET coisas/NOUN começam/VERB a/SCONJ acontecer/VERB e/CCONJ prende/VERB a/DET atenção/NOUN afinal/ADV ./PUNCT
+O/DET último/ADJ mantêm/VERB o/DET ritmo/NOUN e/CCONJ oferece/VERB ,/PUNCT de/ADP quebra/NOUN ,/PUNCT um/DET pequeno/ADJ curso/NOUN de/SCONJ como/ADV extrair/VERB informações/NOUN de/ADP pessoas/NOUN ,/PUNCT além/ADV de/ADP como/SCONJ doutrina/VERB -/PUNCT las/PRON definitivamente/ADV ,/PUNCT lamentável/ADJ tê/VERB -/PUNCT lo/PRON lido/VERB somente/ADV agora/ADV ./PUNCT
+A/DET história/NOUN em/ADP si/PRON é/AUX interessante/ADJ ./PUNCT
+A/DET sensação/NOUN de/SCONJ não/ADV ter/VERB saída/NOUN ,/PUNCT de/ADP falta/NOUN de/ADP liberdade/NOUN ,/PUNCT o/DET controle/NOUN ,/PUNCT quase/ADV claustrofobia/NOUN ./PUNCT
+Em/ADP vários/DET pontos/NOUN chega/VERB a/SCONJ ser/AUX um/DET relato/NOUN de/ADP a/DET realidade/NOUN vivida/VERB em/ADP os/DET dias/NOUN atuais/ADJ ,/PUNCT em/ADP menor/ADJ ou/CCONJ maior/ADJ grau/NOUN ,/PUNCT em/ADP o/DET mundo/NOUN todo/DET ./PUNCT
+Bom/ADJ livro/NOUN ./PUNCT
+O/DET Grande/PROPN Irmão/PROPN está/AUX de/ADP olho/NOUN em/ADP você/PRON ./PUNCT
+Contra-indicado/VERB para/ADP os/DET mais/ADV impressionáveis/ADJ ./PUNCT
+Muitos/DET anos/NOUN se/PRON passarão/VERB ,/PUNCT livros/NOUN e/CCONJ mais/DET livros/NOUN serão/AUX lidos/VERB e/CCONJ não/ADV me/PRON esquecerei/VERB de/ADP esse/PRON ./PUNCT
+Contém/VERB medo/NOUN e/CCONJ suspense/NOUN desde/ADP a/DET primeira/ADJ linha/NOUN ./PUNCT
+Winston/PROPN Smith/PROPN vegetou/VERB (/PUNCT pois/SCONJ em/ADP Oceânia/PROPN não/ADV se/PRON vivia/VERB )/PUNCT perigosamente/ADV desde/ADP o/DET início/NOUN e/CCONJ me/PRON perguntava/VERB o/DET tempo/NOUN todo/DET por/ADP quanto/DET tempo/NOUN seria/AUX possível/ADJ ./PUNCT
+Guerra/NOUN é/AUX paz/NOUN ./PUNCT
+Liberdade/NOUN é/AUX escravidão/NOUN ./PUNCT
+Ignorância/NOUN é/AUX força/NOUN ./PUNCT
+E/CCONJ definitivamente/ADV ,/PUNCT 2/NUM +/SYM 2/NUM =/PUNCT 5/NUM
+Dou/VERB meus/DET parabéns/NOUN para/SCONJ quem/PRON consegue/VERB ler/VERB mais/ADV de/ADP um/NUM capítulo/NOUN de/ADP 1984/NUM de/ADP uma/DET sentada/NOUN só/ADV ./PUNCT
+Porque/SCONJ apesar/ADV de/ADP ser/AUX um/DET livro/NOUN com/ADP uma/DET história/NOUN muito/ADV boa/ADJ e/CCONJ interessante/ADJ ,/PUNCT ele/PRON é/AUX extremamente/ADV monótono/ADJ ./PUNCT
+A/DET verdade/NOUN é/VERB que/SCONJ 1984/NUM não/ADV tem/VERB uma/DET história/NOUN pra/SCONJ contar/VERB ./PUNCT
+A/ADP o/DET contrário/NOUN de/ADP Laranja/PROPN Mecânica/PROPN ,/PUNCT onde/PRON o/DET personagem/NOUN principal/ADJ em/SCONJ os/PRON mostra/VERB um/DET mundo/NOUN decadente/ADJ através/ADV de/ADP sua/DET história/NOUN de/ADP adolescente/NOUN rebelde/ADJ sem/ADP causa/NOUN que/PRON é/AUX preso/VERB ,/PUNCT aqui/ADV temos/VERB um/DET personagem/NOUN principal/ADJ que/PRON poderia/VERB ser/AUX qualquer/DET um/NUM ,/PUNCT afinal/ADV o/PRON que/PRON importa/VERB é/AUX a/DET situação/NOUN de/ADP a/DET humanidade/NOUN vivendo/VERB em/ADP um/DET mundo/NOUN totalitarista/ADJ ./PUNCT
+E/CCONJ é/AUX apenas/ADV isso/PRON que/PRON o/DET livro/NOUN em/SCONJ os/PRON mostra/VERB ,/PUNCT como/ADV o/DET mundo/NOUN vai/AUX ser/AUX se/PRON continuar/VERB indo/VERB por/ADP o/DET caminho/NOUN que/PRON vem/VERB seguindo/VERB ,/PUNCT ou/CCONJ ia/AUX seguindo/VERB antes/ADV de/ADP 1984/NUM ./PUNCT
+hehehehe/X
+Outra/DET coisa/NOUN também/ADV diferente/ADJ de/ADP seu/DET livro-irmão/NOUN é/VERB que/SCONJ em/ADP Laranja/PROPN Mecânica/PROPN ,/PUNCT todo/DET o/DET linguajar/NOUN usado/VERB por/ADP os/DET jovens/NOUN é/AUX compreensível/ADJ mesmo/ADV sem/ADP a/DET ajuda/NOUN de/ADP o/DET glossário/NOUN embutido/VERB em/ADP a/DET versão/NOUN nacional/ADJ ,/PUNCT enquanto/ADV que/SCONJ a/DET novilíngua/NOUN é/AUX incompreensível/ADJ ,/PUNCT se/SCONJ bem/ADV que/SCONJ pensando/VERB agora/ADV ,/PUNCT acho/VERB que/SCONJ é/AUX justamente/ADV o/DET objetivo/NOUN de/ADP o/DET autor/NOUN ./PUNCT

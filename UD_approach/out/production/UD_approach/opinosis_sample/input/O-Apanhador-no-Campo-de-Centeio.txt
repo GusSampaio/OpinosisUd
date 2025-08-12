@@ -1,0 +1,50 @@
+Um/DET lixo/NOUN ,/PUNCT uma/DET verdadeira/ADJ porcaria/NOUN .../PUNCT nunca/ADV li/VERB algo/PRON tão/ADV cretino/ADJ em/ADP a/DET minha/DET vida/NOUN e/CCONJ não/ADV me/PRON conformo/VERB de/SCONJ saber/VERB que/SCONJ as/DET pessoas/NOUN o/PRON consideram/VERB o/DET livro/NOUN de/ADP suas/DET vidas/NOUN ./PUNCT
+Não/ADV recomendo/VERB !/PUNCT
+O/DET livro/NOUN é/AUX idiota/ADJ ,/PUNCT repetitivo/ADJ ,/PUNCT cansativo/ADJ e/CCONJ irritante/ADJ ,/PUNCT tanto/ADV quanto/ADV seu/DET narrador/NOUN ./PUNCT
+Lixo/NOUN de/ADP livro/NOUN ./PUNCT
+Decepcionante/ADJ Li/PROPN O/DET apanhador/PROPN em/ADP o/DET campo/NOUN de/ADP centeio/NOUN por/ADP três/NUM motivos/NOUN :/PUNCT -/PUNCT O/DET título/NOUN era/AUX sugestivo/ADJ ;/PUNCT -/PUNCT Foi/AUX o/DET livro/NOUN que/PRON John/PROPN Lennon/PROPN autografou/VERB a/ADP pedido/NOUN de/ADP Mark/PROPN Chapman/PROPN ,/PUNCT que/PRON logo/ADV depois/ADV o/PRON mataria/VERB e/CCONJ que/PRON ,/PUNCT por/ADP isso/PRON mesmo/ADJ ,/PUNCT fez/VERB com/SCONJ que/SCONJ o/DET livro/NOUN ganhasse/VERB notoriedade/NOUN e/CCONJ fosse/AUX motivo/NOUN para/ADP estudos/NOUN posteriores/ADJ ;/PUNCT e/CCONJ -/PUNCT O/DET bem-sucedido/ADJ publicitário/NOUN brasileiro/ADJ Washington/PROPN Olivetto/PROPN sempre/ADV tem/VERB em/ADP sua/DET casa/NOUN dezenas/DET de/ADP exemplares/NOUN para/SCONJ oferecer/VERB a/ADP amigos/NOUN e/CCONJ conhecidos/NOUN ./PUNCT
+Porém/ADV ,/PUNCT o/DET livro/NOUN é/AUX a/DET descrição/NOUN de/ADP os/DET pensamentos/NOUN e/CCONJ aventuras/NOUN ,/PUNCT em/ADP Nova/PROPN Iorque/PROPN ,/PUNCT de/ADP um/DET adolescente/NOUN fútil/ADJ e/CCONJ fracassado/ADJ ,/PUNCT cujo/DET conteúdo/NOUN de/ADP o/DET livro/NOUN nada/PRON acrescenta/VERB a/ADP o/DET leitor/NOUN ./PUNCT
+Decepcionante/ADJ ,/PUNCT tempo/NOUN perdido/VERB !/PUNCT
+Eu/PRON poderia/VERB e/CCONJ devria/VERB ter/AUX lido/VERB coisa/NOUN melhor/ADJ ./PUNCT
+Dizem/VERB que/SCONJ o/DET autor/NOUN recusou/VERB -/PUNCT se/PRON a/SCONJ estampar/VERB sua/DET foto/NOUN em/ADP o/DET livro/NOUN .../PUNCT
+Até/ADV sei/VERB o/DET porquê/NOUN :/PUNCT medo/NOUN de/SCONJ ser/AUX reconhecido/VERB e/CCONJ de/SCONJ levar/VERB um/DET cascudo/NOUN de/ADP seus/DET leitores/NOUN !/PUNCT
+Até/ADP hoje/ADV não/ADV compreendo/VERB porque/SCONJ esse/DET livro/NOUN é/AUX considerado/VERB um/DET clássico/ADJ de/ADP a/DET literatura/NOUN ./PUNCT
+A/SCONJ começar/VERB por/ADP o/DET título/NOUN de/ADP o/DET livro/NOUN que/PRON nada/PRON tem/VERB a/SCONJ ver/VERB com/ADP a/DET história/NOUN de/ADP o/DET livro/NOUN ./PUNCT
+O/DET apanhador/NOUN em/ADP o/DET campo/NOUN de/ADP centeio/NOUN é/AUX o/DET nome/NOUN de/ADP uma/DET música/NOUN que/PRON um/DET figurante/NOUN (/PUNCT isso/PRON mesmo/ADV ,/PUNCT um/DET menininho/NOUN que/PRON aparece/VERB em/ADP um/DET parágrafo/NOUN perdido/VERB de/ADP o/DET livro/NOUN )/PUNCT passa/VERB assoviando/VERB em/ADP a/DET frente/NOUN de/ADP o/DET personagem/NOUN principal/ADJ ./PUNCT
+Então/ADV ele/PRON cita/VERB que/SCONJ o/DET menino/NOUN está/AUX assoviando/VERB a/DET música/NOUN tal/ADV e/CCONJ é/SCONJ aí/ADV basicamente/ADV que/SCONJ se/PRON menciona/VERB o/PRON que/PRON se/PRON dá/VERB título/NOUN a/ADP o/DET livro/NOUN ./PUNCT
+O/DET livro/NOUN conta/VERB a/DET história/NOUN de/ADP um/DET adolescente/NOUN de/ADP o/DET estilo/NOUN rebelde/ADJ sem/ADP causa/NOUN (/PUNCT literalmente/ADV )/PUNCT que/PRON decide/VERB parar/VERB de/SCONJ estudar/VERB porque/SCONJ não/ADV gosta/VERB de/SCONJ estudar/VERB ,/PUNCT também/ADV não/ADV gosta/VERB de/ADP ninguém/PRON e/CCONJ se/PRON relaciona/VERB mal/ADV com/ADP a/DET família/NOUN ./PUNCT
+Então/ADV ele/PRON abandona/VERB o/DET colégio/NOUN interno/ADJ e/CCONJ sai/VERB vagando/VERB por/ADP aí/ADV ./PUNCT
+Ok/INTJ ,/PUNCT e/CCONJ qual/PRON é/AUX a/DET história/NOUN mesmo/ADV ?/PUNCT
+Qual/DET o/DET objetivo/NOUN de/ADP o/DET peronagem/NOUN ?/PUNCT
+Pois/ADV é/AUX ../PUNCT nenhum/PRON ./PUNCT
+Vadiar/VERB ,/PUNCT somente/ADV ./PUNCT
+Pois/ADV é/AUX ../PUNCT belo/ADJ exemplo/NOUN para/ADP a/DET juventude/NOUN esse/DET clássico/ADJ de/ADP a/DET literatura/NOUN ./PUNCT
+Muito/ADV hype/ADJ por/ADP nada/PRON .../PUNCT
+Todo/DET mundo/NOUN fala/VERB que/SCONJ esse/DET livro/NOUN é/AUX foda/NOUN ,/PUNCT mas/CCONJ em/ADP a/DET verdade/NOUN ele/PRON é/AUX um/DET lixo/NOUN ./PUNCT
+Realmente/ADV a/DET única/ADJ passagem/NOUN mais/NOUN ou/ADP menos/NOUN bonita/ADJ de/ADP o/DET livro/NOUN é/AUX o/DET sonho/NOUN de/ADP o/DET moleque/NOUN pegando/VERB uma/DET bola/NOUN de/ADP baseball/NOUN em/ADP o/DET campo/NOUN de/ADP centeio/NOUN que/PRON dá/VERB pra/ADP um/DET abismo/NOUN ./PUNCT
+O/DET resto/NOUN ,/PUNCT é/AUX sofrível/ADJ enquanto/SCONJ literatura/NOUN ./PUNCT
+Não/ADV sei/VERB como/ADV uma/DET porcaria/NOUN de/ADP essa/PRON conseguiu/VERB ser/AUX consagrada/VERB ./PUNCT
+Se/SCONJ bem/ADV que/SCONJ .../PUNCT
+Tem/VERB tanta/DET porcaria/NOUN consagrada/VERB por/ADP aí/ADV de/ADP qualquer/DET jeito/NOUN ../PUNCT
+Um/DET livro/NOUN revolucionário/ADJ ,/PUNCT para/ADP a/DET época/NOUN em/ADP que/PRON foi/AUX lançado/VERB
+Hoje/ADV em/ADP dia/NOUN é/AUX só/ADV mais/ADV um/NUM livro/NOUN ./PUNCT
+Já/ADV dizia/VERB a/DET expressão/NOUN falada/VERB por/ADP Holden/PROPN Caulfield/PROPN :/PUNCT
+Esse/DET livro/NOUN é/AUX 100/NUM %/SYM ./PUNCT
+Acho/VERB que/SCONJ esse/PRON eh/AUX o/DET livro/NOUN mais/ADV chato/ADJ que/SCONJ ja/ADV li/VERB em/ADP a/DET vida/NOUN ./PUNCT
+A/DET minha/DET leitura/NOUN foi/AUX mais/ADV um/NUM desafio/NOUN para/SCONJ chegar/VERB ate/ADP o/DET final/NOUN ./PUNCT
+Quanto/ADV mais/ADV eu/PRON lia/VERB ,/PUNCT mais/ADV desejava/VERB acontecesse/VERB uma/DET desgraca/NOUN a/ADP o/DET personagem/NOUN e/CCONJ acabasse/VERB logo/ADV com/ADP a/DET historia/NOUN ./PUNCT
+Um/DET personagem/NOUN completamente/ADV desagradavel/ADJ ,/PUNCT em/ADP a/DET minha/DET humilde/ADJ opiniao/NOUN ./PUNCT
+Faltou/VERB o/DET clímax/NOUN ./PUNCT
+É/AUX um/DET livro/NOUN bem/ADV escrito/VERB ,/PUNCT mas/CCONJ sempre/ADV parece/VERB que/SCONJ algo/PRON está/AUX prestes/ADJ a/SCONJ acontecer/VERB e/CCONJ NADA/PRON acontece/VERB ./PUNCT
+Me/PRON frustrei/VERB ./PUNCT
+O/DET livro/NOUN ,/PUNCT de/ADP início/NOUN ,/PUNCT não/ADV empolga/VERB muito/ADV ./PUNCT
+Parece/VERB que/SCONJ a/DET história/NOUN não/ADV tem/VERB nenhuma/DET intenção/NOUN específica/ADJ ,/PUNCT e/CCONJ a/DET narração/NOUN é/AUX feita/VERB de/ADP maneira/NOUN informal/ADJ demais/ADV ,/PUNCT com/ADP uso/NOUN repetitivo/ADJ de/ADP gírias/NOUN e/CCONJ palavras/NOUN de/ADP baixo/ADJ calão/NOUN ./PUNCT
+Mas/CCONJ a/ADP a/DET medida/ADP que/NOUN a/DET história/NOUN vai/AUX se/PRON passando/VERB ,/PUNCT você/PRON se/PRON adapta/VERB mais/ADV a/ADP o/DET personagem/NOUN ,/PUNCT a/ADP a/DET situação/NOUN ,/PUNCT passa/VERB a/SCONJ entender/VERB melhor/ADV o/DET mundo/NOUN em/ADP que/PRON se/PRON passa/VERB a/DET história/NOUN e/CCONJ a/DET possível/ADJ intencionalidade/NOUN de/ADP o/DET autor/NOUN ./PUNCT
+O/DET livro/NOUN é/AUX de/ADP uma/DET leitura/NOUN muito/ADV fácil/ADJ e/CCONJ rápida/ADJ ,/PUNCT acabei/VERB em/ADP três/NUM dias/NOUN ./PUNCT
+E/CCONJ agora/ADV entendi/VERB porque/SCONJ ele/PRON é/AUX um/DET clássico/ADJ ./PUNCT
+Ele/PRON mostra/VERB de/ADP forma/NOUN clara/ADJ ,/PUNCT simples/ADJ e/CCONJ divertida/ADJ os/DET pensamentos/NOUN ,/PUNCT conflitos/NOUN e/CCONJ dilemas/NOUN de/ADP um/DET adolescente/NOUN aparentemente/ADV revoltado/VERB com/ADP o/DET mundo/NOUN ,/PUNCT todas/DET as/DET suas/DET qualidades/NOUN e/CCONJ defeitos/NOUN ./PUNCT
+Um/DET livro/NOUN que/PRON agradará/VERB muitos/DET adolescentes/NOUN ,/PUNCT que/PRON irão/AUX se/PRON identificar/VERB com/ADP o/DET protagonista/NOUN ,/PUNCT Holden/PROPN Caulfield/PROPN ,/PUNCT e/CCONJ também/ADV adultos/NOUN ,/PUNCT que/PRON relembrarão/VERB essa/DET fase/NOUN de/ADP a/DET vida/NOUN ou/CCONJ a/PRON entenderão/VERB um/DET pouco/ADV melhor/ADV ./PUNCT
+Recomendado/VERB !/PUNCT
+Perfeito/ADJ !/PUNCT
+amei/VERB esse/DET livro/NOUN ,/PUNCT ja/ADV li/VERB umas/DET 3/NUM vezes/NOUN ,/PUNCT e/CCONJ toda/DET vez/NOUN q/SCONJ leio/NOUN falto/VERB morrer/VERB de/SCONJ tanto/DET rir/VERB ,/PUNCT elle/PRON mto/AUX engraçado/ADJ ./PUNCT
+recomento/NOUN pra/ADP todos/PRON ,/PUNCT pq/SCONJ todo/DET mundo/NOUN tem/VERB um/DET pouco/NOUN de/ADP Holden/PROPN (/PUNCT personagem/NOUN principal/ADJ de/ADP o/DET livro/NOUN )/PUNCT ./PUNCT

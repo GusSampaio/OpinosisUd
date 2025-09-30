@@ -5,7 +5,9 @@ This repository contains the experiments described in the paper:
 **Multidocument Automatic Summarization for Portuguese: Comparing a Graph-Based Method with a Large Language Model**
 
 Authors: *Gustavo S. Lima, Davi F. F. da Silva and Thiago A. S. Pardo*
+
 Institution: *University of São Paulo*
+
 Date: August 2025
 
 ---

@@ -108,8 +108,10 @@ Evaluation plots and detailed data are available in the `figures/` folder.
 ##  Contact
 
 Questions, suggestions or contributions are welcome!
-Please contact: *\[[your-email@example.com](mailto:your-email@example.com)]*
+Please contact: *\[[gustavo.sampaio@usp.br](mailto:gustavo.sampaio@usp.br)]*
 Or open an *Issue* on this repository.
+
+
 
 ## ⚙️ Useful Java Commands for Compilation and Packaging
 
